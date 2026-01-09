@@ -55,31 +55,6 @@ Example: `api/wards/267.json` (Ba Đình)
 
 ## 💻 Cách Sử Dụng
 
-### JavaScript/TypeScript
-
-```javascript
-// Fetch dữ liệu từ GitHub
-const OLD_TO_NEW_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/old_to_new.json';
-const NEW_TO_OLD_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/new_to_old.json';
-
-// Lấy dữ liệu cũ → mới
-async function getOldToNew() {
-  const response = await fetch(OLD_TO_NEW_URL);
-  return await response.json();
-}
-
-// Lấy dữ liệu mới → cũ
-async function getNewToOld() {
-  const response = await fetch(NEW_TO_OLD_URL);
-  return await response.json();
-}
-
-// Ví dụ: Tra cứu xã cũ
-const data = await getOldToNew();
-const ward = data.wards['65803'];
-console.log(`${ward.old_ward_name} → ${ward.new_ward_name}`);
-```
-
 ### API-Style for Cascading Dropdowns (Recommended)
 
 ```javascript
