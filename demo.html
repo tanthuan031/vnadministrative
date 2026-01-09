@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietnam Administrative Data API Demo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+        
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        select:disabled {
+            background: #f5f5f5;
+            cursor: not-allowed;
+        }
+        
+        .result {
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 15px;
+        }
+        
+        .result h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+        
+        .result p {
+            margin: 5px 0;
+            color: #555;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            color: #667eea;
+        }
+        
+        .api-info {
+            background: #e8eaf6;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .api-info code {
+            background: white;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #d63384;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🇻🇳 Vietnam Administrative Data API</h1>
+            <p>Demo sử dụng dữ liệu hành chính từ GitHub</p>
+        </div>
+
+        <div class="grid">
+            <!-- CẤU TRÚC CŨ: Tỉnh - Quận - Xã -->
+            <div class="card">
+                <h2>📍 Cấu Trúc Cũ (3 Cấp)</h2>
+                <div class="api-info">
+                    <strong>API:</strong> <code>old_to_new.json</code>
+                </div>
+                
+                <div class="form-group">
+                    <label for="old-province">Tỉnh/Thành Phố</label>
+                    <select id="old-province">
+                        <option value="">-- Chọn tỉnh/thành --</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="old-district">Quận/Huyện</label>
+                    <select id="old-district" disabled>
+                        <option value="">-- Chọn quận/huyện --</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="old-ward">Xã/Phường</label>
+                    <select id="old-ward" disabled>
+                        <option value="">-- Chọn xã/phường --</option>
+                    </select>
+                </div>
+                
+                <div id="old-result" class="result" style="display: none;">
+                    <h3>Thông Tin Mới:</h3>
+                    <div id="old-result-content"></div>
+                </div>
+            </div>
+
+            <!-- CẤU TRÚC MỚI: Tỉnh - Xã -->
+            <div class="card">
+                <h2>🆕 Cấu Trúc Mới (2 Cấp)</h2>
+                <div class="api-info">
+                    <strong>API:</strong> <code>new_to_old.json</code>
+                </div>
+                
+                <div class="form-group">
+                    <label for="new-province">Tỉnh/Thành Phố</label>
+                    <select id="new-province">
+                        <option value="">-- Chọn tỉnh/thành --</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="new-ward">Xã/Phường</label>
+                    <select id="new-ward" disabled>
+                        <option value="">-- Chọn xã/phường --</option>
+                    </select>
+                </div>
+                
+                <div id="new-result" class="result" style="display: none;">
+                    <h3>Các Xã/Phường Cũ Hợp Nhất:</h3>
+                    <div id="new-result-content"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const OLD_TO_NEW_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/old_to_new.json';
+        const NEW_TO_OLD_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/new_to_old.json';
+
+        let oldToNewData = null;
+        let newToOldData = null;
+
+        // Load dữ liệu khi trang load
+        async function loadData() {
+            try {
+                const [oldRes, newRes] = await Promise.all([
+                    fetch(OLD_TO_NEW_URL),
+                    fetch(NEW_TO_OLD_URL)
+                ]);
+                
+                oldToNewData = await oldRes.json();
+                newToOldData = await newRes.json();
+                
+                initOldStructure();
+                initNewStructure();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                alert('Không thể tải dữ liệu. Vui lòng kiểm tra kết nối internet.');
+            }
+        }
+
+        // === CẤU TRÚC CŨ ===
+        function initOldStructure() {
+            const provinceSelect = document.getElementById('old-province');
+            const provinces = Object.values(oldToNewData.provinces);
+            
+            // Loại bỏ trùng lặp
+            const uniqueProvinces = Array.from(new Map(
+                provinces.map(p => [p.old_province_id, p])
+            ).values());
+            
+            uniqueProvinces.forEach(province => {
+                const option = document.createElement('option');
+                option.value = province.old_province_id;
+                option.textContent = province.old_province_name;
+                provinceSelect.appendChild(option);
+            });
+        }
+
+        document.getElementById('old-province').addEventListener('change', function(e) {
+            const provinceId = e.target.value;
+            const districtSelect = document.getElementById('old-district');
+            const wardSelect = document.getElementById('old-ward');
+            
+            // Reset
+            districtSelect.innerHTML = '<option value="">-- Chọn quận/huyện --</option>';
+            wardSelect.innerHTML = '<option value="">-- Chọn xã/phường --</option>';
+            wardSelect.disabled = true;
+            document.getElementById('old-result').style.display = 'none';
+            
+            if (!provinceId) {
+                districtSelect.disabled = true;
+                return;
+            }
+            
+            // Load districts
+            const districts = Object.values(oldToNewData.districts)
+                .filter(d => d.old_province_id === provinceId);
+            
+            // Loại bỏ trùng lặp
+            const uniqueDistricts = Array.from(new Map(
+                districts.map(d => [d.old_district_id, d])
+            ).values());
+            
+            uniqueDistricts.forEach(district => {
+                const option = document.createElement('option');
+                option.value = district.old_district_id;
+                option.textContent = district.old_district_name;
+                districtSelect.appendChild(option);
+            });
+            
+            districtSelect.disabled = false;
+        });
+
+        document.getElementById('old-district').addEventListener('change', function(e) {
+            const districtId = e.target.value;
+            const wardSelect = document.getElementById('old-ward');
+            
+            wardSelect.innerHTML = '<option value="">-- Chọn xã/phường --</option>';
+            document.getElementById('old-result').style.display = 'none';
+            
+            if (!districtId) {
+                wardSelect.disabled = true;
+                return;
+            }
+            
+            // Load wards
+            const wards = Object.values(oldToNewData.wards)
+                .filter(w => w.old_district_id === districtId);
+            
+            wards.forEach(ward => {
+                const option = document.createElement('option');
+                option.value = ward.old_ward_id;
+                option.textContent = ward.old_ward_name;
+                wardSelect.appendChild(option);
+            });
+            
+            wardSelect.disabled = false;
+        });
+
+        document.getElementById('old-ward').addEventListener('change', function(e) {
+            const wardId = e.target.value;
+            const resultDiv = document.getElementById('old-result');
+            const contentDiv = document.getElementById('old-result-content');
+            
+            if (!wardId) {
+                resultDiv.style.display = 'none';
+                return;
+            }
+            
+            const ward = oldToNewData.wards[wardId];
+            contentDiv.innerHTML = `
+                <p><strong>Xã mới:</strong> ${ward.new_ward_name}</p>
+                <p><strong>Tỉnh mới:</strong> ${ward.new_province_name}</p>
+                <p style="margin-top: 10px; padding-top: 10px; border-top: 1px solid #ddd;">
+                    <strong>Từ:</strong> ${ward.old_ward_name}, ${ward.old_district_name}, ${ward.old_province_name}
+                </p>
+            `;
+            resultDiv.style.display = 'block';
+        });
+
+        // === CẤU TRÚC MỚI ===
+        function initNewStructure() {
+            const provinceSelect = document.getElementById('new-province');
+            const provinces = Object.values(newToOldData.provinces);
+            
+            provinces.forEach(province => {
+                const option = document.createElement('option');
+                option.value = province.new_province_id;
+                option.textContent = province.new_province_name;
+                provinceSelect.appendChild(option);
+            });
+        }
+
+        document.getElementById('new-province').addEventListener('change', function(e) {
+            const provinceId = e.target.value;
+            const wardSelect = document.getElementById('new-ward');
+            
+            wardSelect.innerHTML = '<option value="">-- Chọn xã/phường --</option>';
+            document.getElementById('new-result').style.display = 'none';
+            
+            if (!provinceId) {
+                wardSelect.disabled = true;
+                return;
+            }
+            
+            // Load wards
+            const wards = Object.values(newToOldData.wards)
+                .filter(w => w.new_province_id === provinceId);
+            
+            wards.forEach(ward => {
+                const option = document.createElement('option');
+                option.value = ward.new_ward_id;
+                option.textContent = ward.new_ward_name;
+                wardSelect.appendChild(option);
+            });
+            
+            wardSelect.disabled = false;
+        });
+
+        document.getElementById('new-ward').addEventListener('change', function(e) {
+            const wardId = e.target.value;
+            const resultDiv = document.getElementById('new-result');
+            const contentDiv = document.getElementById('new-result-content');
+            
+            if (!wardId) {
+                resultDiv.style.display = 'none';
+                return;
+            }
+            
+            const ward = newToOldData.wards[wardId];
+            const oldWardsList = ward.old_wards.map(w => 
+                `<li>${w.old_ward_name}, ${w.old_district_name}, ${w.old_province_name}</li>`
+            ).join('');
+            
+            contentDiv.innerHTML = `
+                <p><strong>Tổng số xã cũ:</strong> ${ward.total_old_wards}</p>
+                <ul style="margin-top: 10px; padding-left: 20px;">
+                    ${oldWardsList}
+                </ul>
+            `;
+            resultDiv.style.display = 'block';
+        });
+
+        // Load data khi trang load
+        loadData();
+    </script>
+</body>
+</html>
