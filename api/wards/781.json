@@ -1,0 +1,122 @@
+[
+  {
+    "id": "131853",
+    "name": "Phường Hoàng Văn Thụ",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "197389",
+    "name": "Phường Hùng Vương",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "262925",
+    "name": "Phường Minh Khai",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "328461",
+    "name": "Phường Phan Bội Châu",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "393997",
+    "name": "Phường Quán Toan",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11022",
+    "new_name": "Phường Hồng An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "459533",
+    "name": "Phường Sở Dầu",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "525069",
+    "name": "Phường Thượng Lý",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26382",
+    "new_name": "Phường Hồng Bàng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "656141",
+    "name": "Phường An Hồng",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11022",
+    "new_name": "Phường Hồng An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "721677",
+    "name": "Phường An Hưng",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11022",
+    "new_name": "Phường Hồng An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "787213",
+    "name": "Phường Đại Bản",
+    "district_id": "781",
+    "district_name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11022",
+    "new_name": "Phường Hồng An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

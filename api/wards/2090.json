@@ -1,0 +1,38 @@
+[
+  {
+    "id": "67626",
+    "name": "Thị Trấn Trường Sa",
+    "district_id": "2090",
+    "district_name": "Huyện Trường Sa",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "5404",
+    "new_name": "Đặc Khu Trường Sa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "133162",
+    "name": "Xã Song Tử Tây",
+    "district_id": "2090",
+    "district_name": "Huyện Trường Sa",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "5404",
+    "new_name": "Đặc Khu Trường Sa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "198698",
+    "name": "Xã Sinh Tồn",
+    "district_id": "2090",
+    "district_name": "Huyện Trường Sa",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "5404",
+    "new_name": "Đặc Khu Trường Sa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

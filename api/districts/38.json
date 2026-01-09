@@ -1,0 +1,98 @@
+[
+  {
+    "id": "294",
+    "name": "Thành Phố Hải Dương",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "550",
+    "name": "Thành Phố Chí Linh",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "806",
+    "name": "Thị Xã Kinh Môn",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1062",
+    "name": "Huyện Bình Giang",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1318",
+    "name": "Huyện Cẩm Giàng",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1574",
+    "name": "Huyện Gia Lộc",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1830",
+    "name": "Huyện Kim Thành",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2086",
+    "name": "Huyện Nam Sách",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2342",
+    "name": "Huyện Ninh Giang",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2598",
+    "name": "Huyện Thanh Hà",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2854",
+    "name": "Huyện Thanh Miện",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "3110",
+    "name": "Huyện Tứ Kỳ",
+    "province_id": "38",
+    "province_name": "Tỉnh Hải Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

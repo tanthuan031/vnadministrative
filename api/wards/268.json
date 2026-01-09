@@ -1,0 +1,122 @@
+[
+  {
+    "id": "65804",
+    "name": "Phường Đa Kao",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7180",
+    "new_name": "Phường Tân Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "131340",
+    "name": "Phường Nguyễn Cư Trinh",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7436",
+    "new_name": "Phường Cầu Ông Lãnh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "196876",
+    "name": "Phường Nguyễn Thái Bình",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7692",
+    "new_name": "Phường Sài Gòn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "262412",
+    "name": "Phường Phạm Ngũ Lão",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7948",
+    "new_name": "Phường Bến Thành",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "327948",
+    "name": "Phường Bến Nghé",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7692",
+    "new_name": "Phường Sài Gòn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "393484",
+    "name": "Phường Bến Thành",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7948",
+    "new_name": "Phường Bến Thành",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459020",
+    "name": "Phường Cầu Kho",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7436",
+    "new_name": "Phường Cầu Ông Lãnh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "524556",
+    "name": "Phường Cầu Ông Lãnh",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7436",
+    "new_name": "Phường Cầu Ông Lãnh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "590092",
+    "name": "Phường Cô Giang",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7436",
+    "new_name": "Phường Cầu Ông Lãnh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "655628",
+    "name": "Phường Tân Định",
+    "district_id": "268",
+    "district_name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "7180",
+    "new_name": "Phường Tân Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "301",
+    "name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "557",
+    "name": "Huyện Mường Tè",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "813",
+    "name": "Huyện Phong Thổ",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "1069",
+    "name": "Huyện Sìn Hồ",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "1325",
+    "name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "1581",
+    "name": "Huyện Tam Đường",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "1837",
+    "name": "Huyện Than Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "2093",
+    "name": "Huyện Nậm Nhùn",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  }
+]

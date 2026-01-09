@@ -1,0 +1,74 @@
+[
+  {
+    "id": "68164",
+    "name": "Xã Tân Thạnh",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25880",
+    "new_name": "Xã Tân Thới",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "133700",
+    "name": "Xã Phú Đông",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "26136",
+    "new_name": "Xã Tân Phú Đông",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "199236",
+    "name": "Xã Phú Tân",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "26136",
+    "new_name": "Xã Tân Phú Đông",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "264772",
+    "name": "Xã Phú Thạnh",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "26136",
+    "new_name": "Xã Tân Phú Đông",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "330308",
+    "name": "Xã Tân Phú",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25880",
+    "new_name": "Xã Tân Thới",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "395844",
+    "name": "Xã Tân Thới",
+    "district_id": "2628",
+    "district_name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25880",
+    "new_name": "Xã Tân Thới",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

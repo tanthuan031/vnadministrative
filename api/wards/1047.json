@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66583",
+    "name": "Phường Bình Chuẩn",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "11532",
+    "new_name": "Phường Thuận Giao",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "132119",
+    "name": "Phường Bình Hòa",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "11788",
+    "new_name": "Phường Bình Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197655",
+    "name": "Phường Bình Nhâm",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "12300",
+    "new_name": "Phường Lái Thiêu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263191",
+    "name": "Phường Hưng Định",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "43020",
+    "new_name": "Phường Thuận An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "328727",
+    "name": "Phường Thuận Giao",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "11532",
+    "new_name": "Phường Thuận Giao",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "394263",
+    "name": "Phường Vĩnh Phú",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "11788",
+    "new_name": "Phường Bình Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459799",
+    "name": "Phường An Thạnh",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "43020",
+    "new_name": "Phường Thuận An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "525335",
+    "name": "Phường Lái Thiêu",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "12300",
+    "new_name": "Phường Lái Thiêu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "590871",
+    "name": "Phường An Phú",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "12556",
+    "new_name": "Phường An Phú",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "656407",
+    "name": "Xã An Sơn",
+    "district_id": "1047",
+    "district_name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "43020",
+    "new_name": "Phường Thuận An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

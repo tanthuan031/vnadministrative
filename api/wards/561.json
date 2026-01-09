@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66097",
+    "name": "Xã Thạnh Trị",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13608",
+    "new_name": "Xã Bình Hiệp",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "131633",
+    "name": "Xã Tuyên Thạnh",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "3880",
+    "new_name": "Xã Tuyên Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "197169",
+    "name": "Xã Bình Tân",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13608",
+    "new_name": "Xã Bình Hiệp",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "262705",
+    "name": "Xã Bình Hiệp",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13608",
+    "new_name": "Xã Bình Hiệp",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "328241",
+    "name": "Xã Thạnh Hưng",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "3880",
+    "new_name": "Xã Tuyên Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "393777",
+    "name": "Phường 3",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13864",
+    "new_name": "Phường Kiến Tường",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "459313",
+    "name": "Phường 2",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13864",
+    "new_name": "Phường Kiến Tường",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "524849",
+    "name": "Phường 1",
+    "district_id": "561",
+    "district_name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13864",
+    "new_name": "Phường Kiến Tường",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

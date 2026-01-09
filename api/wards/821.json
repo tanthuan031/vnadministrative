@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66357",
+    "name": "Xã Nhơn Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "3868",
+    "new_name": "Xã Vĩnh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "131893",
+    "name": "Xã Xuân Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14108",
+    "new_name": "Xã Xuân Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "197429",
+    "name": "Thị Trấn Khánh Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "3612",
+    "new_name": "Phường Ninh Chử",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "262965",
+    "name": "Xã Hộ Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14108",
+    "new_name": "Xã Xuân Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "328501",
+    "name": "Xã Phương Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13852",
+    "new_name": "Xã Ninh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "394037",
+    "name": "Xã Tân Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14108",
+    "new_name": "Xã Xuân Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "459573",
+    "name": "Xã Tri Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13852",
+    "new_name": "Xã Ninh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "525109",
+    "name": "Xã Vĩnh Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "3868",
+    "new_name": "Xã Vĩnh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "590645",
+    "name": "Xã Thanh Hải",
+    "district_id": "821",
+    "district_name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "3868",
+    "new_name": "Xã Vĩnh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

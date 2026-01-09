@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67135",
+    "name": "Phường Long Hoa",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6440",
+    "new_name": "Phường Long Hoa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "132671",
+    "name": "Phường Hiệp Tân",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6952",
+    "new_name": "Phường Thanh Điền",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "198207",
+    "name": "Phường Long Thành Bắc",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6440",
+    "new_name": "Phường Long Hoa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "263743",
+    "name": "Xã Long Thành Nam",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6696",
+    "new_name": "Phường Hòa Thành",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "329279",
+    "name": "Xã Trường Hòa",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6440",
+    "new_name": "Phường Long Hoa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "394815",
+    "name": "Xã Trường Tây",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6440",
+    "new_name": "Phường Long Hoa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "460351",
+    "name": "Phường Long Thành Trung",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6696",
+    "new_name": "Phường Hòa Thành",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "525887",
+    "name": "Xã Trường Đông",
+    "district_id": "1599",
+    "district_name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "6440",
+    "new_name": "Phường Long Hoa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67086",
+    "name": "Phường Thanh Khê Đông",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19981",
+    "new_name": "Phường Thanh Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "132622",
+    "name": "Phường Thạc Gián",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19981",
+    "new_name": "Phường Thanh Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "394766",
+    "name": "Phường Chính Gián",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19981",
+    "new_name": "Phường Thanh Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "460302",
+    "name": "Phường Xuân Hà",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19981",
+    "new_name": "Phường Thanh Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "591374",
+    "name": "Phường Thanh Khê Tây",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19981",
+    "new_name": "Phường Thanh Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "656910",
+    "name": "Phường An Khê",
+    "district_id": "1550",
+    "district_name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20237",
+    "new_name": "Phường An Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

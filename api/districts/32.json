@@ -1,0 +1,90 @@
+[
+  {
+    "id": "288",
+    "name": "Thành Phố Biên Hòa",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "544",
+    "name": "Thành Phố Long Khánh",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "800",
+    "name": "Huyện Cẩm Mỹ",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1056",
+    "name": "Huyện Long Thành",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1312",
+    "name": "Huyện Nhơn Trạch",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1568",
+    "name": "Huyện Định Quán",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1824",
+    "name": "Huyện Tân Phú",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2080",
+    "name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2336",
+    "name": "Huyện Trảng Bom",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2592",
+    "name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2848",
+    "name": "Huyện Xuân Lộc",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

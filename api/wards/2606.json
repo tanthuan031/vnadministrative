@@ -1,0 +1,98 @@
+[
+  {
+    "id": "68142",
+    "name": "Xã Đạ Long",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "10014",
+    "new_name": "Xã Đam Rông 4",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "133678",
+    "name": "Xã Đạ Rsal",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9758",
+    "new_name": "Xã Đam Rông 3",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "199214",
+    "name": "Xã Đạ Tông",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "10014",
+    "new_name": "Xã Đam Rông 4",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "264750",
+    "name": "Xã Liêng Srônh",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9502",
+    "new_name": "Xã Đam Rông 2",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "330286",
+    "name": "Xã Phi Liêng",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9246",
+    "new_name": "Xã Đam Rông 1",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "395822",
+    "name": "Xã Rô Men",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9502",
+    "new_name": "Xã Đam Rông 2",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "461358",
+    "name": "Xã Đạ K'Nàng",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9246",
+    "new_name": "Xã Đam Rông 1",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "526894",
+    "name": "Xã Đạ M'Rong",
+    "district_id": "2606",
+    "district_name": "Huyện Đam Rông",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "9758",
+    "new_name": "Xã Đam Rông 3",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67604",
+    "name": "Xã Cao Tân",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16169",
+    "new_name": "Xã Cao Minh",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "133140",
+    "name": "Xã Cổ Linh",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16169",
+    "new_name": "Xã Cao Minh",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "198676",
+    "name": "Xã An Thắng",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15913",
+    "new_name": "Xã Nghiên Loan",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "264212",
+    "name": "Xã Bằng Thành",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15657",
+    "new_name": "Xã Bằng Thành",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "329748",
+    "name": "Xã Bộc Bố",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15657",
+    "new_name": "Xã Bằng Thành",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "395284",
+    "name": "Xã Công Bằng",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16169",
+    "new_name": "Xã Cao Minh",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "460820",
+    "name": "Xã Giáo Hiệu",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15657",
+    "new_name": "Xã Bằng Thành",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "526356",
+    "name": "Xã Nghiên Loan",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15913",
+    "new_name": "Xã Nghiên Loan",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "591892",
+    "name": "Xã Nhạn Môn",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15657",
+    "new_name": "Xã Bằng Thành",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "657428",
+    "name": "Xã Xuân La",
+    "district_id": "2068",
+    "district_name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15913",
+    "new_name": "Xã Nghiên Loan",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

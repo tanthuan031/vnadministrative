@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65807",
+    "name": "Phường Thới An Đông",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3599",
+    "new_name": "Phường Thới An Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131343",
+    "name": "Phường Trà An",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3599",
+    "new_name": "Phường Thới An Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "196879",
+    "name": "Phường Trà Nóc",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3599",
+    "new_name": "Phường Thới An Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262415",
+    "name": "Phường An Thới",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "15887",
+    "new_name": "Phường Bình Thủy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "327951",
+    "name": "Phường Bình Thủy",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "15887",
+    "new_name": "Phường Bình Thủy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393487",
+    "name": "Phường Bùi Hữu Nghĩa",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2319",
+    "new_name": "Phường Cái Khế",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459023",
+    "name": "Phường Long Hòa",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2063",
+    "new_name": "Phường Long Tuyền",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "524559",
+    "name": "Phường Long Tuyền",
+    "district_id": "271",
+    "district_name": "Quận Bình Thủy",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2063",
+    "new_name": "Phường Long Tuyền",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

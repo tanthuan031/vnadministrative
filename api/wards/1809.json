@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67345",
+    "name": "Phường Phú Mỹ",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34828",
+    "new_name": "Phường Phú Mỹ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "132881",
+    "name": "Xã Châu Pha",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35852",
+    "new_name": "Xã Châu Pha",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "198417",
+    "name": "Phường Hắc Dịch",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35084",
+    "new_name": "Phường Tân Thành",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263953",
+    "name": "Phường Mỹ Xuân",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34828",
+    "new_name": "Phường Phú Mỹ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "329489",
+    "name": "Phường Phước Hòa",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35340",
+    "new_name": "Phường Tân Phước",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "395025",
+    "name": "Xã Sông Xoài",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35084",
+    "new_name": "Phường Tân Thành",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460561",
+    "name": "Phường Tân Hải",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35596",
+    "new_name": "Phường Tân Hải",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "526097",
+    "name": "Xã Tóc Tiên",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35852",
+    "new_name": "Xã Châu Pha",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "591633",
+    "name": "Phường Tân Hòa",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35596",
+    "new_name": "Phường Tân Hải",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "657169",
+    "name": "Phường Tân Phước",
+    "district_id": "1809",
+    "district_name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "35340",
+    "new_name": "Phường Tân Phước",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

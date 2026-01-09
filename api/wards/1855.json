@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67391",
+    "name": "Xã Thạnh Bình",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "1320",
+    "new_name": "Xã Thạnh Bình",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "132927",
+    "name": "Xã Trà Vong",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "1576",
+    "new_name": "Xã Trà Vong",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "198463",
+    "name": "Xã Hòa Hiệp",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10792",
+    "new_name": "Xã Phước Vinh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "263999",
+    "name": "Xã Mỏ Công",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "1576",
+    "new_name": "Xã Trà Vong",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "329535",
+    "name": "Xã Tân Bình",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10536",
+    "new_name": "Xã Tân Biên",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "395071",
+    "name": "Xã Tân Lập",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10280",
+    "new_name": "Xã Tân Lập",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "460607",
+    "name": "Xã Tân Phong",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "1320",
+    "new_name": "Xã Thạnh Bình",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "526143",
+    "name": "Xã Thạnh Bắc",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10280",
+    "new_name": "Xã Tân Lập",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "591679",
+    "name": "Xã Thạnh Tây",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10536",
+    "new_name": "Xã Tân Biên",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "657215",
+    "name": "Thị Trấn Tân Biên",
+    "district_id": "1855",
+    "district_name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "10536",
+    "new_name": "Xã Tân Biên",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

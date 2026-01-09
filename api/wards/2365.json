@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67901",
+    "name": "Xã Tuân Tức",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20495",
+    "new_name": "Xã Lâm Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "133437",
+    "name": "Xã Lâm Kiết",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20495",
+    "new_name": "Xã Lâm Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198973",
+    "name": "Xã Lâm Tân",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20495",
+    "new_name": "Xã Lâm Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "264509",
+    "name": "Xã Thạnh Tân",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19727",
+    "new_name": "Xã Tân Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "330045",
+    "name": "Xã Thạnh Trị",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19983",
+    "new_name": "Xã Phú Lộc",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "395581",
+    "name": "Thị Trấn Hưng Lợi",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19983",
+    "new_name": "Xã Phú Lộc",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "461117",
+    "name": "Thị Trấn Phú Lộc",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19983",
+    "new_name": "Xã Phú Lộc",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "526653",
+    "name": "Xã Châu Hưng",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20239",
+    "new_name": "Xã Vĩnh Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "592189",
+    "name": "Xã Vĩnh Lợi",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20239",
+    "new_name": "Xã Vĩnh Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "657725",
+    "name": "Xã Vĩnh Thành",
+    "district_id": "2365",
+    "district_name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "20239",
+    "new_name": "Xã Vĩnh Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

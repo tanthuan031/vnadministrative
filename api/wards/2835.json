@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68371",
+    "name": "Xã Kiên Lao",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15122",
+    "new_name": "Xã Kiên Lao",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "133907",
+    "name": "Xã Kiên Thành",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15122",
+    "new_name": "Xã Kiên Lao",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "199443",
+    "name": "Xã Mỹ An",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15634",
+    "new_name": "Phường Phượng Sơn",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "264979",
+    "name": "Xã Nam Dương",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "14866",
+    "new_name": "Xã Nam Dương",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "330515",
+    "name": "Xã Quý Sơn",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15634",
+    "new_name": "Phường Phượng Sơn",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "396051",
+    "name": "Phường Thanh Hải",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15378",
+    "new_name": "Phường Chũ",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "461587",
+    "name": "Phường Chũ",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15378",
+    "new_name": "Phường Chũ",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "527123",
+    "name": "Phường Trù Hựu",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15378",
+    "new_name": "Phường Chũ",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "592659",
+    "name": "Phường Hồng Giang",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15378",
+    "new_name": "Phường Chũ",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "658195",
+    "name": "Phường Phượng Sơn",
+    "district_id": "2835",
+    "district_name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_id": "15634",
+    "new_name": "Phường Phượng Sơn",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66590",
+    "name": "Xã Quảng Hòa",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "286",
+    "new_name": "Xã Quảng Hòa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "132126",
+    "name": "Xã Đắk Ha",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19742",
+    "new_name": "Phường Bắc Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "197662",
+    "name": "Xã Đắk PLao",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19486",
+    "new_name": "Xã Quảng Khê",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "263198",
+    "name": "Xã Đắk Som",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19230",
+    "new_name": "Xã Tà Đùng",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "328734",
+    "name": "Xã Quảng Khê",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19486",
+    "new_name": "Xã Quảng Khê",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "394270",
+    "name": "Xã Quảng Sơn",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "542",
+    "new_name": "Xã Quảng Sơn",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "459806",
+    "name": "Xã Đắk R'Măng",
+    "district_id": "1054",
+    "district_name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19230",
+    "new_name": "Xã Tà Đùng",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

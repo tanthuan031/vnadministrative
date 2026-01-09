@@ -1,0 +1,86 @@
+[
+  {
+    "id": "132923",
+    "name": "Thị Trấn Ba Chẽ",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13605",
+    "new_name": "Xã Ba Chẽ",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "198459",
+    "name": "Xã Đạp Thanh",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9509",
+    "new_name": "Xã Kỳ Thượng",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "263995",
+    "name": "Xã Đồn Đạc",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13605",
+    "new_name": "Xã Ba Chẽ",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "329531",
+    "name": "Xã Lương Minh",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9253",
+    "new_name": "Xã Lương Minh",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "395067",
+    "name": "Xã Nam Sơn",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13605",
+    "new_name": "Xã Ba Chẽ",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "460603",
+    "name": "Xã Thanh Sơn",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13605",
+    "new_name": "Xã Ba Chẽ",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "526139",
+    "name": "Xã Thanh Lâm",
+    "district_id": "1851",
+    "district_name": "Huyện Ba Chẽ",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9509",
+    "new_name": "Xã Kỳ Thượng",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  }
+]

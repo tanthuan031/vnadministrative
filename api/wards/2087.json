@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67623",
+    "name": "Xã Thuận Hòa",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10767",
+    "new_name": "Xã Xà Phiên",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "133159",
+    "name": "Xã Lương Nghĩa",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11023",
+    "new_name": "Xã Lương Tâm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198695",
+    "name": "Xã Lương Tâm",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11023",
+    "new_name": "Xã Lương Tâm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "264231",
+    "name": "Xã Thuận Hưng",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10767",
+    "new_name": "Xã Xà Phiên",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "329767",
+    "name": "Xã Vĩnh Thuận Đông",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9743",
+    "new_name": "Xã Vĩnh Thuận Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "395303",
+    "name": "Xã Vĩnh Viễn A",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10511",
+    "new_name": "Xã Vĩnh Viễn",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460839",
+    "name": "Xã Xà Phiên",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10767",
+    "new_name": "Xã Xà Phiên",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "526375",
+    "name": "Thị Trấn Vĩnh Viễn",
+    "district_id": "2087",
+    "district_name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10511",
+    "new_name": "Xã Vĩnh Viễn",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "68120",
+    "name": "Xã Canh Hòa",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "1049",
+    "new_name": "Xã Vân Canh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "133656",
+    "name": "Xã Canh Liên",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "281",
+    "new_name": "Xã Canh Liên",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "199192",
+    "name": "Xã Canh Hiệp",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "1049",
+    "new_name": "Xã Vân Canh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "264728",
+    "name": "Xã Canh Thuận",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "1049",
+    "new_name": "Xã Vân Canh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "330264",
+    "name": "Thị Trấn Vân Canh",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "1049",
+    "new_name": "Xã Vân Canh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "395800",
+    "name": "Xã Canh Hiển",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "2585",
+    "new_name": "Xã Canh Vinh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "461336",
+    "name": "Xã Canh Vinh",
+    "district_id": "2584",
+    "district_name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "2585",
+    "new_name": "Xã Canh Vinh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

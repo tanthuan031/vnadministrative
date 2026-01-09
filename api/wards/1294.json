@@ -1,0 +1,74 @@
+[
+  {
+    "id": "66830",
+    "name": "Phường Thọ Quang",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20749",
+    "new_name": "Phường Sơn Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "132366",
+    "name": "Phường Phước Mỹ",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20493",
+    "new_name": "Phường An Hải",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "197902",
+    "name": "Phường Mân Thái",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20749",
+    "new_name": "Phường Sơn Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "328974",
+    "name": "Phường An Hải Nam",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20493",
+    "new_name": "Phường An Hải",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "394510",
+    "name": "Phường An Hải Bắc",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20493",
+    "new_name": "Phường An Hải",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "460046",
+    "name": "Phường Nại Hiên Đông",
+    "district_id": "1294",
+    "district_name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20749",
+    "new_name": "Phường Sơn Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

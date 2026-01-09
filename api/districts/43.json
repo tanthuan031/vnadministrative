@@ -1,0 +1,122 @@
+[
+  {
+    "id": "299",
+    "name": "Thành Phố Rạch Giá",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "555",
+    "name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "811",
+    "name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1067",
+    "name": "Huyện An Minh",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1323",
+    "name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1579",
+    "name": "Huyện Giồng Riềng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1835",
+    "name": "Huyện Gò Quao",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2091",
+    "name": "Huyện Hòn Đất",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2347",
+    "name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2603",
+    "name": "Huyện Kiên Hải",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2859",
+    "name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "3115",
+    "name": "Huyện Tân Hiệp",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "3371",
+    "name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "3627",
+    "name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "3883",
+    "name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

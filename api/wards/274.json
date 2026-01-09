@@ -1,0 +1,122 @@
+[
+  {
+    "id": "65810",
+    "name": "Phường 3",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "5907",
+    "new_name": "Phường Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "131346",
+    "name": "Phường 5",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6163",
+    "new_name": "Phường Vĩnh Trạch",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "196882",
+    "name": "Phường Nhà Mát",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6419",
+    "new_name": "Phường Hiệp Thành",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "262418",
+    "name": "Phường 7",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "5907",
+    "new_name": "Phường Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "327954",
+    "name": "Phường 8",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "5907",
+    "new_name": "Phường Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "393490",
+    "name": "Phường 1",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "5907",
+    "new_name": "Phường Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "459026",
+    "name": "Phường 2",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "5907",
+    "new_name": "Phường Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "524562",
+    "name": "Xã Hiệp Thành",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6419",
+    "new_name": "Phường Hiệp Thành",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "590098",
+    "name": "Xã Vĩnh Trạch",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6163",
+    "new_name": "Phường Vĩnh Trạch",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "655634",
+    "name": "Xã Vĩnh Trạch Đông",
+    "district_id": "274",
+    "district_name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6419",
+    "new_name": "Phường Hiệp Thành",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

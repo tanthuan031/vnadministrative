@@ -1,0 +1,122 @@
+[
+  {
+    "id": "65855",
+    "name": "Phường Ninh Thạnh",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "552",
+    "new_name": "Phường Ninh Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "131391",
+    "name": "Xã Tân Bình",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2856",
+    "new_name": "Phường Bình Minh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "196927",
+    "name": "Xã Thạnh Tân",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2856",
+    "new_name": "Phường Bình Minh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "262463",
+    "name": "Phường 1",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2600",
+    "new_name": "Phường Tân Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "327999",
+    "name": "Phường 2",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2600",
+    "new_name": "Phường Tân Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "393535",
+    "name": "Phường 3",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2600",
+    "new_name": "Phường Tân Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "459071",
+    "name": "Phường 4",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2600",
+    "new_name": "Phường Tân Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "524607",
+    "name": "Phường Hiệp Ninh",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2600",
+    "new_name": "Phường Tân Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "590143",
+    "name": "Xã Bình Minh",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2856",
+    "new_name": "Phường Bình Minh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "655679",
+    "name": "Phường Ninh Sơn",
+    "district_id": "319",
+    "district_name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "2856",
+    "new_name": "Phường Bình Minh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

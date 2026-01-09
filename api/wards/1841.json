@@ -1,0 +1,86 @@
+[
+  {
+    "id": "67377",
+    "name": "Xã Tân Thành",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14376",
+    "new_name": "Xã Mộc Hóa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "132913",
+    "name": "Xã Bình Thạnh",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14120",
+    "new_name": "Xã Bình Hòa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "198449",
+    "name": "Xã Bình Hòa Đông",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14120",
+    "new_name": "Xã Bình Hòa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "263985",
+    "name": "Xã Bình Hòa Tây",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "13608",
+    "new_name": "Xã Bình Hiệp",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "329521",
+    "name": "Xã Bình Hòa Trung",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14120",
+    "new_name": "Xã Bình Hòa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "395057",
+    "name": "Xã Tân Lập",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14376",
+    "new_name": "Xã Mộc Hóa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "460593",
+    "name": "Thị Trấn Bình Phong Thạnh",
+    "district_id": "1841",
+    "district_name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "14376",
+    "new_name": "Xã Mộc Hóa",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

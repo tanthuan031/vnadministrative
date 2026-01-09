@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66101",
+    "name": "Xã Phước Chính",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16156",
+    "new_name": "Xã Bác Ái",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "131637",
+    "name": "Xã Phước Trung",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15644",
+    "new_name": "Xã Mỹ Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "197173",
+    "name": "Xã Phước Tân",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16412",
+    "new_name": "Xã Bác Ái Tây",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "262709",
+    "name": "Xã Phước Thắng",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16156",
+    "new_name": "Xã Bác Ái",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "328245",
+    "name": "Xã Phước Thành",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15900",
+    "new_name": "Xã Bác Ái Đông",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "393781",
+    "name": "Xã Phước Bình",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16412",
+    "new_name": "Xã Bác Ái Tây",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "459317",
+    "name": "Xã Phước Đại",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15900",
+    "new_name": "Xã Bác Ái Đông",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "524853",
+    "name": "Xã Phước Hòa",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16412",
+    "new_name": "Xã Bác Ái Tây",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "590389",
+    "name": "Xã Phước Tiến",
+    "district_id": "565",
+    "district_name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "16156",
+    "new_name": "Xã Bác Ái",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

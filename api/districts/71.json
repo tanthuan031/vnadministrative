@@ -1,0 +1,66 @@
+[
+  {
+    "id": "327",
+    "name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "583",
+    "name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "839",
+    "name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1095",
+    "name": "Huyện Long Hồ",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1351",
+    "name": "Huyện Mang Thít",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1607",
+    "name": "Huyện Tam Bình",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1863",
+    "name": "Huyện Trà Ôn",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "2119",
+    "name": "Huyện Vũng Liêm",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

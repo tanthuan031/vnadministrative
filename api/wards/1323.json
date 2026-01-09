@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66859",
+    "name": "Xã Vĩnh Hòa Hiệp",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18705",
+    "new_name": "Xã Bình An",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "132395",
+    "name": "Xã Vĩnh Hòa Phú",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18705",
+    "new_name": "Xã Bình An",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "197931",
+    "name": "Xã Thạnh Lộc",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18193",
+    "new_name": "Xã Thạnh Lộc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "263467",
+    "name": "Thị Trấn Minh Lương",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18449",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "329003",
+    "name": "Xã Bình An",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18705",
+    "new_name": "Xã Bình An",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "394539",
+    "name": "Xã Giục Tượng",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18449",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "460075",
+    "name": "Xã Minh Hòa",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18449",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "525611",
+    "name": "Xã Mong Thọ",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18193",
+    "new_name": "Xã Thạnh Lộc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "591147",
+    "name": "Xã Mong Thọ A",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18193",
+    "new_name": "Xã Thạnh Lộc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "656683",
+    "name": "Xã Mong Thọ B",
+    "district_id": "1323",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "18193",
+    "new_name": "Xã Thạnh Lộc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

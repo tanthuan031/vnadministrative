@@ -1,0 +1,86 @@
+[
+  {
+    "id": "67643",
+    "name": "Xã Húc Động",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13861",
+    "new_name": "Xã Bình Liêu",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "133179",
+    "name": "Thị Trấn Bình Liêu",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13861",
+    "new_name": "Xã Bình Liêu",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "198715",
+    "name": "Xã Hoành Mô",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "10277",
+    "new_name": "Xã Hoành Mô",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "264251",
+    "name": "Xã Đồng Tâm",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "10533",
+    "new_name": "Xã Lục Hồn",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "329787",
+    "name": "Xã Đồng Văn",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "10277",
+    "new_name": "Xã Hoành Mô",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "395323",
+    "name": "Xã Lục Hồn",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "10533",
+    "new_name": "Xã Lục Hồn",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "460859",
+    "name": "Xã Vô Ngại",
+    "district_id": "2107",
+    "district_name": "Huyện Bình Liêu",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13861",
+    "new_name": "Xã Bình Liêu",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  }
+]

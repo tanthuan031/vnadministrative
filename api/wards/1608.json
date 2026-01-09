@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67144",
+    "name": "Thị Trấn Tam Đảo",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "15907",
+    "new_name": "Xã Tam Đảo",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "132680",
+    "name": "Xã Bồ Lý",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "16163",
+    "new_name": "Xã Đại Đình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "198216",
+    "name": "Thị Trấn Đại Đình",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "16163",
+    "new_name": "Xã Đại Đình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "263752",
+    "name": "Xã Đạo Trù",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2083",
+    "new_name": "Xã Đạo Trù",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "329288",
+    "name": "Xã Hồ Sơn",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "15907",
+    "new_name": "Xã Tam Đảo",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "394824",
+    "name": "Thị Trấn Hợp Châu",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "15907",
+    "new_name": "Xã Tam Đảo",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "460360",
+    "name": "Xã Minh Quang",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "15907",
+    "new_name": "Xã Tam Đảo",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "525896",
+    "name": "Xã Tam Quan",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "17187",
+    "new_name": "Xã Tam Dương Bắc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "591432",
+    "name": "Xã Yên Dương",
+    "district_id": "1608",
+    "district_name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2083",
+    "new_name": "Xã Đạo Trù",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

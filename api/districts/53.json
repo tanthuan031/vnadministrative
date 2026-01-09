@@ -1,0 +1,58 @@
+[
+  {
+    "id": "309",
+    "name": "Thành Phố Phan Rang-Tháp Chàm",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "565",
+    "name": "Huyện Bác Ái",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "821",
+    "name": "Huyện Ninh Hải",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1077",
+    "name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1333",
+    "name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1589",
+    "name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1845",
+    "name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

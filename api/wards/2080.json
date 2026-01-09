@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67616",
+    "name": "Xã Gia Tân 2",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "10007",
+    "new_name": "Xã Thống Nhất",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "133152",
+    "name": "Xã Gia Tân 3",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9751",
+    "new_name": "Xã Gia Kiệm",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "198688",
+    "name": "Xã Gia Kiệm",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9751",
+    "new_name": "Xã Gia Kiệm",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "264224",
+    "name": "Xã Gia Tân 1",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "10007",
+    "new_name": "Xã Thống Nhất",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "329760",
+    "name": "Xã Bàu Hàm 2",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9495",
+    "new_name": "Xã Dầu Giây",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "395296",
+    "name": "Xã Hưng Lộc",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9495",
+    "new_name": "Xã Dầu Giây",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "460832",
+    "name": "Xã Lộ 25",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9495",
+    "new_name": "Xã Dầu Giây",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "526368",
+    "name": "Xã Quang Trung",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9751",
+    "new_name": "Xã Gia Kiệm",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "591904",
+    "name": "Thị Trấn Dầu Giây",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "9495",
+    "new_name": "Xã Dầu Giây",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "657440",
+    "name": "Xã Xuân Thiện",
+    "district_id": "2080",
+    "district_name": "Huyện Thống Nhất",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "10263",
+    "new_name": "Phường Bình Lộc",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

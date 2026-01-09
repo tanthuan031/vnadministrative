@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66879",
+    "name": "Thị Trấn Gò Dầu",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7720",
+    "new_name": "Phường Gò Dầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "132415",
+    "name": "Xã Bàu Đồn",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "9256",
+    "new_name": "Xã Truông Mít",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "197951",
+    "name": "Xã Hiệp Thạnh",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "9000",
+    "new_name": "Xã Phước Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "263487",
+    "name": "Xã Phước Đông",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7976",
+    "new_name": "Phường Gia Lộc",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "329023",
+    "name": "Xã Phước Thạnh",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "9000",
+    "new_name": "Xã Phước Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "394559",
+    "name": "Xã Phước Trạch",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "9000",
+    "new_name": "Xã Phước Thạnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "460095",
+    "name": "Xã Thạnh Đức",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8744",
+    "new_name": "Xã Thạnh Đức",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "525631",
+    "name": "Xã Thanh Phước",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7720",
+    "new_name": "Phường Gò Dầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "591167",
+    "name": "Xã Cẩm Giang",
+    "district_id": "1343",
+    "district_name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8744",
+    "new_name": "Xã Thạnh Đức",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

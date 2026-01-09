@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67389",
+    "name": "Thị Trấn Huỳnh Hữu Nghĩa",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17679",
+    "new_name": "Xã Mỹ Tú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132925",
+    "name": "Xã Hưng Phú",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17935",
+    "new_name": "Xã Long Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198461",
+    "name": "Xã Long Hưng",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17935",
+    "new_name": "Xã Long Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263997",
+    "name": "Xã Mỹ Hương",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18191",
+    "new_name": "Xã Mỹ Hương",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "329533",
+    "name": "Xã Mỹ Phước",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "1039",
+    "new_name": "Xã Mỹ Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "395069",
+    "name": "Xã Mỹ Thuận",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17679",
+    "new_name": "Xã Mỹ Tú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460605",
+    "name": "Xã Mỹ Tú",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17679",
+    "new_name": "Xã Mỹ Tú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "526141",
+    "name": "Xã Phú Mỹ",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18191",
+    "new_name": "Xã Mỹ Hương",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "591677",
+    "name": "Xã Thuận Hưng",
+    "district_id": "1853",
+    "district_name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18191",
+    "new_name": "Xã Mỹ Hương",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

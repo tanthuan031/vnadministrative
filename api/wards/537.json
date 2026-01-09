@@ -1,0 +1,74 @@
+[
+  {
+    "id": "66073",
+    "name": "Phường Hưng Chiến",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18967",
+    "new_name": "Phường Bình Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "131609",
+    "name": "Phường An Lộc",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18967",
+    "new_name": "Phường Bình Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "197145",
+    "name": "Phường Phú Đức",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18967",
+    "new_name": "Phường Bình Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "262681",
+    "name": "Phường Phú Thịnh",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19223",
+    "new_name": "Phường An Lộc",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "328217",
+    "name": "Xã Thanh Lương",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19223",
+    "new_name": "Phường An Lộc",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "393753",
+    "name": "Xã Thanh Phú",
+    "district_id": "537",
+    "district_name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19223",
+    "new_name": "Phường An Lộc",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

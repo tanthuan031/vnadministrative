@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66064",
+    "name": "Phường Núi Sam",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1297",
+    "new_name": "Phường Vĩnh Tế",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "131600",
+    "name": "Phường Vĩnh Mỹ",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1553",
+    "new_name": "Phường Châu Đốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "197136",
+    "name": "Xã Vĩnh Châu",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1297",
+    "new_name": "Phường Vĩnh Tế",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "262672",
+    "name": "Phường Vĩnh Ngươn",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1553",
+    "new_name": "Phường Châu Đốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "328208",
+    "name": "Xã Vĩnh Tế",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1297",
+    "new_name": "Phường Vĩnh Tế",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "393744",
+    "name": "Phường Châu Phú A",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1553",
+    "new_name": "Phường Châu Đốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "459280",
+    "name": "Phường Châu Phú B",
+    "district_id": "528",
+    "district_name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_id": "1553",
+    "new_name": "Phường Châu Đốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

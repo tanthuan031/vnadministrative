@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65822",
+    "name": "Phường Nghĩa Đức",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19742",
+    "new_name": "Phường Bắc Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "131358",
+    "name": "Phường Nghĩa Phú",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19998",
+    "new_name": "Phường Nam Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "196894",
+    "name": "Phường Nghĩa Tân",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19998",
+    "new_name": "Phường Nam Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "262430",
+    "name": "Phường Nghĩa Thành",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19742",
+    "new_name": "Phường Bắc Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "327966",
+    "name": "Phường Nghĩa Trung",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20254",
+    "new_name": "Phường Đông Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "393502",
+    "name": "Xã Đắk Nia",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20254",
+    "new_name": "Phường Đông Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "459038",
+    "name": "Xã Đắk R'Moan",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19998",
+    "new_name": "Phường Nam Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "524574",
+    "name": "Phường Quảng Thành",
+    "district_id": "286",
+    "district_name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "19742",
+    "new_name": "Phường Bắc Gia Nghĩa",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

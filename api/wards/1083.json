@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66619",
+    "name": "Phường Thanh Sơn",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13093",
+    "new_name": "Phường Uông Bí",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "132155",
+    "name": "Phường Trưng Vương",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "293",
+    "new_name": "Phường Vàng Danh",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "197691",
+    "name": "Phường Yên Thanh",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13093",
+    "new_name": "Phường Uông Bí",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "263227",
+    "name": "Phường Vàng Danh",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "293",
+    "new_name": "Phường Vàng Danh",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "328763",
+    "name": "Phường Phương Đông",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "5669",
+    "new_name": "Phường Yên Tử",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "394299",
+    "name": "Phường Bắc Sơn",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "293",
+    "new_name": "Phường Vàng Danh",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "459835",
+    "name": "Phường Nam Khê",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "293",
+    "new_name": "Phường Vàng Danh",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "525371",
+    "name": "Phường Quang Trung",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "13093",
+    "new_name": "Phường Uông Bí",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "590907",
+    "name": "Phường Phương Nam",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "5669",
+    "new_name": "Phường Yên Tử",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "656443",
+    "name": "Xã Thượng Yên Công",
+    "district_id": "1083",
+    "district_name": "Thành Phố Uông Bí",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "5669",
+    "new_name": "Phường Yên Tử",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  }
+]

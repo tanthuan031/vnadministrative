@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67099",
+    "name": "Xã Phú Tân",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "16403",
+    "new_name": "Xã Phú Tân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132635",
+    "name": "Xã Tân Hải",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "16403",
+    "new_name": "Xã Phú Tân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "198171",
+    "name": "Xã Nguyễn Việt Khái",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "15891",
+    "new_name": "Xã Cái Đôi Vàm",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263707",
+    "name": "Xã Rạch Chèo",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "16147",
+    "new_name": "Xã Nguyễn Việt Khái",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "329243",
+    "name": "Thị Trấn Cái Đôi Vàm",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "15891",
+    "new_name": "Xã Cái Đôi Vàm",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394779",
+    "name": "Xã Phú Mỹ",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "3347",
+    "new_name": "Xã Phú Mỹ",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "460315",
+    "name": "Xã Tân Hưng Tây",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "16147",
+    "new_name": "Xã Nguyễn Việt Khái",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "525851",
+    "name": "Xã Phú Thuận",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "3347",
+    "new_name": "Xã Phú Mỹ",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "591387",
+    "name": "Xã Việt Thắng",
+    "district_id": "1563",
+    "district_name": "Huyện Phú Tân",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "16147",
+    "new_name": "Xã Nguyễn Việt Khái",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

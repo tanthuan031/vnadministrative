@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67372",
+    "name": "Xã Đắk Ang",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "21028",
+    "new_name": "Xã Dục Nông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "132908",
+    "name": "Xã Đắk Kan",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "20772",
+    "new_name": "Xã Sa Loong",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "198444",
+    "name": "Xã Đắk Nông",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "21028",
+    "new_name": "Xã Dục Nông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "263980",
+    "name": "Xã Đắk Xú",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "20516",
+    "new_name": "Xã Bờ Y",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "329516",
+    "name": "Xã Bờ Y",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "20516",
+    "new_name": "Xã Bờ Y",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "395052",
+    "name": "Xã Sa Loong",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "20772",
+    "new_name": "Xã Sa Loong",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "460588",
+    "name": "Thị Trấn Plei Kần",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "20516",
+    "new_name": "Xã Bờ Y",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "526124",
+    "name": "Xã Đắk Dục",
+    "district_id": "1836",
+    "district_name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "21028",
+    "new_name": "Xã Dục Nông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

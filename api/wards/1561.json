@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67097",
+    "name": "Phường Hưng Long",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19735",
+    "new_name": "Phường Chơn Thành",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "132633",
+    "name": "Phường Minh Hưng",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19479",
+    "new_name": "Phường Minh Hưng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "198169",
+    "name": "Xã Minh Lập",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19991",
+    "new_name": "Xã Nha Bích",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "263705",
+    "name": "Phường Minh Long",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19479",
+    "new_name": "Phường Minh Hưng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "329241",
+    "name": "Xã Minh Thắng",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19991",
+    "new_name": "Xã Nha Bích",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "394777",
+    "name": "Phường Minh Thành",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19735",
+    "new_name": "Phường Chơn Thành",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "460313",
+    "name": "Xã Nha Bích",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19991",
+    "new_name": "Xã Nha Bích",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "525849",
+    "name": "Xã Quang Minh",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "20247",
+    "new_name": "Xã Tân Quan",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "591385",
+    "name": "Phường Thành Tâm",
+    "district_id": "1561",
+    "district_name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "19735",
+    "new_name": "Phường Chơn Thành",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

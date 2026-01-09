@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67863",
+    "name": "Xã Lạc An",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "5900",
+    "new_name": "Xã Thường Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "133399",
+    "name": "Xã Hiếu Liêm",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "5900",
+    "new_name": "Xã Thường Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "198935",
+    "name": "Xã Thường Tân",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "5900",
+    "new_name": "Xã Thường Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "264471",
+    "name": "Xã Bình Mỹ",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "40460",
+    "new_name": "Phường Bình Cơ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "330007",
+    "name": "Xã Đất Cuốc",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "40716",
+    "new_name": "Xã Bắc Tân Uyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "395543",
+    "name": "Thị Trấn Tân Bình",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42508",
+    "new_name": "Phường Vĩnh Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "461079",
+    "name": "Xã Tân Định",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "40716",
+    "new_name": "Xã Bắc Tân Uyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "526615",
+    "name": "Xã Tân Lập",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "15116",
+    "new_name": "Phường Tân Uyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "592151",
+    "name": "Xã Tân Mỹ",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "5900",
+    "new_name": "Xã Thường Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "657687",
+    "name": "Thị Trấn Tân Thành",
+    "district_id": "2327",
+    "district_name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "40716",
+    "new_name": "Xã Bắc Tân Uyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

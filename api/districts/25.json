@@ -1,0 +1,90 @@
+[
+  {
+    "id": "281",
+    "name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "537",
+    "name": "Thị Xã Bình Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "793",
+    "name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1049",
+    "name": "Huyện Bù Đăng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1305",
+    "name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1561",
+    "name": "Thị Xã Chơn Thành",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "1817",
+    "name": "Huyện Lộc Ninh",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2073",
+    "name": "Huyện Đồng Phú",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2329",
+    "name": "Huyện Hớn Quản",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2585",
+    "name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "2841",
+    "name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

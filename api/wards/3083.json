@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68619",
+    "name": "Phường Tây Mỗ",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "779",
+    "new_name": "Phường Tây Mỗ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "134155",
+    "name": "Phường Trung Văn",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "23563",
+    "new_name": "Phường Đại Mỗ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "199691",
+    "name": "Phường Xuân Phương",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2059",
+    "new_name": "Phường Xuân Phương",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "265227",
+    "name": "Phường Mễ Trì",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "23563",
+    "new_name": "Phường Đại Mỗ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "330763",
+    "name": "Phường Đại Mỗ",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "779",
+    "new_name": "Phường Tây Mỗ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "396299",
+    "name": "Phường Mỹ Đình 1",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "461835",
+    "name": "Phường Cầu Diễn",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "26123",
+    "new_name": "Phường Từ Liêm",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "527371",
+    "name": "Phường Phương Canh",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2059",
+    "new_name": "Phường Xuân Phương",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "592907",
+    "name": "Phường Mỹ Đình 2",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "658443",
+    "name": "Phường Phú Đô",
+    "district_id": "3083",
+    "district_name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "23563",
+    "new_name": "Phường Đại Mỗ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  }
+]

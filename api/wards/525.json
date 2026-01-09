@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66061",
+    "name": "Phường Thành Tô",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "131597",
+    "name": "Phường Tràng Cát",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "197133",
+    "name": "Phường Đằng Hải",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "262669",
+    "name": "Phường Đằng Lâm",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "328205",
+    "name": "Phường Cát Bi",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "393741",
+    "name": "Phường Đông Hải 1",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2830",
+    "new_name": "Phường Đông Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "459277",
+    "name": "Phường Đông Hải 2",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2830",
+    "new_name": "Phường Đông Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "524813",
+    "name": "Phường Nam Hải",
+    "district_id": "525",
+    "district_name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2062",
+    "new_name": "Phường Hải An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

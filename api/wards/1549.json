@@ -1,0 +1,98 @@
+[
+  {
+    "id": "198157",
+    "name": "Phường Cầu Tre",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26638",
+    "new_name": "Phường Ngô Quyền",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "263693",
+    "name": "Phường Đằng Giang",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "10254",
+    "new_name": "Phường Gia Viên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "329229",
+    "name": "Phường Đông Khê",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "10254",
+    "new_name": "Phường Gia Viên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "394765",
+    "name": "Phường Gia Viên",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "10254",
+    "new_name": "Phường Gia Viên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "460301",
+    "name": "Phường Vạn Mỹ",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26638",
+    "new_name": "Phường Ngô Quyền",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "591373",
+    "name": "Phường Lạch Tray",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "10254",
+    "new_name": "Phường Gia Viên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "722445",
+    "name": "Phường Cầu Đất",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "10254",
+    "new_name": "Phường Gia Viên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "787981",
+    "name": "Phường Máy Chai",
+    "district_id": "1549",
+    "district_name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26638",
+    "new_name": "Phường Ngô Quyền",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

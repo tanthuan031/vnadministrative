@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66828",
+    "name": "Phường 1",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18700",
+    "new_name": "Phường Chợ Quán",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197900",
+    "name": "Phường 11",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19212",
+    "new_name": "Phường Chợ Lớn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263436",
+    "name": "Phường 12",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19212",
+    "new_name": "Phường Chợ Lớn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "328972",
+    "name": "Phường 13",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19212",
+    "new_name": "Phường Chợ Lớn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "394508",
+    "name": "Phường 14",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19212",
+    "new_name": "Phường Chợ Lớn",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "525580",
+    "name": "Phường 2",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18700",
+    "new_name": "Phường Chợ Quán",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "656652",
+    "name": "Phường 4",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18700",
+    "new_name": "Phường Chợ Quán",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "722188",
+    "name": "Phường 5",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18956",
+    "new_name": "Phường An Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "853260",
+    "name": "Phường 7",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18956",
+    "new_name": "Phường An Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "984332",
+    "name": "Phường 9",
+    "district_id": "1292",
+    "district_name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18956",
+    "new_name": "Phường An Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

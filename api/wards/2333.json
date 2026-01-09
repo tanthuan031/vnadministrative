@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67869",
+    "name": "Thị Trấn Buôn Trấp",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "18965",
+    "new_name": "Xã Krông Ana",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "133405",
+    "name": "Xã Băng A Drênh",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "19221",
+    "new_name": "Xã Dur Kmăl",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "198941",
+    "name": "Xã Bình Hòa",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "18965",
+    "new_name": "Xã Krông Ana",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "264477",
+    "name": "Xã Dray Sáp",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "19477",
+    "new_name": "Xã Ea Na",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "330013",
+    "name": "Xã Dur Kmăl",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "19221",
+    "new_name": "Xã Dur Kmăl",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "395549",
+    "name": "Xã Ea Bông",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "19477",
+    "new_name": "Xã Ea Na",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "461085",
+    "name": "Xã Ea Na",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "19477",
+    "new_name": "Xã Ea Na",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "526621",
+    "name": "Xã Quảng Điền",
+    "district_id": "2333",
+    "district_name": "Huyện Krông A Na",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "18965",
+    "new_name": "Xã Krông Ana",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

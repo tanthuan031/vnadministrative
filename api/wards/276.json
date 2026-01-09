@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65812",
+    "name": "Phường Đức Xuân",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20521",
+    "new_name": "Phường Đức Xuân",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "131348",
+    "name": "Phường Xuất Hóa",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20777",
+    "new_name": "Phường Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "196884",
+    "name": "Phường Nguyễn Thị Minh Khai",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20521",
+    "new_name": "Phường Đức Xuân",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "262420",
+    "name": "Phường Phùng Chí Kiên",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20777",
+    "new_name": "Phường Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "327956",
+    "name": "Phường Sông Cầu",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20777",
+    "new_name": "Phường Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "393492",
+    "name": "Xã Dương Quang",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20265",
+    "new_name": "Xã Phong Quang",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "459028",
+    "name": "Phường Huyền Tụng",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20521",
+    "new_name": "Phường Đức Xuân",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "524564",
+    "name": "Xã Nông Thượng",
+    "district_id": "276",
+    "district_name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "20777",
+    "new_name": "Phường Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66869",
+    "name": "Xã Hòa Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15388",
+    "new_name": "Xã Anh Dũng",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "132405",
+    "name": "Xã Ma Nới",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15388",
+    "new_name": "Xã Anh Dũng",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "197941",
+    "name": "Thị Trấn Tân Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14876",
+    "new_name": "Xã Ninh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "263477",
+    "name": "Xã Mỹ Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15644",
+    "new_name": "Xã Mỹ Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "329013",
+    "name": "Xã Lâm Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15132",
+    "new_name": "Xã Lâm Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "394549",
+    "name": "Xã Lương Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "15132",
+    "new_name": "Xã Lâm Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "460085",
+    "name": "Xã Nhơn Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "284",
+    "new_name": "Phường Đô Vinh",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "525621",
+    "name": "Xã Quảng Sơn",
+    "district_id": "1333",
+    "district_name": "Huyện Ninh Sơn",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14876",
+    "new_name": "Xã Ninh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

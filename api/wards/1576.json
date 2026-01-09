@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67112",
+    "name": "Thị Trấn Chi Nê",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8483",
+    "new_name": "Xã Lạc Thủy",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "132648",
+    "name": "Thị Trấn Ba Hàng Đồi",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8995",
+    "new_name": "Xã An Nghĩa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "198184",
+    "name": "Xã An Bình",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8739",
+    "new_name": "Xã An Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "263720",
+    "name": "Xã Phú Nghĩa",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8995",
+    "new_name": "Xã An Nghĩa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "329256",
+    "name": "Xã Thống Nhất",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8739",
+    "new_name": "Xã An Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "394792",
+    "name": "Xã Hưng Thi",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8739",
+    "new_name": "Xã An Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "460328",
+    "name": "Xã Khoan Dụ",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8483",
+    "new_name": "Xã Lạc Thủy",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "525864",
+    "name": "Xã Đồng Tâm",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8483",
+    "new_name": "Xã Lạc Thủy",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "591400",
+    "name": "Xã Phú Thành",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8995",
+    "new_name": "Xã An Nghĩa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "656936",
+    "name": "Xã Yên Bồng",
+    "district_id": "1576",
+    "district_name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "8483",
+    "new_name": "Xã Lạc Thủy",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

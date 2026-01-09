@@ -1,0 +1,62 @@
+[
+  {
+    "id": "66318",
+    "name": "Phường Hòa Minh",
+    "district_id": "782",
+    "district_name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21261",
+    "new_name": "Phường Hòa Khánh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "131854",
+    "name": "Phường Hòa Khánh Nam",
+    "district_id": "782",
+    "district_name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21261",
+    "new_name": "Phường Hòa Khánh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "197390",
+    "name": "Phường Hòa Khánh Bắc",
+    "district_id": "782",
+    "district_name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21517",
+    "new_name": "Phường Liên Chiểu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "262926",
+    "name": "Phường Hòa Hiệp Nam",
+    "district_id": "782",
+    "district_name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "781",
+    "new_name": "Phường Hải Vân",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "328462",
+    "name": "Phường Hòa Hiệp Bắc",
+    "district_id": "782",
+    "district_name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "781",
+    "new_name": "Phường Hải Vân",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

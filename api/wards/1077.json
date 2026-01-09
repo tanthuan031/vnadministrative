@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66613",
+    "name": "Xã Phước Sơn",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12828",
+    "new_name": "Xã Phước Hậu",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "132149",
+    "name": "Xã Phước Vinh",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12828",
+    "new_name": "Xã Phước Hậu",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "197685",
+    "name": "Thị Trấn Phước Dân",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12316",
+    "new_name": "Xã Ninh Phước",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "263221",
+    "name": "Xã An Hải",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "2844",
+    "new_name": "Xã Phước Dinh",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "328757",
+    "name": "Xã Phước Thái",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12572",
+    "new_name": "Xã Phước Hữu",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "394293",
+    "name": "Xã Phước Thuận",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12316",
+    "new_name": "Xã Ninh Phước",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "459829",
+    "name": "Xã Phước Hải",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12316",
+    "new_name": "Xã Ninh Phước",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "525365",
+    "name": "Xã Phước Hậu",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12828",
+    "new_name": "Xã Phước Hậu",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "590901",
+    "name": "Xã Phước Hữu",
+    "district_id": "1077",
+    "district_name": "Huyện Ninh Phước",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "12572",
+    "new_name": "Xã Phước Hữu",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66338",
+    "name": "Phường Đoàn Kết",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "14873",
+    "new_name": "Phường Ayun Pa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "131874",
+    "name": "Phường Cheo Reo",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "14873",
+    "new_name": "Phường Ayun Pa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "197410",
+    "name": "Phường Hòa Bình",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "14873",
+    "new_name": "Phường Ayun Pa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "262946",
+    "name": "Phường Sông Bờ",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "14873",
+    "new_name": "Phường Ayun Pa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "328482",
+    "name": "Xã Chư Băh",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15129",
+    "new_name": "Xã Ia Rbol",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "394018",
+    "name": "Xã Ia Rbol",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15129",
+    "new_name": "Xã Ia Rbol",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "459554",
+    "name": "Xã Ia Rtô",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15385",
+    "new_name": "Xã Ia Sao",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "525090",
+    "name": "Xã Ia Sao",
+    "district_id": "802",
+    "district_name": "Thị Xã AYun Pa",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15385",
+    "new_name": "Xã Ia Sao",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

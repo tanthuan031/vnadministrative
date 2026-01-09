@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66843",
+    "name": "Xã Viên An",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1299",
+    "new_name": "Xã Đất Mũi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132379",
+    "name": "Thị Trấn Rạch Gốc",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1043",
+    "new_name": "Xã Phan Ngọc Hiển",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "197915",
+    "name": "Xã Đất Mũi",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1299",
+    "new_name": "Xã Đất Mũi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263451",
+    "name": "Xã Tam Giang Tây",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "13843",
+    "new_name": "Xã Tân Ân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "328987",
+    "name": "Xã Tân Ân",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1043",
+    "new_name": "Xã Phan Ngọc Hiển",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394523",
+    "name": "Xã Tân Ân Tây",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "13843",
+    "new_name": "Xã Tân Ân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "460059",
+    "name": "Xã Viên An Đông",
+    "district_id": "1307",
+    "district_name": "Huyện Ngọc Hiển",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1043",
+    "new_name": "Xã Phan Ngọc Hiển",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

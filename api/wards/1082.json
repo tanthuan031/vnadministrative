@@ -1,0 +1,62 @@
+[
+  {
+    "id": "66618",
+    "name": "Xã Long Hiệp",
+    "district_id": "1082",
+    "district_name": "Huyện Minh Long",
+    "province_id": "58",
+    "province_name": "Tỉnh Quảng Ngãi",
+    "new_id": "13348",
+    "new_name": "Xã Minh Long",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "132154",
+    "name": "Xã Long Mai",
+    "district_id": "1082",
+    "district_name": "Huyện Minh Long",
+    "province_id": "58",
+    "province_name": "Tỉnh Quảng Ngãi",
+    "new_id": "13604",
+    "new_name": "Xã Sơn Mai",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "197690",
+    "name": "Xã Long Môn",
+    "district_id": "1082",
+    "district_name": "Huyện Minh Long",
+    "province_id": "58",
+    "province_name": "Tỉnh Quảng Ngãi",
+    "new_id": "13348",
+    "new_name": "Xã Minh Long",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "263226",
+    "name": "Xã Long Sơn",
+    "district_id": "1082",
+    "district_name": "Huyện Minh Long",
+    "province_id": "58",
+    "province_name": "Tỉnh Quảng Ngãi",
+    "new_id": "13604",
+    "new_name": "Xã Sơn Mai",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "328762",
+    "name": "Xã Thanh An",
+    "district_id": "1082",
+    "district_name": "Huyện Minh Long",
+    "province_id": "58",
+    "province_name": "Tỉnh Quảng Ngãi",
+    "new_id": "13348",
+    "new_name": "Xã Minh Long",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

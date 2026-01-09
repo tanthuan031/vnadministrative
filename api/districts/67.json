@@ -1,0 +1,74 @@
+[
+  {
+    "id": "323",
+    "name": "Quận Thuận Hóa",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "579",
+    "name": "Huyện A Lưới",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "835",
+    "name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "1091",
+    "name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "1603",
+    "name": "Thị Xã Phong Điền",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "1859",
+    "name": "Huyện Phú Lộc",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "2115",
+    "name": "Huyện Phú Vang",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "2371",
+    "name": "Huyện Quảng Điền",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "2627",
+    "name": "Quận Phú Xuân",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  }
+]

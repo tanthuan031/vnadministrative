@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietnam Administrative API Demo - API Style</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 16px;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+        
+        select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        select:disabled {
+            background: #f5f5f5;
+            cursor: not-allowed;
+        }
+        
+        .api-call {
+            background: #f8f9fa;
+            border-left: 4px solid #28a745;
+            padding: 12px;
+            border-radius: 4px;
+            margin-top: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            color: #28a745;
+            word-break: break-all;
+        }
+        
+        .result {
+            background: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 15px;
+        }
+        
+        .result h3 {
+            color: #2e7d32;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
+        }
+        
+        .result p {
+            margin: 5px 0;
+            color: #555;
+        }
+        
+        .loading {
+            color: #667eea;
+            font-style: italic;
+        }
+        
+        .badge {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🇻🇳 Vietnam Administrative API</h1>
+            <p>Demo API-Style Structure</p>
+        </div>
+
+        <div class="card">
+            <h2>📍 Chọn Địa Chỉ (3 Cấp)</h2>
+            
+            <div class="form-group">
+                <label for="province">
+                    Tỉnh/Thành Phố
+                    <span class="badge" id="province-count">0</span>
+                </label>
+                <select id="province">
+                    <option value="">-- Đang tải... --</option>
+                </select>
+                <div id="province-api" class="api-call" style="display: none;"></div>
+            </div>
+            
+            <div class="form-group">
+                <label for="district">
+                    Quận/Huyện
+                    <span class="badge" id="district-count">0</span>
+                </label>
+                <select id="district" disabled>
+                    <option value="">-- Chọn tỉnh trước --</option>
+                </select>
+                <div id="district-api" class="api-call" style="display: none;"></div>
+            </div>
+            
+            <div class="form-group">
+                <label for="ward">
+                    Xã/Phường
+                    <span class="badge" id="ward-count">0</span>
+                </label>
+                <select id="ward" disabled>
+                    <option value="">-- Chọn quận trước --</option>
+                </select>
+                <div id="ward-api" class="api-call" style="display: none;"></div>
+            </div>
+            
+            <div id="result" class="result" style="display: none;">
+                <h3>✅ Địa Chỉ Đã Chọn:</h3>
+                <div id="result-content"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const BASE_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/api';
+
+        // Load provinces khi trang load
+        async function loadProvinces() {
+            const provinceSelect = document.getElementById('province');
+            const apiDiv = document.getElementById('province-api');
+            const countBadge = document.getElementById('province-count');
+            
+            const url = `${BASE_URL}/provinces.json`;
+            apiDiv.textContent = `GET ${url}`;
+            apiDiv.style.display = 'block';
+            
+            try {
+                const response = await fetch(url);
+                const provinces = await response.json();
+                
+                provinceSelect.innerHTML = '<option value="">-- Chọn tỉnh/thành --</option>';
+                provinces.forEach(province => {
+                    const option = document.createElement('option');
+                    option.value = province.id;
+                    option.textContent = province.name;
+                    option.dataset.name = province.name;
+                    provinceSelect.appendChild(option);
+                });
+                
+                countBadge.textContent = provinces.length;
+            } catch (error) {
+                console.error('Error loading provinces:', error);
+                provinceSelect.innerHTML = '<option value="">❌ Lỗi tải dữ liệu</option>';
+            }
+        }
+
+        // Khi chọn tỉnh
+        document.getElementById('province').addEventListener('change', async function(e) {
+            const provinceId = e.target.value;
+            const provinceName = e.target.options[e.target.selectedIndex].dataset.name;
+            const districtSelect = document.getElementById('district');
+            const wardSelect = document.getElementById('ward');
+            const apiDiv = document.getElementById('district-api');
+            const countBadge = document.getElementById('district-count');
+            
+            // Reset
+            districtSelect.innerHTML = '<option value="">-- Chọn quận/huyện --</option>';
+            wardSelect.innerHTML = '<option value="">-- Chọn quận trước --</option>';
+            wardSelect.disabled = true;
+            document.getElementById('ward-api').style.display = 'none';
+            document.getElementById('result').style.display = 'none';
+            countBadge.textContent = '0';
+            
+            if (!provinceId) {
+                districtSelect.disabled = true;
+                apiDiv.style.display = 'none';
+                return;
+            }
+            
+            // Load districts
+            const url = `${BASE_URL}/districts/${provinceId}.json`;
+            apiDiv.textContent = `GET ${url}`;
+            apiDiv.style.display = 'block';
+            
+            districtSelect.innerHTML = '<option value="">⏳ Đang tải...</option>';
+            districtSelect.disabled = true;
+            
+            try {
+                const response = await fetch(url);
+                const districts = await response.json();
+                
+                districtSelect.innerHTML = '<option value="">-- Chọn quận/huyện --</option>';
+                districts.forEach(district => {
+                    const option = document.createElement('option');
+                    option.value = district.id;
+                    option.textContent = district.name;
+                    option.dataset.name = district.name;
+                    option.dataset.provinceName = provinceName;
+                    districtSelect.appendChild(option);
+                });
+                
+                districtSelect.disabled = false;
+                countBadge.textContent = districts.length;
+            } catch (error) {
+                console.error('Error loading districts:', error);
+                districtSelect.innerHTML = '<option value="">❌ Lỗi tải dữ liệu</option>';
+            }
+        });
+
+        // Khi chọn quận
+        document.getElementById('district').addEventListener('change', async function(e) {
+            const districtId = e.target.value;
+            const districtName = e.target.options[e.target.selectedIndex].dataset.name;
+            const provinceName = e.target.options[e.target.selectedIndex].dataset.provinceName;
+            const wardSelect = document.getElementById('ward');
+            const apiDiv = document.getElementById('ward-api');
+            const countBadge = document.getElementById('ward-count');
+            
+            // Reset
+            wardSelect.innerHTML = '<option value="">-- Chọn xã/phường --</option>';
+            document.getElementById('result').style.display = 'none';
+            countBadge.textContent = '0';
+            
+            if (!districtId) {
+                wardSelect.disabled = true;
+                apiDiv.style.display = 'none';
+                return;
+            }
+            
+            // Load wards
+            const url = `${BASE_URL}/wards/${districtId}.json`;
+            apiDiv.textContent = `GET ${url}`;
+            apiDiv.style.display = 'block';
+            
+            wardSelect.innerHTML = '<option value="">⏳ Đang tải...</option>';
+            wardSelect.disabled = true;
+            
+            try {
+                const response = await fetch(url);
+                const wards = await response.json();
+                
+                wardSelect.innerHTML = '<option value="">-- Chọn xã/phường --</option>';
+                wards.forEach(ward => {
+                    const option = document.createElement('option');
+                    option.value = ward.id;
+                    option.textContent = ward.name;
+                    option.dataset.name = ward.name;
+                    option.dataset.districtName = districtName;
+                    option.dataset.provinceName = provinceName;
+                    option.dataset.newName = ward.new_name;
+                    option.dataset.newProvinceName = ward.new_province_name;
+                    wardSelect.appendChild(option);
+                });
+                
+                wardSelect.disabled = false;
+                countBadge.textContent = wards.length;
+            } catch (error) {
+                console.error('Error loading wards:', error);
+                wardSelect.innerHTML = '<option value="">❌ Lỗi tải dữ liệu</option>';
+            }
+        });
+
+        // Khi chọn xã
+        document.getElementById('ward').addEventListener('change', function(e) {
+            const wardId = e.target.value;
+            const resultDiv = document.getElementById('result');
+            const contentDiv = document.getElementById('result-content');
+            
+            if (!wardId) {
+                resultDiv.style.display = 'none';
+                return;
+            }
+            
+            const option = e.target.options[e.target.selectedIndex];
+            const wardName = option.dataset.name;
+            const districtName = option.dataset.districtName;
+            const provinceName = option.dataset.provinceName;
+            const newWardName = option.dataset.newName;
+            const newProvinceName = option.dataset.newProvinceName;
+            
+            contentDiv.innerHTML = `
+                <p><strong>Địa chỉ cũ:</strong></p>
+                <p>${wardName}, ${districtName}, ${provinceName}</p>
+                <p style="margin-top: 10px;"><strong>Địa chỉ mới:</strong></p>
+                <p>${newWardName}, ${newProvinceName}</p>
+            `;
+            resultDiv.style.display = 'block';
+        });
+
+        // Load provinces khi trang load
+        loadProvinces();
+    </script>
+</body>
+</html>

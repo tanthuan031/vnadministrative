@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68364",
+    "name": "Phường 1",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20748",
+    "new_name": "Phường Minh Phụng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "133900",
+    "name": "Phường 10",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "8716",
+    "new_name": "Phường Bình Thới",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "199436",
+    "name": "Phường 11",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "8972",
+    "new_name": "Phường Phú Thọ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "461580",
+    "name": "Phường 3",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "8716",
+    "new_name": "Phường Bình Thới",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "592652",
+    "name": "Phường 5",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "21004",
+    "new_name": "Phường Hòa Bình",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "658188",
+    "name": "Phường 14",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "21004",
+    "new_name": "Phường Hòa Bình",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "723724",
+    "name": "Phường 15",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "8972",
+    "new_name": "Phường Phú Thọ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "789260",
+    "name": "Phường 16",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20748",
+    "new_name": "Phường Minh Phụng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "920332",
+    "name": "Phường 7",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20748",
+    "new_name": "Phường Minh Phụng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "985868",
+    "name": "Phường 8",
+    "district_id": "2828",
+    "district_name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "8716",
+    "new_name": "Phường Bình Thới",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "305",
+    "name": "Thành Phố Tân An",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "561",
+    "name": "Thị Xã Kiến Tường",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "817",
+    "name": "Huyện Bến Lức",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1073",
+    "name": "Huyện Cần Giuộc",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1329",
+    "name": "Huyện Cần Đước",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1585",
+    "name": "Huyện Châu Thành",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1841",
+    "name": "Huyện Mộc Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2097",
+    "name": "Huyện Đức Hòa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2353",
+    "name": "Huyện Đức Huệ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2609",
+    "name": "Huyện Tân Hưng",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2865",
+    "name": "Huyện Tân Thạnh",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "3121",
+    "name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "3377",
+    "name": "Huyện Thạnh Hóa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "3633",
+    "name": "Huyện Thủ Thừa",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "3889",
+    "name": "Huyện Vĩnh Hưng",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

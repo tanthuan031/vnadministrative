@@ -1,0 +1,110 @@
+[
+  {
+    "id": "65852",
+    "name": "Phường Đông Lễ",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "17190",
+    "new_name": "Phường Nam Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "131388",
+    "name": "Phường Đông Lương",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "17190",
+    "new_name": "Phường Nam Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "196924",
+    "name": "Phường 1",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "16934",
+    "new_name": "Phường Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "262460",
+    "name": "Phường 2",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "17190",
+    "new_name": "Phường Nam Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "327996",
+    "name": "Phường 3",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "16934",
+    "new_name": "Phường Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "393532",
+    "name": "Phường 4",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "16934",
+    "new_name": "Phường Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "459068",
+    "name": "Phường 5",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "17190",
+    "new_name": "Phường Nam Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "524604",
+    "name": "Phường Đông Giang",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "16934",
+    "new_name": "Phường Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "590140",
+    "name": "Phường Đông Thanh",
+    "district_id": "316",
+    "district_name": "Thành Phố Đông Hà",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "16934",
+    "new_name": "Phường Đông Hà",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  }
+]

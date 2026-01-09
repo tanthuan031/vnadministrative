@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67867",
+    "name": "Xã Khánh Hòa",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "275",
+    "new_name": "Xã U Minh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "133403",
+    "name": "Xã Khánh Tiến",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "275",
+    "new_name": "Xã U Minh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "198939",
+    "name": "Xã Nguyễn Phích",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4115",
+    "new_name": "Xã Nguyễn Phích",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "264475",
+    "name": "Thị Trấn U Minh",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4115",
+    "new_name": "Xã Nguyễn Phích",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "330011",
+    "name": "Xã Khánh An",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4371",
+    "new_name": "Xã Khánh An",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "395547",
+    "name": "Xã Khánh Hội",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4627",
+    "new_name": "Xã Khánh Lâm",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "461083",
+    "name": "Xã Khánh Lâm",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4627",
+    "new_name": "Xã Khánh Lâm",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "526619",
+    "name": "Xã Khánh Thuận",
+    "district_id": "2331",
+    "district_name": "Huyện U Minh",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "4115",
+    "new_name": "Xã Nguyễn Phích",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

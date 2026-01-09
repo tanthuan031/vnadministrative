@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66335",
+    "name": "Xã Nặm Lịch",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7702",
+    "new_name": "Xã Mường Lạn",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "131871",
+    "name": "Xã Ẳng Tở",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7446",
+    "new_name": "Xã Búng Lao",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "197407",
+    "name": "Xã Búng Lao",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7446",
+    "new_name": "Xã Búng Lao",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "262943",
+    "name": "Xã Mường Đăng",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7190",
+    "new_name": "Xã Nà Tấu",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "328479",
+    "name": "Xã Mường Lạn",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7702",
+    "new_name": "Xã Mường Lạn",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "394015",
+    "name": "Xã Ngối Cáy",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7190",
+    "new_name": "Xã Nà Tấu",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "459551",
+    "name": "Xã Xuân Lao",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "7702",
+    "new_name": "Xã Mường Lạn",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "525087",
+    "name": "Thị Trấn Mường Ảng",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "6934",
+    "new_name": "Xã Mường Ảng",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "590623",
+    "name": "Xã Ẳng Cang",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "6934",
+    "new_name": "Xã Mường Ảng",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "656159",
+    "name": "Xã Ẳng Nưa",
+    "district_id": "799",
+    "district_name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "6934",
+    "new_name": "Xã Mường Ảng",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  }
+]

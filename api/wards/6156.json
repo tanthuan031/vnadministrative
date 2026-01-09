@@ -1,0 +1,86 @@
+[
+  {
+    "id": "71692",
+    "name": "Thị Trấn Nhà Bè",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30476",
+    "new_name": "Xã Nhà Bè",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "137228",
+    "name": "Xã Hiệp Phước",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30732",
+    "new_name": "Xã Hiệp Phước",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "202764",
+    "name": "Xã Long Thới",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30732",
+    "new_name": "Xã Hiệp Phước",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "268300",
+    "name": "Xã Nhơn Đức",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30732",
+    "new_name": "Xã Hiệp Phước",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "333836",
+    "name": "Xã Phú Xuân",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30476",
+    "new_name": "Xã Nhà Bè",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "399372",
+    "name": "Xã Phước Kiển",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30476",
+    "new_name": "Xã Nhà Bè",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "464908",
+    "name": "Xã Phước Lộc",
+    "district_id": "6156",
+    "district_name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "30476",
+    "new_name": "Xã Nhà Bè",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

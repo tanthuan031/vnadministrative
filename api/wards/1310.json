@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66846",
+    "name": "Xã Đắk Lao",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16158",
+    "new_name": "Xã Thuận An",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "132382",
+    "name": "Xã Đắk Sắk",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16926",
+    "new_name": "Xã Đắk Sắk",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "197918",
+    "name": "Xã Đức Minh",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16414",
+    "new_name": "Xã Đức Lập",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "263454",
+    "name": "Xã Long Sơn",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16926",
+    "new_name": "Xã Đắk Sắk",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "328990",
+    "name": "Xã Thuận An",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16158",
+    "new_name": "Xã Thuận An",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "394526",
+    "name": "Thị Trấn Đắk Mil",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16414",
+    "new_name": "Xã Đức Lập",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "460062",
+    "name": "Xã Đắk Gằn",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16670",
+    "new_name": "Xã Đắk Mil",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "525598",
+    "name": "Xã Đức Mạnh",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16414",
+    "new_name": "Xã Đức Lập",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "591134",
+    "name": "Xã Đắk N'Drót",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16670",
+    "new_name": "Xã Đắk Mil",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "656670",
+    "name": "Xã Đắk R'La",
+    "district_id": "1310",
+    "district_name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "16670",
+    "new_name": "Xã Đắk Mil",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

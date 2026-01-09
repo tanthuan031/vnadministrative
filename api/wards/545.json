@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66081",
+    "name": "Phường 1",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "131617",
+    "name": "Phường 2",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "197153",
+    "name": "Phường 3",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "262689",
+    "name": "Phường 4",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "328225",
+    "name": "Phường An Hòa",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "393761",
+    "name": "Phường Tân Quy Đông",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "459297",
+    "name": "Xã Tân Khánh Đông",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "524833",
+    "name": "Xã Tân Phú Đông",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10776",
+    "new_name": "Xã Tân Dương",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "590369",
+    "name": "Xã Tân Quy Tây",
+    "district_id": "545",
+    "district_name": "Thành Phố Sa Đéc",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "10520",
+    "new_name": "Phường Sa Đéc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

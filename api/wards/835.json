@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66371",
+    "name": "Phường Thủy Dương",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6416",
+    "new_name": "Phường Thanh Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "131907",
+    "name": "Phường Thủy Lương",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6672",
+    "new_name": "Phường Hương Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "197443",
+    "name": "Phường Phú Bài",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6928",
+    "new_name": "Phường Phú Bài",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "262979",
+    "name": "Phường Thủy Châu",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6672",
+    "new_name": "Phường Hương Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "328515",
+    "name": "Phường Thủy Phương",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6416",
+    "new_name": "Phường Thanh Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "394051",
+    "name": "Xã Dương Hòa",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6928",
+    "new_name": "Phường Phú Bài",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "459587",
+    "name": "Xã Phú Sơn",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6928",
+    "new_name": "Phường Phú Bài",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "590659",
+    "name": "Xã Thủy Phù",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6928",
+    "new_name": "Phường Phú Bài",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "656195",
+    "name": "Xã Thủy Tân",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6672",
+    "new_name": "Phường Hương Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "721731",
+    "name": "Xã Thủy Thanh",
+    "district_id": "835",
+    "district_name": "Thị Xã Hương Thủy",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "6416",
+    "new_name": "Phường Thanh Thủy",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  }
+]

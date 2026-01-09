@@ -1,0 +1,66 @@
+[
+  {
+    "id": "320",
+    "name": "Thành Phố Thái Bình",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "576",
+    "name": "Huyện Hưng Hà",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "832",
+    "name": "Huyện Kiến Xương",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1088",
+    "name": "Huyện Đông Hưng",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1344",
+    "name": "Huyện Quỳnh Phụ",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1600",
+    "name": "Huyện Thái Thụy",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1856",
+    "name": "Huyện Tiền Hải",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "2112",
+    "name": "Huyện Vũ Thư",
+    "province_id": "64",
+    "province_name": "Tỉnh Thái Bình",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  }
+]

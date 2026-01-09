@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67341",
+    "name": "Phường Ngọc Xuyên",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2318",
+    "new_name": "Phường Nam Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "132877",
+    "name": "Phường Bàng La",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2318",
+    "new_name": "Phường Nam Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "198413",
+    "name": "Phường Hợp Đức",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2318",
+    "new_name": "Phường Nam Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "263949",
+    "name": "Phường Minh Đức",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2318",
+    "new_name": "Phường Nam Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "329485",
+    "name": "Phường Vạn Hương",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27150",
+    "new_name": "Phường Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "395021",
+    "name": "Phường Hải Sơn",
+    "district_id": "1805",
+    "district_name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27150",
+    "new_name": "Phường Đồ Sơn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

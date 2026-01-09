@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67105",
+    "name": "Xã Thường Lạc",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3352",
+    "new_name": "Phường Thường Lạc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "132641",
+    "name": "Xã Long Khánh A",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3864",
+    "new_name": "Xã Long Khánh",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "198177",
+    "name": "Xã Long Khánh B",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3864",
+    "new_name": "Xã Long Khánh",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "263713",
+    "name": "Xã Long Thuận",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "1304",
+    "new_name": "Xã Long Phú Thuận",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "329249",
+    "name": "Xã Phú Thuận A",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "1304",
+    "new_name": "Xã Long Phú Thuận",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "394785",
+    "name": "Xã Phú Thuận B",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "536",
+    "new_name": "Xã Tân Long",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "460321",
+    "name": "Xã Thường Phước 1",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3608",
+    "new_name": "Xã Thường Phước",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "525857",
+    "name": "Xã Thường Phước 2",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3608",
+    "new_name": "Xã Thường Phước",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "591393",
+    "name": "Xã Thường Thới Hậu A",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3352",
+    "new_name": "Phường Thường Lạc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "656929",
+    "name": "Thị Trấn Thường Thới Tiền",
+    "district_id": "1569",
+    "district_name": "Huyện Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3608",
+    "new_name": "Xã Thường Phước",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

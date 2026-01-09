@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67897",
+    "name": "Xã Trà Vân",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6157",
+    "new_name": "Xã Trà Vân",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "133433",
+    "name": "Xã Trà Leng",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6669",
+    "new_name": "Xã Trà Leng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "198969",
+    "name": "Xã Trà Don",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "5645",
+    "new_name": "Xã Nam Trà My",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "264505",
+    "name": "Xã Trà Linh",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6413",
+    "new_name": "Xã Trà Linh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "330041",
+    "name": "Xã Trà Mai",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "5645",
+    "new_name": "Xã Nam Trà My",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "395577",
+    "name": "Xã Trà Nam",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6413",
+    "new_name": "Xã Trà Linh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "461113",
+    "name": "Xã Trà Tập",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "5901",
+    "new_name": "Xã Trà Tập",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "526649",
+    "name": "Xã Trà Dơn",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6669",
+    "new_name": "Xã Trà Leng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "592185",
+    "name": "Xã Trà Vinh",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "6157",
+    "new_name": "Xã Trà Vân",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "657721",
+    "name": "Xã Trà Cang",
+    "district_id": "2361",
+    "district_name": "Huyện Nam Trà My",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "5901",
+    "new_name": "Xã Trà Tập",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

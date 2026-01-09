@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66088",
+    "name": "Xã Hợp Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3107",
+    "new_name": "Xã Cao Phong",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "131624",
+    "name": "Xã Bắc Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3619",
+    "new_name": "Xã Thung Nai",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "197160",
+    "name": "Xã Bình Thanh",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3619",
+    "new_name": "Xã Thung Nai",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "262696",
+    "name": "Xã Dũng Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3363",
+    "new_name": "Xã Mường Thàng",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "328232",
+    "name": "Xã Nam Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3363",
+    "new_name": "Xã Mường Thàng",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "393768",
+    "name": "Xã Tây Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3363",
+    "new_name": "Xã Mường Thàng",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "459304",
+    "name": "Xã Thu Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3107",
+    "new_name": "Xã Cao Phong",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "524840",
+    "name": "Xã Thung Nai",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3619",
+    "new_name": "Xã Thung Nai",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "590376",
+    "name": "Xã Thạch Yên",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3363",
+    "new_name": "Xã Mường Thàng",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "655912",
+    "name": "Thị Trấn Cao Phong",
+    "district_id": "552",
+    "district_name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_id": "3107",
+    "new_name": "Xã Cao Phong",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

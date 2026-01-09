@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65806",
+    "name": "Phường Hòa Xuân",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "22029",
+    "new_name": "Phường Hòa Xuân",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "131342",
+    "name": "Phường Khuê Trung",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21773",
+    "new_name": "Phường Cẩm Lệ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "196878",
+    "name": "Phường Hòa Thọ Tây",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21773",
+    "new_name": "Phường Cẩm Lệ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "262414",
+    "name": "Phường Hòa Thọ Đông",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21773",
+    "new_name": "Phường Cẩm Lệ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "327950",
+    "name": "Phường Hòa Phát",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20237",
+    "new_name": "Phường An Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "393486",
+    "name": "Phường Hòa An",
+    "district_id": "270",
+    "district_name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "20237",
+    "new_name": "Phường An Khê",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

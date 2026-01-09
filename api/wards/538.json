@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66074",
+    "name": "Phường Phước Lộc",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "25118",
+    "new_name": "Phường Phước Hội",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "131610",
+    "name": "Phường Tân An",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "24862",
+    "new_name": "Phường La Gi",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "197146",
+    "name": "Phường Tân Thiện",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "24862",
+    "new_name": "Phường La Gi",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "262682",
+    "name": "Xã Tân Bình",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "24862",
+    "new_name": "Phường La Gi",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "328218",
+    "name": "Xã Tân Hải",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "25374",
+    "new_name": "Xã Tân Hải",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "393754",
+    "name": "Xã Tân Phước",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "25118",
+    "new_name": "Phường Phước Hội",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "459290",
+    "name": "Xã Tân Tiến",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "25374",
+    "new_name": "Xã Tân Hải",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "524826",
+    "name": "Phường Bình Tân",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "24862",
+    "new_name": "Phường La Gi",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "590362",
+    "name": "Phường Phước Hội",
+    "district_id": "538",
+    "district_name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "25118",
+    "new_name": "Phường Phước Hội",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

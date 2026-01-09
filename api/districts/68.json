@@ -1,0 +1,90 @@
+[
+  {
+    "id": "324",
+    "name": "Thành Phố Mỹ Tho",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "580",
+    "name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "836",
+    "name": "Thị Xã Cai Lậy",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "1092",
+    "name": "Huyện Cái Bè",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "1348",
+    "name": "Huyện Châu Thành",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "1604",
+    "name": "Huyện Chợ Gạo",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "1860",
+    "name": "Huyện Gò Công Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "2116",
+    "name": "Huyện Gò Công Tây",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "2372",
+    "name": "Huyện Tân Phước",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "2628",
+    "name": "Huyện Tân Phú Đông",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "2884",
+    "name": "Huyện Cai Lậy",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

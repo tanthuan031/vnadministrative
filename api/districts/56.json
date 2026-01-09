@@ -1,0 +1,66 @@
+[
+  {
+    "id": "312",
+    "name": "Thành Phố Đồng Hới",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "568",
+    "name": "Thị Xã Ba Đồn",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "824",
+    "name": "Huyện Bố Trạch",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "1080",
+    "name": "Huyện Lệ Thủy",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "1336",
+    "name": "Huyện Minh Hóa",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "1592",
+    "name": "Huyện Quảng Ninh",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "1848",
+    "name": "Huyện Quảng Trạch",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "2104",
+    "name": "Huyện Tuyên Hóa",
+    "province_id": "56",
+    "province_name": "Tỉnh Quảng Bình",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  }
+]

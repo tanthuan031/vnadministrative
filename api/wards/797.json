@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66333",
+    "name": "Xã Ea Nuôl",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7957",
+    "new_name": "Xã Ea Nuôl",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "131869",
+    "name": "Xã Ea Wer",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7701",
+    "new_name": "Xã Ea Wer",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "197405",
+    "name": "Xã Krông Na",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "2581",
+    "new_name": "Xã Buôn Đôn",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "262941",
+    "name": "Xã Tân Hòa",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7701",
+    "new_name": "Xã Ea Wer",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "328477",
+    "name": "Xã Cuôr Knia",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7957",
+    "new_name": "Xã Ea Nuôl",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "394013",
+    "name": "Xã Ea Bar",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7957",
+    "new_name": "Xã Ea Nuôl",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "459549",
+    "name": "Xã Ea Huar",
+    "district_id": "797",
+    "district_name": "Huyện Buôn Đôn",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "7701",
+    "new_name": "Xã Ea Wer",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "277",
+    "name": "Thành Phố Bắc Ninh",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "533",
+    "name": "Huyện Gia Bình",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "789",
+    "name": "Huyện Lương Tài",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1045",
+    "name": "Thị Xã Quế Võ",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1301",
+    "name": "Thị Xã Thuận Thành",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1557",
+    "name": "Huyện Tiên Du",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1813",
+    "name": "Thành Phố Từ Sơn",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "2069",
+    "name": "Huyện Yên Phong",
+    "province_id": "21",
+    "province_name": "Tỉnh Bắc Ninh",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67398",
+    "name": "Xã Phúc Yên",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21035",
+    "new_name": "Xã Lâm Bình",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "132934",
+    "name": "Xã Xuân Lập",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21035",
+    "new_name": "Xã Lâm Bình",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "198470",
+    "name": "Xã Thổ Bình",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21547",
+    "new_name": "Xã Bình An",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "264006",
+    "name": "Xã Bình An",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21547",
+    "new_name": "Xã Bình An",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "329542",
+    "name": "Xã Hồng Quang",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21291",
+    "new_name": "Xã Minh Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "395078",
+    "name": "Xã Thượng Lâm",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "20779",
+    "new_name": "Xã Thượng Lâm",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "460614",
+    "name": "Xã Khuôn Hà",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "20779",
+    "new_name": "Xã Thượng Lâm",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "526150",
+    "name": "Thị Trấn Lăng Can",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21035",
+    "new_name": "Xã Lâm Bình",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "591686",
+    "name": "Xã Minh Quang",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21291",
+    "new_name": "Xã Minh Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "657222",
+    "name": "Xã Phúc Sơn",
+    "district_id": "1862",
+    "district_name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_id": "21291",
+    "new_name": "Xã Minh Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  }
+]

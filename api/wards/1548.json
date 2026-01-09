@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67084",
+    "name": "Phường 2",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "32268",
+    "new_name": "Phường Bình Tây",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "198156",
+    "name": "Phường 7",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19468",
+    "new_name": "Phường Bình Tiên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263692",
+    "name": "Phường 8",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19468",
+    "new_name": "Phường Bình Tiên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "329228",
+    "name": "Phường 9",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "32268",
+    "new_name": "Phường Bình Tây",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "394764",
+    "name": "Phường 11",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "9228",
+    "new_name": "Phường Bình Phú",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460300",
+    "name": "Phường 12",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19724",
+    "new_name": "Phường Phú Lâm",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "525836",
+    "name": "Phường 13",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19724",
+    "new_name": "Phường Phú Lâm",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "591372",
+    "name": "Phường 14",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19724",
+    "new_name": "Phường Phú Lâm",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "853516",
+    "name": "Phường 1",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19468",
+    "new_name": "Phường Bình Tiên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "919052",
+    "name": "Phường 10",
+    "district_id": "1548",
+    "district_name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "9228",
+    "new_name": "Phường Bình Phú",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

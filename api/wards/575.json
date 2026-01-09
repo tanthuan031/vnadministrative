@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66111",
+    "name": "Xã Lợi Thuận",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12328",
+    "new_name": "Xã Bến Cầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "131647",
+    "name": "Thị Trấn Bến Cầu",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12328",
+    "new_name": "Xã Bến Cầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "197183",
+    "name": "Xã An Thạnh",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12328",
+    "new_name": "Xã Bến Cầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "262719",
+    "name": "Xã Long Chữ",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "11816",
+    "new_name": "Xã Long Chữ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "328255",
+    "name": "Xã Long Giang",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12072",
+    "new_name": "Xã Long Thuận",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "393791",
+    "name": "Xã Long Khánh",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12072",
+    "new_name": "Xã Long Thuận",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "459327",
+    "name": "Xã Long Phước",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "11816",
+    "new_name": "Xã Long Chữ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "524863",
+    "name": "Xã Long Thuận",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12072",
+    "new_name": "Xã Long Thuận",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "590399",
+    "name": "Xã Tiên Thuận",
+    "district_id": "575",
+    "district_name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "12328",
+    "new_name": "Xã Bến Cầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

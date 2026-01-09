@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67090",
+    "name": "Xã Phong Thạnh Tây B",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11027",
+    "new_name": "Xã Phong Hiệp",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132626",
+    "name": "Xã Phước Long",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10771",
+    "new_name": "Xã Vĩnh Phước",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "198162",
+    "name": "Xã Hưng Phú",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11283",
+    "new_name": "Xã Vĩnh Thanh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263698",
+    "name": "Xã Vĩnh Phú Tây",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10771",
+    "new_name": "Xã Vĩnh Phước",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "329234",
+    "name": "Xã Vĩnh Thanh",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11283",
+    "new_name": "Xã Vĩnh Thanh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394770",
+    "name": "Thị Trấn Phước Long",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10515",
+    "new_name": "Xã Phước Long",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "460306",
+    "name": "Xã Phong Thạnh Tây A",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11027",
+    "new_name": "Xã Phong Hiệp",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "525842",
+    "name": "Xã Vĩnh Phú Đông",
+    "district_id": "1554",
+    "district_name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10515",
+    "new_name": "Xã Phước Long",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

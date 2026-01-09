@@ -1,0 +1,98 @@
+[
+  {
+    "id": "68413",
+    "name": "Thị Trấn Châu Thành",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "16655",
+    "new_name": "Xã Phú Tâm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "133949",
+    "name": "Xã An Hiệp",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "16911",
+    "new_name": "Xã An Ninh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "199485",
+    "name": "Xã An Ninh",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "16911",
+    "new_name": "Xã An Ninh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "265021",
+    "name": "Xã Thiện Mỹ",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17423",
+    "new_name": "Xã Hồ Đắc Kiện",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "330557",
+    "name": "Xã Hồ Đắc Kiện",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17423",
+    "new_name": "Xã Hồ Đắc Kiện",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "396093",
+    "name": "Xã Phú Tâm",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "16655",
+    "new_name": "Xã Phú Tâm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "461629",
+    "name": "Xã Phú Tân",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17167",
+    "new_name": "Xã Thuận Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "527165",
+    "name": "Xã Thuận Hòa",
+    "district_id": "2877",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "17167",
+    "new_name": "Xã Thuận Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "304",
+    "name": "Thành Phố Lào Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "560",
+    "name": "Huyện Bắc Hà",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "816",
+    "name": "Huyện Bảo Thắng",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1072",
+    "name": "Huyện Bảo Yên",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1328",
+    "name": "Huyện Bát Xát",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1584",
+    "name": "Huyện Mường Khương",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1840",
+    "name": "Thị Xã Sa Pa",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "2096",
+    "name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "2352",
+    "name": "Huyện Văn Bàn",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  }
+]

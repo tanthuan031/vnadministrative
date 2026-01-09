@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67614",
+    "name": "Xã Đắk Ngo",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20510",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "133150",
+    "name": "Xã Quảng Tâm",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20766",
+    "new_name": "Xã Tuy Đức",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "198686",
+    "name": "Xã Quảng Tân",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20510",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "264222",
+    "name": "Xã Đắk Búk So",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20766",
+    "new_name": "Xã Tuy Đức",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "329758",
+    "name": "Xã Quảng Trực",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "798",
+    "new_name": "Xã Quảng Trực",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "395294",
+    "name": "Xã Đắk R'Tíh",
+    "district_id": "2078",
+    "district_name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "20766",
+    "new_name": "Xã Tuy Đức",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

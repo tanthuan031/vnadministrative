@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66063",
+    "name": "Phường Lê Bình",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3855",
+    "new_name": "Phường Cái Răng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131599",
+    "name": "Phường Ba Láng",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3855",
+    "new_name": "Phường Cái Răng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197135",
+    "name": "Phường Tân Phú",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4111",
+    "new_name": "Phường Hưng Phú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262671",
+    "name": "Phường Thường Thạnh",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3855",
+    "new_name": "Phường Cái Răng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328207",
+    "name": "Phường Phú Thứ",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4111",
+    "new_name": "Phường Hưng Phú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393743",
+    "name": "Phường Hưng Phú",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4111",
+    "new_name": "Phường Hưng Phú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459279",
+    "name": "Phường Hưng Thạnh",
+    "district_id": "527",
+    "district_name": "Quận Cái Răng",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3855",
+    "new_name": "Phường Cái Răng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66364",
+    "name": "Xã Cam Thành",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13350",
+    "new_name": "Xã Cam Lộ",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "131900",
+    "name": "Thị Trấn Cam Lộ",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13350",
+    "new_name": "Xã Cam Lộ",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "197436",
+    "name": "Xã Cam Chính",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13350",
+    "new_name": "Xã Cam Lộ",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "262972",
+    "name": "Xã Cam Hiếu",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13606",
+    "new_name": "Xã Hiếu Giang",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "328508",
+    "name": "Xã Cam Nghĩa",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13350",
+    "new_name": "Xã Cam Lộ",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "394044",
+    "name": "Xã Cam Thủy",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13606",
+    "new_name": "Xã Hiếu Giang",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "459580",
+    "name": "Xã Cam Tuyền",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13606",
+    "new_name": "Xã Hiếu Giang",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  },
+  {
+    "id": "525116",
+    "name": "Xã Thanh An",
+    "district_id": "828",
+    "district_name": "Huyện Cam Lộ",
+    "province_id": "60",
+    "province_name": "Tỉnh Quảng Trị",
+    "new_id": "13606",
+    "new_name": "Xã Hiếu Giang",
+    "new_province_id": "38",
+    "new_province_name": "Tỉnh Quảng Trị"
+  }
+]

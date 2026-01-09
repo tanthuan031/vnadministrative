@@ -1,0 +1,74 @@
+[
+  {
+    "id": "311",
+    "name": "Thành Phố Tuy Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "567",
+    "name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "823",
+    "name": "Huyện Đồng Xuân",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "1079",
+    "name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "1335",
+    "name": "Thị Xã Sông Cầu",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "1591",
+    "name": "Huyện Sông Hinh",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "1847",
+    "name": "Huyện Sơn Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "2103",
+    "name": "Huyện Tây Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "2359",
+    "name": "Huyện Tuy An",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68657",
+    "name": "Xã Bình Trinh Đông",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "23080",
+    "new_name": "Xã Tân Trụ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "134193",
+    "name": "Thị Trấn Tân Trụ",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "23080",
+    "new_name": "Xã Tân Trụ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "199729",
+    "name": "Xã Bình Lãng",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "23080",
+    "new_name": "Xã Tân Trụ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "265265",
+    "name": "Xã Bình Tịnh",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "23080",
+    "new_name": "Xã Tân Trụ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "330801",
+    "name": "Xã Đức Tân",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "22824",
+    "new_name": "Xã Vàm Cỏ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "396337",
+    "name": "Xã Lạc Tấn",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "5672",
+    "new_name": "Xã Nhựt Tảo",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "461873",
+    "name": "Xã Nhựt Ninh",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "22824",
+    "new_name": "Xã Vàm Cỏ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "527409",
+    "name": "Xã Quê Mỹ Thạnh",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "5672",
+    "new_name": "Xã Nhựt Tảo",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "592945",
+    "name": "Xã Tân Phước Tây",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "22824",
+    "new_name": "Xã Vàm Cỏ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "658481",
+    "name": "Xã Tân Bình",
+    "district_id": "3121",
+    "district_name": "Huyện Tân Trụ",
+    "province_id": "49",
+    "province_name": "Tỉnh Long An",
+    "new_id": "5672",
+    "new_name": "Xã Nhựt Tảo",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66120",
+    "name": "Phường Hai Bà Trưng",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2339",
+    "new_name": "Phường Phúc Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "131656",
+    "name": "Phường Phúc Thắng",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2339",
+    "new_name": "Phường Phúc Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "197192",
+    "name": "Phường Đồng Xuân",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2595",
+    "new_name": "Phường Xuân Hòa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "262728",
+    "name": "Phường Hùng Vương",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2339",
+    "new_name": "Phường Phúc Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "393800",
+    "name": "Phường Xuân Hòa",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2595",
+    "new_name": "Phường Xuân Hòa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "459336",
+    "name": "Xã Cao Minh",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2595",
+    "new_name": "Phường Xuân Hòa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "524872",
+    "name": "Phường Nam Viêm",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2339",
+    "new_name": "Phường Phúc Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "590408",
+    "name": "Xã Ngọc Thanh",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2595",
+    "new_name": "Phường Xuân Hòa",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "655944",
+    "name": "Phường Tiền Châu",
+    "district_id": "584",
+    "district_name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "2339",
+    "new_name": "Phường Phúc Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

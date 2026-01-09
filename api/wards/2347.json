@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67883",
+    "name": "Xã Hòn Nghệ",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "273",
+    "new_name": "Xã Hòn Nghệ",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "133419",
+    "name": "Xã Sơn Hải",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "529",
+    "new_name": "Xã Sơn Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "198955",
+    "name": "Thị Trấn Kiên Lương",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "26129",
+    "new_name": "Xã Kiên Lương",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "264491",
+    "name": "Xã Bình An",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "26129",
+    "new_name": "Xã Kiên Lương",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "330027",
+    "name": "Xã Bình Trị",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "26129",
+    "new_name": "Xã Kiên Lương",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "395563",
+    "name": "Xã Dương Hòa",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16657",
+    "new_name": "Phường Tô Châu",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "461099",
+    "name": "Xã Hòa Điền",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "785",
+    "new_name": "Xã Hòa Điền",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "526635",
+    "name": "Xã Kiên Bình",
+    "district_id": "2347",
+    "district_name": "Huyện Kiên Lương",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "785",
+    "new_name": "Xã Hòa Điền",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

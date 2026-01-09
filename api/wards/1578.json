@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67114",
+    "name": "Thị Trấn Tô Hạp",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "11548",
+    "new_name": "Xã Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "132650",
+    "name": "Xã Ba Cụm Bắc",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "12060",
+    "new_name": "Xã Đông Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "198186",
+    "name": "Xã Ba Cụm Nam",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "12060",
+    "new_name": "Xã Đông Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "263722",
+    "name": "Xã Sơn Bình",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "11548",
+    "new_name": "Xã Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "329258",
+    "name": "Xã Sơn Hiệp",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "11548",
+    "new_name": "Xã Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "394794",
+    "name": "Xã Sơn Lâm",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "11804",
+    "new_name": "Xã Tây Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "460330",
+    "name": "Xã Sơn Trung",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "12060",
+    "new_name": "Xã Đông Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "525866",
+    "name": "Xã Thành Sơn",
+    "district_id": "1578",
+    "district_name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_id": "11804",
+    "new_name": "Xã Tây Khánh Sơn",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

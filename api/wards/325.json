@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65861",
+    "name": "Phường 9",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "10540",
+    "new_name": "Phường Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "131397",
+    "name": "Xã Long Đức",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "10796",
+    "new_name": "Phường Long Đức",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "196933",
+    "name": "Phường 1",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "10540",
+    "new_name": "Phường Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "328005",
+    "name": "Phường 3",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "10540",
+    "new_name": "Phường Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "393541",
+    "name": "Phường 4",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "10796",
+    "new_name": "Phường Long Đức",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "459077",
+    "name": "Phường 5",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "11308",
+    "new_name": "Phường Hòa Thuận",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "590149",
+    "name": "Phường 7",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "11052",
+    "new_name": "Phường Nguyệt Hóa",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "655685",
+    "name": "Phường 8",
+    "district_id": "325",
+    "district_name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "11052",
+    "new_name": "Phường Nguyệt Hóa",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

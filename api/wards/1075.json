@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66611",
+    "name": "Phường Quỳnh Dị",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9505",
+    "new_name": "Phường Tân Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "132147",
+    "name": "Xã Quỳnh Lộc",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9505",
+    "new_name": "Phường Tân Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "197683",
+    "name": "Phường Quỳnh Thiện",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9249",
+    "new_name": "Phường Hoàng Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "263219",
+    "name": "Xã Quỳnh Lập",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9505",
+    "new_name": "Phường Tân Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "328755",
+    "name": "Xã Quỳnh Liên",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9761",
+    "new_name": "Phường Quỳnh Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "394291",
+    "name": "Phường Mai Hùng",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9761",
+    "new_name": "Phường Quỳnh Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "459827",
+    "name": "Phường Quỳnh Phương",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9761",
+    "new_name": "Phường Quỳnh Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "525363",
+    "name": "Xã Quỳnh Trang",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9249",
+    "new_name": "Phường Hoàng Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "590899",
+    "name": "Xã Quỳnh Vinh",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9249",
+    "new_name": "Phường Hoàng Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "656435",
+    "name": "Phường Quỳnh Xuân",
+    "district_id": "1075",
+    "district_name": "Thị Xã Hoàng Mai",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "9761",
+    "new_name": "Phường Quỳnh Mai",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  }
+]

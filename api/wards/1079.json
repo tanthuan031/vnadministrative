@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66615",
+    "name": "Thị Trấn Phú Hòa",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25621",
+    "new_name": "Xã Phú Hòa 1",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "132151",
+    "name": "Xã Hòa An",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25365",
+    "new_name": "Phường Tuy Hòa",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "197687",
+    "name": "Xã Hòa Định Đông",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25621",
+    "new_name": "Xã Phú Hòa 1",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "263223",
+    "name": "Xã Hòa Định Tây",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25621",
+    "new_name": "Xã Phú Hòa 1",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "328759",
+    "name": "Xã Hòa Hội",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25621",
+    "new_name": "Xã Phú Hòa 1",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "394295",
+    "name": "Xã Hòa Quang Bắc",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "789",
+    "new_name": "Xã Phú Hòa 2",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "459831",
+    "name": "Xã Hòa Quang Nam",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "789",
+    "new_name": "Xã Phú Hòa 2",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "525367",
+    "name": "Xã Hòa Thắng",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "25621",
+    "new_name": "Xã Phú Hòa 1",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "590903",
+    "name": "Xã Hòa Trị",
+    "district_id": "1079",
+    "district_name": "Huyện Phú Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "789",
+    "new_name": "Xã Phú Hòa 2",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

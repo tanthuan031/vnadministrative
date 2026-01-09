@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67851",
+    "name": "Phường Bưởi",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "32267",
+    "new_name": "Phường Tây Hồ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "133387",
+    "name": "Phường Nhật Tân",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "17163",
+    "new_name": "Phường Hồng Hà",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "198923",
+    "name": "Phường Quảng An",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "32267",
+    "new_name": "Phường Tây Hồ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "264459",
+    "name": "Phường Tứ Liên",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "17163",
+    "new_name": "Phường Hồng Hà",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "329995",
+    "name": "Phường Xuân La",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "1803",
+    "new_name": "Phường Xuân Đỉnh",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "395531",
+    "name": "Phường Yên Phụ",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "17163",
+    "new_name": "Phường Hồng Hà",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "461067",
+    "name": "Phường Phú Thượng",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "17163",
+    "new_name": "Phường Hồng Hà",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "526603",
+    "name": "Phường Thụy Khuê",
+    "district_id": "2315",
+    "district_name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "32267",
+    "new_name": "Phường Tây Hồ",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  }
+]

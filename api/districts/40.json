@@ -1,0 +1,82 @@
+[
+  {
+    "id": "296",
+    "name": "Thành Phố Hòa Bình",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "552",
+    "name": "Huyện Cao Phong",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "808",
+    "name": "Huyện Kim Bôi",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1320",
+    "name": "Huyện Lạc Sơn",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1576",
+    "name": "Huyện Lạc Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1832",
+    "name": "Huyện Lương Sơn",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2088",
+    "name": "Huyện Mai Châu",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2344",
+    "name": "Huyện Đà Bắc",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2600",
+    "name": "Huyện Tân Lạc",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2856",
+    "name": "Huyện Yên Thủy",
+    "province_id": "40",
+    "province_name": "Tỉnh Hòa Bình",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

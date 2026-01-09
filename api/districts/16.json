@@ -1,0 +1,90 @@
+[
+  {
+    "id": "272",
+    "name": "Thành Phố Long Xuyên",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "528",
+    "name": "Thành Phố Châu Đốc",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "784",
+    "name": "Thị Xã Tân Châu",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1040",
+    "name": "Huyện An Phú",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1296",
+    "name": "Huyện Châu Phú",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1552",
+    "name": "Huyện Châu Thành",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "1808",
+    "name": "Huyện Chợ Mới",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2064",
+    "name": "Huyện Phú Tân",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2320",
+    "name": "Huyện Thoại Sơn",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2576",
+    "name": "Thị Xã Tịnh Biên",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "2832",
+    "name": "Huyện Tri Tôn",
+    "province_id": "16",
+    "province_name": "Tỉnh An Giang",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

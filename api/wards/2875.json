@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68411",
+    "name": "Thị Trấn Đầm Hà",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12069",
+    "new_name": "Xã Đầm Hà",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "133947",
+    "name": "Xã Dực Yên",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9765",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "199483",
+    "name": "Xã Đại Bình",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12069",
+    "new_name": "Xã Đầm Hà",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "265019",
+    "name": "Xã Đầm Hà",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12069",
+    "new_name": "Xã Đầm Hà",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "330555",
+    "name": "Xã Quảng An",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9765",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "396091",
+    "name": "Xã Quảng Lâm",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9765",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "461627",
+    "name": "Xã Quảng Tân",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "9765",
+    "new_name": "Xã Quảng Tân",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "527163",
+    "name": "Xã Tân Bình",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12069",
+    "new_name": "Xã Đầm Hà",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "592699",
+    "name": "Xã Tân Lập",
+    "district_id": "2875",
+    "district_name": "Huyện Đầm Hà",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12069",
+    "new_name": "Xã Đầm Hà",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  }
+]

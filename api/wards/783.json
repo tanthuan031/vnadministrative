@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66319",
+    "name": "Phường An Hòa",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2319",
+    "new_name": "Phường Cái Khế",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197391",
+    "name": "Phường Cái Khế",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2319",
+    "new_name": "Phường Cái Khế",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262927",
+    "name": "Phường An Bình",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2575",
+    "new_name": "Phường An Bình",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393999",
+    "name": "Phường An Khánh",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3343",
+    "new_name": "Phường Tân An",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525071",
+    "name": "Phường Hưng Lợi",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3343",
+    "new_name": "Phường Tân An",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "590607",
+    "name": "Phường Tân An",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3087",
+    "new_name": "Phường Ninh Kiều",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "656143",
+    "name": "Phường Thới Bình",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3087",
+    "new_name": "Phường Ninh Kiều",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "721679",
+    "name": "Phường Xuân Khánh",
+    "district_id": "783",
+    "district_name": "Quận Ninh Kiều",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "3087",
+    "new_name": "Phường Ninh Kiều",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

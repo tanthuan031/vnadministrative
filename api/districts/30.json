@@ -1,0 +1,66 @@
+[
+  {
+    "id": "286",
+    "name": "Thành Phố Gia Nghĩa",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "542",
+    "name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "798",
+    "name": "Huyện Krông Nô",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1054",
+    "name": "Huyện Đăk Glong",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1310",
+    "name": "Huyện Đắk Mil",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1566",
+    "name": "Huyện Đắk R'Lấp",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1822",
+    "name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "2078",
+    "name": "Huyện Tuy Đức",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

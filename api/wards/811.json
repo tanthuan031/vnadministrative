@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66347",
+    "name": "Thị Trấn Thứ Ba",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22801",
+    "new_name": "Xã An Biên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "131883",
+    "name": "Xã Đông Thái",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22545",
+    "new_name": "Xã Đông Thái",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "197419",
+    "name": "Xã Đông Yên",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22801",
+    "new_name": "Xã An Biên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "262955",
+    "name": "Xã Hưng Yên",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22801",
+    "new_name": "Xã An Biên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "328491",
+    "name": "Xã Nam Thái",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22545",
+    "new_name": "Xã Đông Thái",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "394027",
+    "name": "Xã Nam Thái A",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22545",
+    "new_name": "Xã Đông Thái",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "459563",
+    "name": "Xã Nam Yên",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22289",
+    "new_name": "Xã Tây Yên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "525099",
+    "name": "Xã Tây Yên",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22289",
+    "new_name": "Xã Tây Yên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "590635",
+    "name": "Xã Tây Yên A",
+    "district_id": "811",
+    "district_name": "Huyện An Biên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "22289",
+    "new_name": "Xã Tây Yên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

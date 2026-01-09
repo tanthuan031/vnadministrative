@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67129",
+    "name": "Xã Phước Gia",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17933",
+    "new_name": "Xã Phước Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "132665",
+    "name": "Xã Bình Lâm",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17677",
+    "new_name": "Xã Việt An",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "198201",
+    "name": "Xã Bình Sơn",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17677",
+    "new_name": "Xã Việt An",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "329273",
+    "name": "Xã Phước Trà",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17933",
+    "new_name": "Xã Phước Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "394809",
+    "name": "Xã Quế Tân",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17421",
+    "new_name": "Xã Hiệp Đức",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "460345",
+    "name": "Xã Quế Lưu",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17421",
+    "new_name": "Xã Hiệp Đức",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "525881",
+    "name": "Xã Quế Thọ",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17677",
+    "new_name": "Xã Việt An",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "591417",
+    "name": "Xã Sông Trà",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17933",
+    "new_name": "Xã Phước Trà",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "656953",
+    "name": "Xã Thăng Phước",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17677",
+    "new_name": "Xã Việt An",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "722489",
+    "name": "Thị Trấn Tân Bình",
+    "district_id": "1593",
+    "district_name": "Huyện Hiệp Đức",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17421",
+    "new_name": "Xã Hiệp Đức",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

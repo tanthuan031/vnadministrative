@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65827",
+    "name": "Phường Quang Trung",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "1323",
+    "new_name": "Phường Hà Giang 2",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "131363",
+    "name": "Phường Trần Phú",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "1323",
+    "new_name": "Phường Hà Giang 2",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "196899",
+    "name": "Xã Ngọc Đường",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "1579",
+    "new_name": "Xã Ngọc Đường",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "262435",
+    "name": "Xã Phương Độ",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "4395",
+    "new_name": "Phường Hà Giang 1",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "327971",
+    "name": "Xã Phương Thiện",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "4395",
+    "new_name": "Phường Hà Giang 1",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "393507",
+    "name": "Phường Minh Khai",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "1323",
+    "new_name": "Phường Hà Giang 2",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "459043",
+    "name": "Phường Nguyễn Trãi",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "4395",
+    "new_name": "Phường Hà Giang 1",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "524579",
+    "name": "Phường Ngọc Hà",
+    "district_id": "291",
+    "district_name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_id": "1323",
+    "new_name": "Phường Hà Giang 2",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  }
+]

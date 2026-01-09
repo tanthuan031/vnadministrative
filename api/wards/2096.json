@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67632",
+    "name": "Xã Sín Chéng",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25376",
+    "new_name": "Xã Sín Chéng",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "133168",
+    "name": "Xã Thào Chư Phìn",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25376",
+    "new_name": "Xã Sín Chéng",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "198704",
+    "name": "Xã Quan Hồ Thẩn",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25120",
+    "new_name": "Xã Si Ma Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "264240",
+    "name": "Xã Nàn Xín",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25376",
+    "new_name": "Xã Sín Chéng",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "329776",
+    "name": "Xã Bản Mế",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25376",
+    "new_name": "Xã Sín Chéng",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "395312",
+    "name": "Xã Lùng Thẩn",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "23840",
+    "new_name": "Xã Lùng Phình",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "460848",
+    "name": "Xã Cán Cấu",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25120",
+    "new_name": "Xã Si Ma Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "526384",
+    "name": "Xã Nàn Sán",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25120",
+    "new_name": "Xã Si Ma Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "591920",
+    "name": "Xã Sán Chải",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25120",
+    "new_name": "Xã Si Ma Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "657456",
+    "name": "Thị Trấn Si Ma Cai",
+    "district_id": "2096",
+    "district_name": "Huyện Si Ma Cai",
+    "province_id": "48",
+    "province_name": "Tỉnh Lào Cai",
+    "new_id": "25120",
+    "new_name": "Xã Si Ma Cai",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  }
+]

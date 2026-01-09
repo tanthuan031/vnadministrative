@@ -1,0 +1,74 @@
+[
+  {
+    "id": "68907",
+    "name": "Xã An Minh Bắc",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24593",
+    "new_name": "Xã U Minh Thượng",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "134443",
+    "name": "Xã Hòa Chánh",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24337",
+    "new_name": "Xã Vĩnh Hòa",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "199979",
+    "name": "Xã Minh Thuận",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24593",
+    "new_name": "Xã U Minh Thượng",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "265515",
+    "name": "Xã Thạnh Yên",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24337",
+    "new_name": "Xã Vĩnh Hòa",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "331051",
+    "name": "Xã Thạnh Yên A",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24337",
+    "new_name": "Xã Vĩnh Hòa",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "396587",
+    "name": "Xã Vĩnh Hòa",
+    "district_id": "3371",
+    "district_name": "Huyện U Minh Thượng",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24337",
+    "new_name": "Xã Vĩnh Hòa",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

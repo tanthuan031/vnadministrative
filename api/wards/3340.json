@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68876",
+    "name": "Phường Bình Trị Đông",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "5132",
+    "new_name": "Phường Bình Trị Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "134412",
+    "name": "Phường An Lạc",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "23820",
+    "new_name": "Phường An Lạc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "199948",
+    "name": "Phường An Lạc A",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "23820",
+    "new_name": "Phường An Lạc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "265484",
+    "name": "Phường Bình Hưng Hòa",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18188",
+    "new_name": "Phường Bình Hưng Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "331020",
+    "name": "Phường Bình Hưng Hòa A",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "5132",
+    "new_name": "Phường Bình Trị Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "396556",
+    "name": "Phường Bình Hưng Hòa B",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4876",
+    "new_name": "Phường Bình Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "462092",
+    "name": "Phường Bình Trị Đông A",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4876",
+    "new_name": "Phường Bình Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "527628",
+    "name": "Phường Bình Trị Đông B",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "23820",
+    "new_name": "Phường An Lạc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "593164",
+    "name": "Phường Tân Tạo",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4876",
+    "new_name": "Phường Bình Tân",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "658700",
+    "name": "Phường Tân Tạo A",
+    "district_id": "3340",
+    "district_name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "13580",
+    "new_name": "Phường Tân Tạo",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

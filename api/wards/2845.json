@@ -1,0 +1,86 @@
+[
+  {
+    "id": "68381",
+    "name": "Xã Chư Kbô",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "10005",
+    "new_name": "Xã Krông Búk",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "133917",
+    "name": "Xã Cư Né",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "10005",
+    "new_name": "Xã Krông Búk",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "199453",
+    "name": "Xã Cư Pơng",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "10261",
+    "new_name": "Xã Cư Pơng",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "264989",
+    "name": "Xã Ea Ngai",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "9749",
+    "new_name": "Xã Pơng Drang",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "330525",
+    "name": "Xã Ea Sin",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "10261",
+    "new_name": "Xã Cư Pơng",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "396061",
+    "name": "Thị Trấn Pơng Drang",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "9749",
+    "new_name": "Xã Pơng Drang",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "461597",
+    "name": "Xã Tân Lập",
+    "district_id": "2845",
+    "district_name": "Huyện Krông Búk",
+    "province_id": "29",
+    "province_name": "Tỉnh Đắk Lắk",
+    "new_id": "9749",
+    "new_name": "Xã Pơng Drang",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

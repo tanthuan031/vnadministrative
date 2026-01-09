@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66328",
+    "name": "Xã An Dũng",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34585",
+    "new_name": "Xã An Vinh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "131864",
+    "name": "Xã An Hưng",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34329",
+    "new_name": "Xã An Lão",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "197400",
+    "name": "Xã An Nghĩa",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "793",
+    "new_name": "Xã An Toàn",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "262936",
+    "name": "Xã An Quang",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "2841",
+    "new_name": "Xã An Hòa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "328472",
+    "name": "Xã An Vinh",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34585",
+    "new_name": "Xã An Vinh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "394008",
+    "name": "Xã An Toàn",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "793",
+    "new_name": "Xã An Toàn",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "459544",
+    "name": "Xã An Trung",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34585",
+    "new_name": "Xã An Vinh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "525080",
+    "name": "Thị Trấn An Lão",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34329",
+    "new_name": "Xã An Lão",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "590616",
+    "name": "Xã An Hòa",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "2841",
+    "new_name": "Xã An Hòa",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "656152",
+    "name": "Xã An Tân",
+    "district_id": "792",
+    "district_name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34329",
+    "new_name": "Xã An Lão",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

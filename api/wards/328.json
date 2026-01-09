@@ -1,0 +1,110 @@
+[
+  {
+    "id": "65864",
+    "name": "Phường Đống Đa",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21283",
+    "new_name": "Phường Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "131400",
+    "name": "Phường Đồng Tâm",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21539",
+    "new_name": "Phường Vĩnh Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "196936",
+    "name": "Phường Hội Hợp",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21539",
+    "new_name": "Phường Vĩnh Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "262472",
+    "name": "Phường Khai Quang",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21283",
+    "new_name": "Phường Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "328008",
+    "name": "Phường Liên Bảo",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21283",
+    "new_name": "Phường Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "393544",
+    "name": "Phường Ngô Quyền",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21283",
+    "new_name": "Phường Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "459080",
+    "name": "Phường Tích Sơn",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21539",
+    "new_name": "Phường Vĩnh Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "524616",
+    "name": "Phường Định Trung",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21283",
+    "new_name": "Phường Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "590152",
+    "name": "Xã Thanh Trù",
+    "district_id": "328",
+    "district_name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_id": "21539",
+    "new_name": "Phường Vĩnh Yên",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

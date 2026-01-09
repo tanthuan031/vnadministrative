@@ -1,0 +1,38 @@
+[
+  {
+    "id": "66079",
+    "name": "Xã Lay Nưa",
+    "district_id": "543",
+    "district_name": "Thị Xã Mường Lay",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "2838",
+    "new_name": "Phường Mường Lay",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "131615",
+    "name": "Phường Na Lay",
+    "district_id": "543",
+    "district_name": "Thị Xã Mường Lay",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "2838",
+    "new_name": "Phường Mường Lay",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "197151",
+    "name": "Phường Sông Đà",
+    "district_id": "543",
+    "district_name": "Thị Xã Mường Lay",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_id": "2838",
+    "new_name": "Phường Mường Lay",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  }
+]

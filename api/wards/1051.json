@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66587",
+    "name": "Xã Đất Mới",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1811",
+    "new_name": "Xã Đất Mới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132123",
+    "name": "Xã Hàng Vịnh",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "2067",
+    "new_name": "Xã Năm Căn",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "197659",
+    "name": "Xã Tam Giang",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "15635",
+    "new_name": "Xã Tam Giang",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263195",
+    "name": "Xã Tam Giang Đông",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "15635",
+    "new_name": "Xã Tam Giang",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "328731",
+    "name": "Xã Hiệp Tùng",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "15635",
+    "new_name": "Xã Tam Giang",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394267",
+    "name": "Xã Lâm Hải",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1811",
+    "new_name": "Xã Đất Mới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "459803",
+    "name": "Thị Trấn Năm Căn",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1811",
+    "new_name": "Xã Đất Mới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "525339",
+    "name": "Xã Hàm Rồng",
+    "district_id": "1051",
+    "district_name": "Huyện Năm Căn",
+    "province_id": "27",
+    "province_name": "Tỉnh Cà Mau",
+    "new_id": "1811",
+    "new_name": "Xã Đất Mới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

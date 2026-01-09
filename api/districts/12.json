@@ -1,0 +1,178 @@
+[
+  {
+    "id": "268",
+    "name": "Quận 1",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "780",
+    "name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1036",
+    "name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1292",
+    "name": "Quận 5",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1548",
+    "name": "Quận 6",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1804",
+    "name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2060",
+    "name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2572",
+    "name": "Quận 10",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2828",
+    "name": "Quận 11",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "3084",
+    "name": "Quận 12",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "3340",
+    "name": "Quận Bình Tân",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "3596",
+    "name": "Quận Bình Thạnh",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "3852",
+    "name": "Quận Gò Vấp",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "4108",
+    "name": "Quận Phú Nhuận",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "4364",
+    "name": "Quận Tân Bình",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "4620",
+    "name": "Quận Tân Phú",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "4876",
+    "name": "Thành Phố Thủ Đức",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "5132",
+    "name": "Huyện Bình Chánh",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "5388",
+    "name": "Huyện Cần Giờ",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "5644",
+    "name": "Huyện Củ Chi",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "5900",
+    "name": "Huyện Hóc Môn",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "6156",
+    "name": "Huyện Nhà Bè",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

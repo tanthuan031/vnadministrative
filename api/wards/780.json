@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66316",
+    "name": "Phường 1",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2572",
+    "new_name": "Phường Bàn Cờ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197388",
+    "name": "Phường 11",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18444",
+    "new_name": "Phường Nhiêu Lộc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "262924",
+    "name": "Phường 12",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18444",
+    "new_name": "Phường Nhiêu Lộc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "393996",
+    "name": "Phường 3",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2572",
+    "new_name": "Phường Bàn Cờ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459532",
+    "name": "Phường 4",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2572",
+    "new_name": "Phường Bàn Cờ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "525068",
+    "name": "Phường 5",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2572",
+    "new_name": "Phường Bàn Cờ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "656140",
+    "name": "Phường Võ Thị Sáu",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2828",
+    "new_name": "Phường Xuân Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "787212",
+    "name": "Phường 9",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18444",
+    "new_name": "Phường Nhiêu Lộc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "852748",
+    "name": "Phường 14",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "18444",
+    "new_name": "Phường Nhiêu Lộc",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "918284",
+    "name": "Phường 2",
+    "district_id": "780",
+    "district_name": "Quận 3",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "2572",
+    "new_name": "Phường Bàn Cờ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

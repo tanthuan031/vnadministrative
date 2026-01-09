@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67903",
+    "name": "Phường Trảng Bàng",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7208",
+    "new_name": "Phường Trảng Bàng",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "133439",
+    "name": "Phường An Tịnh",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7464",
+    "new_name": "Phường An Tịnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "198975",
+    "name": "Phường Gia Bình",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7720",
+    "new_name": "Phường Gò Dầu",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "264511",
+    "name": "Phường Gia Lộc",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7976",
+    "new_name": "Phường Gia Lộc",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "330047",
+    "name": "Xã Hưng Thuận",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8232",
+    "new_name": "Xã Hưng Thuận",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "395583",
+    "name": "Xã Đôn Thuận",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8232",
+    "new_name": "Xã Hưng Thuận",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "461119",
+    "name": "Phường Lộc Hưng",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7464",
+    "new_name": "Phường An Tịnh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "526655",
+    "name": "Xã Phước Chỉ",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8488",
+    "new_name": "Xã Phước Chỉ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "592191",
+    "name": "Xã Phước Bình",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "8488",
+    "new_name": "Xã Phước Chỉ",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "657727",
+    "name": "Phường An Hòa",
+    "district_id": "2367",
+    "district_name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_id": "7208",
+    "new_name": "Phường Trảng Bàng",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

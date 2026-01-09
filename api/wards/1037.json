@@ -1,0 +1,86 @@
+[
+  {
+    "id": "132109",
+    "name": "Phường Bắc Sơn",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4622",
+    "new_name": "Phường Kiến An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "197645",
+    "name": "Phường Đồng Hòa",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4622",
+    "new_name": "Phường Kiến An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "328717",
+    "name": "Phường Nam Sơn",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4622",
+    "new_name": "Phường Kiến An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "394253",
+    "name": "Phường Ngọc Sơn",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4878",
+    "new_name": "Phường Phù Liễn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "525325",
+    "name": "Phường Trần Thành Ngọ",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4622",
+    "new_name": "Phường Kiến An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "590861",
+    "name": "Phường Bắc Hà",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4878",
+    "new_name": "Phường Phù Liễn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "656397",
+    "name": "Phường Văn Đẩu",
+    "district_id": "1037",
+    "district_name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "4878",
+    "new_name": "Phường Phù Liễn",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

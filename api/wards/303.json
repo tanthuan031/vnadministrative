@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65839",
+    "name": "Phường Vĩnh Trại",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16671",
+    "new_name": "Phường Đông Kinh",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "131375",
+    "name": "Phường Tam Thanh",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "15903",
+    "new_name": "Phường Tam Thanh",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "196911",
+    "name": "Phường Chi Lăng",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16159",
+    "new_name": "Phường Lương Văn Tri",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "262447",
+    "name": "Phường Đông Kinh",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16671",
+    "new_name": "Phường Đông Kinh",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "327983",
+    "name": "Phường Hoàng Văn Thụ",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16415",
+    "new_name": "Phường Kỳ Lừa",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "393519",
+    "name": "Xã Hoàng Đồng",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "15903",
+    "new_name": "Phường Tam Thanh",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "459055",
+    "name": "Xã Mai Pha",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16671",
+    "new_name": "Phường Đông Kinh",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "524591",
+    "name": "Xã Quảng Lạc",
+    "district_id": "303",
+    "district_name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_id": "16159",
+    "new_name": "Phường Lương Văn Tri",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  }
+]

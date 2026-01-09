@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66078",
+    "name": "Xã Đắk Drông",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15646",
+    "new_name": "Xã Nam Dong",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "131614",
+    "name": "Xã Ea Pô",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15390",
+    "new_name": "Xã Đắk Wil",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "197150",
+    "name": "Xã Cư Knia",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15902",
+    "new_name": "Xã Cư Jút",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "262686",
+    "name": "Xã Đắk Wil",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15390",
+    "new_name": "Xã Đắk Wil",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "328222",
+    "name": "Xã Nam Dong",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15646",
+    "new_name": "Xã Nam Dong",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "393758",
+    "name": "Xã Tâm Thắng",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15902",
+    "new_name": "Xã Cư Jút",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "459294",
+    "name": "Xã Trúc Sơn",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15902",
+    "new_name": "Xã Cư Jút",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "524830",
+    "name": "Thị Trấn Ea T'Ling",
+    "district_id": "542",
+    "district_name": "Huyện Cư Jút",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "15902",
+    "new_name": "Xã Cư Jút",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

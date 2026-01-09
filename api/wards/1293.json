@@ -1,0 +1,86 @@
+[
+  {
+    "id": "132365",
+    "name": "Phường An Biên",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "5134",
+    "new_name": "Phường An Biên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "197901",
+    "name": "Phường An Dương",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "5134",
+    "new_name": "Phường An Biên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "394509",
+    "name": "Phường Dư Hàng Kênh",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26894",
+    "new_name": "Phường Lê Chân",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "460045",
+    "name": "Phường Hàng Kênh",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26894",
+    "new_name": "Phường Lê Chân",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "591117",
+    "name": "Phường Kênh Dương",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "26894",
+    "new_name": "Phường Lê Chân",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "918797",
+    "name": "Phường Trần Nguyên Hãn",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "5134",
+    "new_name": "Phường An Biên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "984333",
+    "name": "Phường Vĩnh Niệm",
+    "district_id": "1293",
+    "district_name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "5134",
+    "new_name": "Phường An Biên",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

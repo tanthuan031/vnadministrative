@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66103",
+    "name": "Phường Hòa Hiệp Bắc",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "277",
+    "new_name": "Phường Hòa Hiệp",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "131639",
+    "name": "Xã Hòa Tân Đông",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20501",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "197175",
+    "name": "Xã Hòa Thành",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "1813",
+    "new_name": "Phường Phú Yên",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "262711",
+    "name": "Phường Hòa Hiệp Nam",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "277",
+    "new_name": "Phường Hòa Hiệp",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "328247",
+    "name": "Phường Hòa Hiệp Trung",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "277",
+    "new_name": "Phường Hòa Hiệp",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "393783",
+    "name": "Xã Hòa Tâm",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20757",
+    "new_name": "Xã Hòa Xuân",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "459319",
+    "name": "Phường Hòa Vinh",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20501",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "524855",
+    "name": "Xã Hòa Xuân Đông",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20757",
+    "new_name": "Xã Hòa Xuân",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "590391",
+    "name": "Xã Hòa Xuân Nam",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20757",
+    "new_name": "Xã Hòa Xuân",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  },
+  {
+    "id": "655927",
+    "name": "Phường Hòa Xuân Tây",
+    "district_id": "567",
+    "district_name": "Thị Xã Đông Hòa",
+    "province_id": "55",
+    "province_name": "Tỉnh Phú Yên",
+    "new_id": "20501",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "21",
+    "new_province_name": "Tỉnh Đắk Lắk"
+  }
+]

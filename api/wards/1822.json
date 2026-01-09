@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67358",
+    "name": "Thị Trấn Đức An",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18462",
+    "new_name": "Xã Đức An",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "132894",
+    "name": "Xã Đắk Hòa",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18206",
+    "new_name": "Xã Đắk Song",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "198430",
+    "name": "Xã Đắk Môl",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18206",
+    "new_name": "Xã Đắk Song",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "263966",
+    "name": "Xã Nam Bình",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18462",
+    "new_name": "Xã Đức An",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "329502",
+    "name": "Xã Trường Xuân",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18974",
+    "new_name": "Xã Trường Xuân",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "395038",
+    "name": "Xã Thuận Hà",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18718",
+    "new_name": "Xã Thuận Hạnh",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "460574",
+    "name": "Xã Thuận Hạnh",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18718",
+    "new_name": "Xã Thuận Hạnh",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "526110",
+    "name": "Xã Đắk N'Dung",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18462",
+    "new_name": "Xã Đức An",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "591646",
+    "name": "Xã Nâm N'Jang",
+    "district_id": "1822",
+    "district_name": "Huyện Đắk Song",
+    "province_id": "30",
+    "province_name": "Tỉnh Đắk Nông",
+    "new_id": "18974",
+    "new_name": "Xã Trường Xuân",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

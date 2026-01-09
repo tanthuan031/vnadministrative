@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66621",
+    "name": "Xã An Thạnh Nam",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22287",
+    "new_name": "Xã Cù Lao Dung",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132157",
+    "name": "Xã An Thạnh Đông",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22031",
+    "new_name": "Xã An Thạnh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197693",
+    "name": "Xã Đại Ân 1",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22287",
+    "new_name": "Xã Cù Lao Dung",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263229",
+    "name": "Xã An Thạnh Tây",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22031",
+    "new_name": "Xã An Thạnh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328765",
+    "name": "Thị Trấn Cù Lao Dung",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22031",
+    "new_name": "Xã An Thạnh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394301",
+    "name": "Xã An Thạnh 1",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22031",
+    "new_name": "Xã An Thạnh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459837",
+    "name": "Xã An Thạnh 2",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22287",
+    "new_name": "Xã Cù Lao Dung",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525373",
+    "name": "Xã An Thạnh 3",
+    "district_id": "1085",
+    "district_name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "22287",
+    "new_name": "Xã Cù Lao Dung",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

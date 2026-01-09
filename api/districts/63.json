@@ -1,0 +1,74 @@
+[
+  {
+    "id": "319",
+    "name": "Thành Phố Tây Ninh",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "575",
+    "name": "Huyện Bến Cầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "831",
+    "name": "Huyện Châu Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1087",
+    "name": "Huyện Dương Minh Châu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1343",
+    "name": "Huyện Gò Dầu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1599",
+    "name": "Thị Xã Hòa Thành",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "1855",
+    "name": "Huyện Tân Biên",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2111",
+    "name": "Huyện Tân Châu",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  },
+  {
+    "id": "2367",
+    "name": "Thị Xã Trảng Bàng",
+    "province_id": "63",
+    "province_name": "Tỉnh Tây Ninh",
+    "new_province_id": "40",
+    "new_province_name": "Tỉnh Tây Ninh"
+  }
+]

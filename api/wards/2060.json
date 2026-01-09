@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67596",
+    "name": "Phường 6",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3084",
+    "new_name": "Phường Bình Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "133132",
+    "name": "Phường 7",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3084",
+    "new_name": "Phường Bình Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460812",
+    "name": "Phường Xóm Củi",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3852",
+    "new_name": "Phường Phú Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "526348",
+    "name": "Phường 14",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3852",
+    "new_name": "Phường Phú Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "591884",
+    "name": "Phường 15",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3852",
+    "new_name": "Phường Phú Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "657420",
+    "name": "Phường 16",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3852",
+    "new_name": "Phường Phú Định",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "722956",
+    "name": "Phường Rạch Ông",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4108",
+    "new_name": "Phường Chánh Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "854028",
+    "name": "Phường 4",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4108",
+    "new_name": "Phường Chánh Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "919564",
+    "name": "Phường 5",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3084",
+    "new_name": "Phường Bình Đông",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1050636",
+    "name": "Phường Hưng Phú",
+    "district_id": "2060",
+    "district_name": "Quận 8",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "4108",
+    "new_name": "Phường Chánh Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

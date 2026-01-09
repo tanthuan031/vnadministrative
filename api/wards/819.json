@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66355",
+    "name": "Phường Hòa Hiếu",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26657",
+    "new_name": "Phường Thái Hòa",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "131891",
+    "name": "Phường Long Sơn",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26657",
+    "new_name": "Phường Thái Hòa",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "197427",
+    "name": "Phường Quang Phong",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26657",
+    "new_name": "Phường Thái Hòa",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "262963",
+    "name": "Phường Quang Tiến",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26913",
+    "new_name": "Phường Tây Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "328499",
+    "name": "Xã Đông Hiếu",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "27169",
+    "new_name": "Xã Đông Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "394035",
+    "name": "Xã Nghĩa Mỹ",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "27169",
+    "new_name": "Xã Đông Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "459571",
+    "name": "Xã Nghĩa Thuận",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "27169",
+    "new_name": "Xã Đông Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "525107",
+    "name": "Xã Nghĩa Tiến",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26913",
+    "new_name": "Phường Tây Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  },
+  {
+    "id": "590643",
+    "name": "Xã Tây Hiếu",
+    "district_id": "819",
+    "district_name": "Thị Xã Thái Hòa",
+    "province_id": "51",
+    "province_name": "Tỉnh Nghệ An",
+    "new_id": "26913",
+    "new_name": "Phường Tây Hiếu",
+    "new_province_id": "33",
+    "new_province_name": "Tỉnh Nghệ An"
+  }
+]

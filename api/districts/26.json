@@ -1,0 +1,82 @@
+[
+  {
+    "id": "282",
+    "name": "Thành Phố Phan Thiết",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "538",
+    "name": "Thị Xã La Gi",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "794",
+    "name": "Huyện Bắc Bình",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1050",
+    "name": "Huyện Hàm Tân",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1306",
+    "name": "Huyện Hàm Thuận Bắc",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1562",
+    "name": "Huyện Hàm Thuận Nam",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "1818",
+    "name": "Huyện Phú Quý",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "2074",
+    "name": "Huyện Đức Linh",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "2330",
+    "name": "Huyện Tánh Linh",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "2586",
+    "name": "Huyện Tuy Phong",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

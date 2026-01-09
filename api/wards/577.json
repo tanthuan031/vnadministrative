@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66113",
+    "name": "Xã Tân Quang",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5673",
+    "new_name": "Phường Bách Quang",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "131649",
+    "name": "Phường Lương Sơn",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5673",
+    "new_name": "Phường Bách Quang",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "197185",
+    "name": "Phường Bách Quang",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5673",
+    "new_name": "Phường Bách Quang",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "262721",
+    "name": "Phường Cải Đan",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5161",
+    "new_name": "Phường Sông Công",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "328257",
+    "name": "Phường Mỏ Chè",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5417",
+    "new_name": "Phường Bá Xuyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "393793",
+    "name": "Phường Phố Cò",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5161",
+    "new_name": "Phường Sông Công",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "459329",
+    "name": "Phường Thắng Lợi",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5161",
+    "new_name": "Phường Sông Công",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "524865",
+    "name": "Xã Bá Xuyên",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5417",
+    "new_name": "Phường Bá Xuyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "590401",
+    "name": "Xã Bình Sơn",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "11049",
+    "new_name": "Xã Tân Cương",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "655937",
+    "name": "Phường Châu Sơn",
+    "district_id": "577",
+    "district_name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_id": "5417",
+    "new_name": "Phường Bá Xuyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

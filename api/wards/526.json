@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66062",
+    "name": "Phường Bình Thuận",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19725",
+    "new_name": "Phường Hòa Cường",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "131598",
+    "name": "Phường Phước Ninh",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19469",
+    "new_name": "Phường Hải Châu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "328206",
+    "name": "Phường Thuận Phước",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19469",
+    "new_name": "Phường Hải Châu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "393742",
+    "name": "Phường Thanh Bình",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19469",
+    "new_name": "Phường Hải Châu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "459278",
+    "name": "Phường Thạch Thang",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19469",
+    "new_name": "Phường Hải Châu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "524814",
+    "name": "Phường Hòa Thuận Tây",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19725",
+    "new_name": "Phường Hòa Cường",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "655886",
+    "name": "Phường Hòa Cường Nam",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19725",
+    "new_name": "Phường Hòa Cường",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "721422",
+    "name": "Phường Hòa Cường Bắc",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19725",
+    "new_name": "Phường Hòa Cường",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "852494",
+    "name": "Phường Hải Châu",
+    "district_id": "526",
+    "district_name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "19469",
+    "new_name": "Phường Hải Châu",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

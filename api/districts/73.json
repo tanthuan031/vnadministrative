@@ -1,0 +1,74 @@
+[
+  {
+    "id": "329",
+    "name": "Thành Phố Yên Bái",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "585",
+    "name": "Thị Xã Nghĩa Lộ",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "841",
+    "name": "Huyện Lục Yên",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1097",
+    "name": "Huyện Mù Căng Chải",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1353",
+    "name": "Huyện Trấn Yên",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1609",
+    "name": "Huyện Trạm Tấu",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "1865",
+    "name": "Huyện Văn Chấn",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "2121",
+    "name": "Huyện Văn Yên",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  },
+  {
+    "id": "2377",
+    "name": "Huyện Yên Bình",
+    "province_id": "73",
+    "province_name": "Tỉnh Yên Bái",
+    "new_province_id": "32",
+    "new_province_name": "Tỉnh Lào Cai"
+  }
+]

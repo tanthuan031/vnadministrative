@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66066",
+    "name": "Xã Phong Thạnh Đông",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6931",
+    "new_name": "Phường Láng Tròn",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "131602",
+    "name": "Xã Phong Thạnh",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6675",
+    "new_name": "Phường Giá Rai",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "197138",
+    "name": "Xã Phong Tân",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6931",
+    "new_name": "Phường Láng Tròn",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "262674",
+    "name": "Xã Phong Thạnh A",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6675",
+    "new_name": "Phường Giá Rai",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "328210",
+    "name": "Xã Tân Thạnh",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7187",
+    "new_name": "Xã Phong Thạnh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "393746",
+    "name": "Phường Láng Tròn",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6931",
+    "new_name": "Phường Láng Tròn",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "459282",
+    "name": "Phường 1",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6675",
+    "new_name": "Phường Giá Rai",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "524818",
+    "name": "Phường Hộ Phòng",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "6675",
+    "new_name": "Phường Giá Rai",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "590354",
+    "name": "Xã Phong Thạnh Tây",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7187",
+    "new_name": "Xã Phong Thạnh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "655890",
+    "name": "Xã Tân Phong",
+    "district_id": "530",
+    "district_name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7187",
+    "new_name": "Xã Phong Thạnh",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

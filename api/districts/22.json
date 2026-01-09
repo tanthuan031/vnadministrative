@@ -1,0 +1,74 @@
+[
+  {
+    "id": "278",
+    "name": "Thành Phố Bến Tre",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "534",
+    "name": "Huyện Ba Tri",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "790",
+    "name": "Huyện Bình Đại",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1046",
+    "name": "Huyện Châu Thành",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1302",
+    "name": "Huyện Chợ Lách",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1558",
+    "name": "Huyện Giồng Trôm",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1814",
+    "name": "Huyện Mỏ Cày Nam",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "2070",
+    "name": "Huyện Thạnh Phú",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "2326",
+    "name": "Huyện Mỏ Cày Bắc",
+    "province_id": "22",
+    "province_name": "Tỉnh Bến Tre",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66100",
+    "name": "Phường Bắc Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3106",
+    "new_name": "Phường Tam Điệp",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "131636",
+    "name": "Phường Nam Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3618",
+    "new_name": "Phường Trung Sơn",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "197172",
+    "name": "Phường Tân Bình",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3362",
+    "new_name": "Phường Yên Sơn",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "262708",
+    "name": "Phường Tây Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3106",
+    "new_name": "Phường Tam Điệp",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "328244",
+    "name": "Phường Trung Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3618",
+    "new_name": "Phường Trung Sơn",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "393780",
+    "name": "Xã Đông Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3618",
+    "new_name": "Phường Trung Sơn",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "459316",
+    "name": "Xã Quang Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3106",
+    "new_name": "Phường Tam Điệp",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "524852",
+    "name": "Phường Yên Bình",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3874",
+    "new_name": "Phường Yên Thắng",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "590388",
+    "name": "Xã Yên Sơn",
+    "district_id": "564",
+    "district_name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_id": "3362",
+    "new_name": "Phường Yên Sơn",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  }
+]

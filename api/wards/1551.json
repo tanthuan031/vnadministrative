@@ -1,0 +1,86 @@
+[
+  {
+    "id": "67087",
+    "name": "Xã Giai Xuân",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5391",
+    "new_name": "Xã Phong Điền",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132623",
+    "name": "Thị Trấn Phong Điền",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5391",
+    "new_name": "Xã Phong Điền",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198159",
+    "name": "Xã Mỹ Khánh",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2575",
+    "new_name": "Phường An Bình",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263695",
+    "name": "Xã Nhơn Ái",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5647",
+    "new_name": "Xã Nhơn Ái",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "329231",
+    "name": "Xã Nhơn Nghĩa",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5647",
+    "new_name": "Xã Nhơn Ái",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394767",
+    "name": "Xã Tân Thới",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5391",
+    "new_name": "Xã Phong Điền",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460303",
+    "name": "Xã Trường Long",
+    "district_id": "1551",
+    "district_name": "Huyện Phong Điền",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "1807",
+    "new_name": "Xã Trường Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

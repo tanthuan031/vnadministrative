@@ -1,0 +1,122 @@
+[
+  {
+    "id": "269",
+    "name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "525",
+    "name": "Quận Hải An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "781",
+    "name": "Quận Hồng Bàng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1037",
+    "name": "Quận Kiến An",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1293",
+    "name": "Quận Lê Chân",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1549",
+    "name": "Quận Ngô Quyền",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1805",
+    "name": "Quận Đồ Sơn",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2061",
+    "name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2317",
+    "name": "Huyện An Lão",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2573",
+    "name": "Huyện Cát Hải",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "2829",
+    "name": "Huyện Kiến Thụy",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "3085",
+    "name": "Huyện Bạch Long Vĩ",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "3341",
+    "name": "Thành Phố Thủy Nguyên",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "3597",
+    "name": "Huyện Tiên Lãng",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "3853",
+    "name": "Huyện Vĩnh Bảo",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

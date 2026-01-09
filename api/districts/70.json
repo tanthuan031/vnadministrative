@@ -1,0 +1,58 @@
+[
+  {
+    "id": "326",
+    "name": "Thành Phố Tuyên Quang",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "582",
+    "name": "Huyện Chiêm Hóa",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "838",
+    "name": "Huyện Hàm Yên",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1094",
+    "name": "Huyện Na Hang",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1350",
+    "name": "Huyện Sơn Dương",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1606",
+    "name": "Huyện Yên Sơn",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1862",
+    "name": "Huyện Lâm Bình",
+    "province_id": "70",
+    "province_name": "Tỉnh Tuyên Quang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  }
+]

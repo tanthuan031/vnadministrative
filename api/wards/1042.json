@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66578",
+    "name": "Xã Vĩnh Thịnh",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10259",
+    "new_name": "Xã Vĩnh Hậu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132114",
+    "name": "Xã Vĩnh Hậu A",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10259",
+    "new_name": "Xã Vĩnh Hậu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "197650",
+    "name": "Xã Vĩnh Mỹ A",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "9747",
+    "new_name": "Xã Hòa Bình",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263186",
+    "name": "Thị Trấn Hòa Bình",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "9747",
+    "new_name": "Xã Hòa Bình",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "328722",
+    "name": "Xã Minh Diệu",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10003",
+    "new_name": "Xã Vĩnh Mỹ",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394258",
+    "name": "Xã Vĩnh Bình",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10003",
+    "new_name": "Xã Vĩnh Mỹ",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "459794",
+    "name": "Xã Vĩnh Hậu",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10259",
+    "new_name": "Xã Vĩnh Hậu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "525330",
+    "name": "Xã Vĩnh Mỹ B",
+    "district_id": "1042",
+    "district_name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "10003",
+    "new_name": "Xã Vĩnh Mỹ",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "68140",
+    "name": "Xã Ia Đal",
+    "district_id": "2604",
+    "district_name": "Huyện Ia H'Drai",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "1828",
+    "new_name": "Xã Ia Đal",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "133676",
+    "name": "Xã Ia Dom",
+    "district_id": "2604",
+    "district_name": "Huyện Ia H'Drai",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "2084",
+    "new_name": "Xã Ia Tơi",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "199212",
+    "name": "Xã Ia Tơi",
+    "district_id": "2604",
+    "district_name": "Huyện Ia H'Drai",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "2084",
+    "new_name": "Xã Ia Tơi",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "68667",
+    "name": "Thị Trấn Cô Tô",
+    "district_id": "3131",
+    "district_name": "Huyện Cô Tô",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12581",
+    "new_name": "Đặc Khu Cô Tô",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "134203",
+    "name": "Xã Đồng Tiến",
+    "district_id": "3131",
+    "district_name": "Huyện Cô Tô",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12581",
+    "new_name": "Đặc Khu Cô Tô",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  },
+  {
+    "id": "199739",
+    "name": "Xã Thanh Lân",
+    "district_id": "3131",
+    "district_name": "Huyện Cô Tô",
+    "province_id": "59",
+    "province_name": "Tỉnh Quảng Ninh",
+    "new_id": "12581",
+    "new_name": "Đặc Khu Cô Tô",
+    "new_province_id": "37",
+    "new_province_name": "Tỉnh Quảng Ninh"
+  }
+]

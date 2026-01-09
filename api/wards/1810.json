@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67346",
+    "name": "Xã Vĩnh Hưng",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "12051",
+    "new_name": "Xã Châu Thới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "132882",
+    "name": "Xã Châu Hưng A",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11539",
+    "new_name": "Xã Vĩnh Lợi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "198418",
+    "name": "Thị Trấn Châu Hưng",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11539",
+    "new_name": "Xã Vĩnh Lợi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "263954",
+    "name": "Xã Châu Thới",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "12051",
+    "new_name": "Xã Châu Thới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "329490",
+    "name": "Xã Hưng Hội",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11795",
+    "new_name": "Xã Hưng Hội",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "395026",
+    "name": "Xã Hưng Thành",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "11795",
+    "new_name": "Xã Hưng Hội",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "460562",
+    "name": "Xã Long Thạnh",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "9747",
+    "new_name": "Xã Hòa Bình",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "526098",
+    "name": "Xã Vĩnh Hưng A",
+    "district_id": "1810",
+    "district_name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "12051",
+    "new_name": "Xã Châu Thới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

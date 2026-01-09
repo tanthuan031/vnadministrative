@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67902",
+    "name": "Xã Dồm Cang",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18983",
+    "new_name": "Xã Púng Bánh",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "133438",
+    "name": "Xã Mường Lạn",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "1319",
+    "new_name": "Xã Mường Lạn",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "198974",
+    "name": "Xã Mường Và",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18727",
+    "new_name": "Xã Sốp Cộp",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "264510",
+    "name": "Xã Nậm Lạnh",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18727",
+    "new_name": "Xã Sốp Cộp",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "330046",
+    "name": "Xã Sốp Cộp",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18727",
+    "new_name": "Xã Sốp Cộp",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "395582",
+    "name": "Xã Mường Lèo",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "2087",
+    "new_name": "Xã Mường Lèo",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "461118",
+    "name": "Xã Púng Bánh",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18983",
+    "new_name": "Xã Púng Bánh",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  },
+  {
+    "id": "526654",
+    "name": "Xã Sam Kha",
+    "district_id": "2366",
+    "district_name": "Huyện Sốp Cộp",
+    "province_id": "62",
+    "province_name": "Tỉnh Sơn La",
+    "new_id": "18983",
+    "new_name": "Xã Púng Bánh",
+    "new_province_id": "39",
+    "new_province_name": "Tỉnh Sơn La"
+  }
+]

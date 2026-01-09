@@ -1,0 +1,122 @@
+[
+  {
+    "id": "69689",
+    "name": "Xã A Xan",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17165",
+    "new_name": "Xã Hùng Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "135225",
+    "name": "Xã Ch'ơm",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17165",
+    "new_name": "Xã Hùng Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "200761",
+    "name": "Xã Dang",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16909",
+    "new_name": "Xã Tây Giang",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "266297",
+    "name": "Xã Ga Ri",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17165",
+    "new_name": "Xã Hùng Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "331833",
+    "name": "Xã Tr'Hy",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "17165",
+    "new_name": "Xã Hùng Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "397369",
+    "name": "Xã A Nông",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16909",
+    "new_name": "Xã Tây Giang",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "462905",
+    "name": "Xã Lăng",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16909",
+    "new_name": "Xã Tây Giang",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "528441",
+    "name": "Xã A Tiêng",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16909",
+    "new_name": "Xã Tây Giang",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "593977",
+    "name": "Xã A Vương",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16653",
+    "new_name": "Xã Avương",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "659513",
+    "name": "Xã Bha Lê",
+    "district_id": "4153",
+    "district_name": "Huyện Tây Giang",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "16653",
+    "new_name": "Xã Avương",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

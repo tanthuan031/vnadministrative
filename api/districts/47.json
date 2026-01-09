@@ -1,0 +1,90 @@
+[
+  {
+    "id": "303",
+    "name": "Thành Phố Lạng Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "559",
+    "name": "Huyện Bắc Sơn",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "815",
+    "name": "Huyện Bình Gia",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "1071",
+    "name": "Huyện Cao Lộc",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "1327",
+    "name": "Huyện Chi Lăng",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "1583",
+    "name": "Huyện Hữu Lũng",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "1839",
+    "name": "Huyện Lộc Bình",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "2095",
+    "name": "Huyện Đình Lập",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "2351",
+    "name": "Huyện Tràng Định",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "2607",
+    "name": "Huyện Văn Lãng",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  },
+  {
+    "id": "2863",
+    "name": "Huyện Văn Quan",
+    "province_id": "47",
+    "province_name": "Tỉnh Lạng Sơn",
+    "new_province_id": "31",
+    "new_province_name": "Tỉnh Lạng Sơn"
+  }
+]

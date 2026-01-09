@@ -1,0 +1,74 @@
+[
+  {
+    "id": "328",
+    "name": "Thành Phố Vĩnh Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "584",
+    "name": "Thành Phố Phúc Yên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "840",
+    "name": "Huyện Bình Xuyên",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1096",
+    "name": "Huyện Lập Thạch",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1352",
+    "name": "Huyện Tam Dương",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1608",
+    "name": "Huyện Tam Đảo",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "1864",
+    "name": "Huyện Vĩnh Tường",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2120",
+    "name": "Huyện Yên Lạc",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "2376",
+    "name": "Huyện Sông Lô",
+    "province_id": "72",
+    "province_name": "Tỉnh Vĩnh Phúc",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

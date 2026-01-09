@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68395",
+    "name": "Xã Thổ Châu",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "15889",
+    "new_name": "Đặc Khu Thổ Châu",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "133931",
+    "name": "Xã Dương Tơ",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "199467",
+    "name": "Phường An Thới",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "265003",
+    "name": "Phường Dương Đông",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "330539",
+    "name": "Xã Bãi Thơm",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "396075",
+    "name": "Xã Cửa Cạn",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "461611",
+    "name": "Xã Cửa Dương",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "527147",
+    "name": "Xã Gành Dầu",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "592683",
+    "name": "Xã Hàm Ninh",
+    "district_id": "2859",
+    "district_name": "Thành Phố Phú Quốc",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25617",
+    "new_name": "Đặc Khu Phú Quốc",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

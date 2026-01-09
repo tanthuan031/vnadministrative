@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66059",
+    "name": "Phường Dịch Vọng Hậu",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "131595",
+    "name": "Phường Dịch Vọng",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "197131",
+    "name": "Phường Quan Hoa",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "262667",
+    "name": "Phường Mai Dịch",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "1035",
+    "new_name": "Phường Phú Diễn",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "328203",
+    "name": "Phường Nghĩa Đô",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "15115",
+    "new_name": "Phường Nghĩa Đô",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "393739",
+    "name": "Phường Nghĩa Tân",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "15115",
+    "new_name": "Phường Nghĩa Đô",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "459275",
+    "name": "Phường Trung Hòa",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "24075",
+    "new_name": "Phường Yên Hòa",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "524811",
+    "name": "Phường Yên Hòa",
+    "district_id": "523",
+    "district_name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "14859",
+    "new_name": "Phường Cầu Giấy",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  }
+]

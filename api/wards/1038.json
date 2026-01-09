@@ -1,0 +1,50 @@
+[
+  {
+    "id": "66574",
+    "name": "Phường Khuê Mỹ",
+    "district_id": "1038",
+    "district_name": "Quận Ngũ Hành Sơn",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21005",
+    "new_name": "Phường Ngũ Hành Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "132110",
+    "name": "Phường Hòa Quý",
+    "district_id": "1038",
+    "district_name": "Quận Ngũ Hành Sơn",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21005",
+    "new_name": "Phường Ngũ Hành Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "197646",
+    "name": "Phường Hòa Hải",
+    "district_id": "1038",
+    "district_name": "Quận Ngũ Hành Sơn",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21005",
+    "new_name": "Phường Ngũ Hành Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "263182",
+    "name": "Phường Mỹ An",
+    "district_id": "1038",
+    "district_name": "Quận Ngũ Hành Sơn",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_id": "21005",
+    "new_name": "Phường Ngũ Hành Sơn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

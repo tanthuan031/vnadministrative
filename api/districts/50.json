@@ -1,0 +1,74 @@
+[
+  {
+    "id": "306",
+    "name": "Thành Phố Nam Định",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "562",
+    "name": "Huyện Giao Thủy",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "818",
+    "name": "Huyện Hải Hậu",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1330",
+    "name": "Huyện Nam Trực",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1586",
+    "name": "Huyện Nghĩa Hưng",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1842",
+    "name": "Huyện Trực Ninh",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "2098",
+    "name": "Huyện Vụ Bản",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "2354",
+    "name": "Huyện Xuân Trường",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "2610",
+    "name": "Huyện Ý Yên",
+    "province_id": "50",
+    "province_name": "Tỉnh Nam Định",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  }
+]

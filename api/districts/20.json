@@ -1,0 +1,66 @@
+[
+  {
+    "id": "276",
+    "name": "Thành Phố Bắc Kạn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "532",
+    "name": "Huyện Ba Bể",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "788",
+    "name": "Huyện Bạch Thông",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1044",
+    "name": "Huyện Chợ Mới",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1300",
+    "name": "Huyện Chợ Đồn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1556",
+    "name": "Huyện Na Rì",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1812",
+    "name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "2068",
+    "name": "Huyện Pác Nặm",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

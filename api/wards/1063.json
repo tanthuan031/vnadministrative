@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66599",
+    "name": "Thị Trấn Mái Dầm",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12815",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132135",
+    "name": "Xã Phú Tân",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13327",
+    "new_name": "Xã Phú Hữu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197671",
+    "name": "Thị Trấn Ngã Sáu",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12815",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263207",
+    "name": "Xã Đông Phú",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12815",
+    "new_name": "Xã Châu Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328743",
+    "name": "Xã Đông Phước",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13327",
+    "new_name": "Xã Phú Hữu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394279",
+    "name": "Xã Đông Phước A",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13071",
+    "new_name": "Xã Đông Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459815",
+    "name": "Xã Đông Thạnh",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13071",
+    "new_name": "Xã Đông Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525351",
+    "name": "Xã Phú Hữu",
+    "district_id": "1063",
+    "district_name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13327",
+    "new_name": "Xã Phú Hữu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66065",
+    "name": "Phường Kim Dinh",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34316",
+    "new_name": "Phường Long Hương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "131601",
+    "name": "Phường Long Hương",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34316",
+    "new_name": "Phường Long Hương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197137",
+    "name": "Phường Long Tâm",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34572",
+    "new_name": "Phường Tam Long",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "262673",
+    "name": "Phường Long Toàn",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34060",
+    "new_name": "Phường Bà Rịa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "393745",
+    "name": "Phường Phước Hưng",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34060",
+    "new_name": "Phường Bà Rịa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459281",
+    "name": "Phường Phước Nguyên",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34060",
+    "new_name": "Phường Bà Rịa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "524817",
+    "name": "Phường Phước Trung",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34060",
+    "new_name": "Phường Bà Rịa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "590353",
+    "name": "Xã Hòa Long",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34572",
+    "new_name": "Phường Tam Long",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "655889",
+    "name": "Xã Long Phước",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34572",
+    "new_name": "Phường Tam Long",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "721425",
+    "name": "Xã Tân Hưng",
+    "district_id": "529",
+    "district_name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_id": "34316",
+    "new_name": "Phường Long Hương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66831",
+    "name": "Xã Đông Thắng",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "7183",
+    "new_name": "Xã Đông Hiệp",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132367",
+    "name": "Thị Trấn Cờ Đỏ",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "6927",
+    "new_name": "Xã Cờ Đỏ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197903",
+    "name": "Xã Đông Hiệp",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "7183",
+    "new_name": "Xã Đông Hiệp",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263439",
+    "name": "Xã Thạnh Phú",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "1295",
+    "new_name": "Xã Thạnh Phú",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328975",
+    "name": "Xã Thới Đông",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "6927",
+    "new_name": "Xã Cờ Đỏ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394511",
+    "name": "Xã Thới Hưng",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "1551",
+    "new_name": "Xã Thới Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460047",
+    "name": "Xã Thới Xuân",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "6927",
+    "new_name": "Xã Cờ Đỏ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525583",
+    "name": "Xã Trung An",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5135",
+    "new_name": "Phường Trung Nhứt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "591119",
+    "name": "Xã Trung Hưng",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "7439",
+    "new_name": "Xã Trung Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "656655",
+    "name": "Xã Trung Thạnh",
+    "district_id": "1295",
+    "district_name": "Huyện Cờ Đỏ",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "7439",
+    "new_name": "Xã Trung Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

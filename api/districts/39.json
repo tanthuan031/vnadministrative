@@ -1,0 +1,66 @@
+[
+  {
+    "id": "295",
+    "name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "551",
+    "name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "807",
+    "name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1063",
+    "name": "Huyện Châu Thành",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1319",
+    "name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1575",
+    "name": "Huyện Phụng Hiệp",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1831",
+    "name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "2087",
+    "name": "Huyện Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

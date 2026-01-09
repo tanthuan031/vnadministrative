@@ -1,0 +1,242 @@
+[
+  {
+    "id": "267",
+    "name": "Quận Ba Đình",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "523",
+    "name": "Quận Cầu Giấy",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "779",
+    "name": "Quận Hai Bà Trưng",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "1035",
+    "name": "Quận Hà Đông",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "1291",
+    "name": "Quận Hoàn Kiếm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "1547",
+    "name": "Quận Hoàng Mai",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "1803",
+    "name": "Quận Long Biên",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "2059",
+    "name": "Quận Đống Đa",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "2315",
+    "name": "Quận Tây Hồ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "2571",
+    "name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "2827",
+    "name": "Quận Bắc Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "3083",
+    "name": "Quận Nam Từ Liêm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "3339",
+    "name": "Thị Xã Sơn Tây",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "3595",
+    "name": "Huyện Ba Vì",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "3851",
+    "name": "Huyện Chương Mỹ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "4107",
+    "name": "Huyện Gia Lâm",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "4363",
+    "name": "Huyện Hoài Đức",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "4619",
+    "name": "Huyện Mê Linh",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "4875",
+    "name": "Huyện Mỹ Đức",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "5131",
+    "name": "Huyện Đan Phượng",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "5387",
+    "name": "Huyện Đông Anh",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "5643",
+    "name": "Huyện Ứng Hòa",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "5899",
+    "name": "Huyện Phú Xuyên",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "6155",
+    "name": "Huyện Phúc Thọ",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "6411",
+    "name": "Huyện Quốc Oai",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "6667",
+    "name": "Huyện Sóc Sơn",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "6923",
+    "name": "Huyện Thạch Thất",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "7179",
+    "name": "Huyện Thanh Oai",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "7435",
+    "name": "Huyện Thanh Trì",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "7691",
+    "name": "Huyện Thường Tín",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  }
+]

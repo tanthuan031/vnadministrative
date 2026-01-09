@@ -1,0 +1,82 @@
+[
+  {
+    "id": "297",
+    "name": "Thành Phố Hưng Yên",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "553",
+    "name": "Thị Xã Mỹ Hào",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "809",
+    "name": "Huyện Ân Thi",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1065",
+    "name": "Huyện Khoái Châu",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1321",
+    "name": "Huyện Kim Động",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1577",
+    "name": "Huyện Phù Cừ",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "1833",
+    "name": "Huyện Tiên Lữ",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "2089",
+    "name": "Huyện Văn Giang",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "2345",
+    "name": "Huyện Văn Lâm",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  },
+  {
+    "id": "2601",
+    "name": "Huyện Yên Mỹ",
+    "province_id": "41",
+    "province_name": "Tỉnh Hưng Yên",
+    "new_province_id": "27",
+    "new_province_name": "Tỉnh Hưng Yên"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "66085",
+    "name": "Phường Bắc Hồng",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "13850",
+    "new_name": "Phường Bắc Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": "131621",
+    "name": "Phường Đậu Liêu",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "14106",
+    "new_name": "Phường Nam Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": "197157",
+    "name": "Phường Đức Thuận",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "13850",
+    "new_name": "Phường Bắc Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": "262693",
+    "name": "Phường Nam Hồng",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "14106",
+    "new_name": "Phường Nam Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": "328229",
+    "name": "Phường Trung Lương",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "13850",
+    "new_name": "Phường Bắc Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "id": "393765",
+    "name": "Xã Thuận Lộc",
+    "district_id": "549",
+    "district_name": "Thị Xã Hồng Lĩnh",
+    "province_id": "37",
+    "province_name": "Tỉnh Hà Tĩnh",
+    "new_id": "14106",
+    "new_name": "Phường Nam Hồng Lĩnh",
+    "new_province_id": "26",
+    "new_province_name": "Tỉnh Hà Tĩnh"
+  }
+]

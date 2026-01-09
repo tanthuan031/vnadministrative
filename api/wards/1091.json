@@ -1,0 +1,110 @@
+[
+  {
+    "id": "132163",
+    "name": "Phường Hương Chữ",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2576",
+    "new_name": "Phường Kim Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "263235",
+    "name": "Phường Hương Vân",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2320",
+    "new_name": "Phường Hương Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "328771",
+    "name": "Phường Hương Văn",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2320",
+    "new_name": "Phường Hương Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "394307",
+    "name": "Phường Hương Xuân",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2576",
+    "new_name": "Phường Kim Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "459843",
+    "name": "Phường Tứ Hạ",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2320",
+    "new_name": "Phường Hương Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "525379",
+    "name": "Xã Bình Thành",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2832",
+    "new_name": "Xã Bình Điền",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "656451",
+    "name": "Xã Hương Bình",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2832",
+    "new_name": "Xã Bình Điền",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "853059",
+    "name": "Xã Hương Toàn",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2576",
+    "new_name": "Phường Kim Trà",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  },
+  {
+    "id": "984131",
+    "name": "Xã Bình Tiến",
+    "district_id": "1091",
+    "district_name": "Thị Xã Hương Trà",
+    "province_id": "67",
+    "province_name": "Thành Phố Huế",
+    "new_id": "2832",
+    "new_name": "Xã Bình Điền",
+    "new_province_id": "16",
+    "new_province_name": "Thành Phố Huế"
+  }
+]

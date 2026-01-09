@@ -1,0 +1,82 @@
+[
+  {
+    "id": "284",
+    "name": "Thành Phố Cao Bằng",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "540",
+    "name": "Huyện Bảo Lâm",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "796",
+    "name": "Huyện Bảo Lạc",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "1052",
+    "name": "Huyện Hạ Lang",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "1308",
+    "name": "Huyện Hà Quảng",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "1564",
+    "name": "Huyện Hòa An",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "1820",
+    "name": "Huyện Nguyên Bình",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "2588",
+    "name": "Huyện Thạch An",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "3356",
+    "name": "Huyện Trùng Khánh",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  },
+  {
+    "id": "3612",
+    "name": "Huyện Quảng Hòa",
+    "province_id": "28",
+    "province_name": "Tỉnh Cao Bằng",
+    "new_province_id": "20",
+    "new_province_name": "Tỉnh Cao Bằng"
+  }
+]

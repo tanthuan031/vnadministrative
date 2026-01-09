@@ -1,0 +1,98 @@
+[
+  {
+    "id": "65817",
+    "name": "Phường Tân Bình",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "131353",
+    "name": "Phường Tân Đồng",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "196889",
+    "name": "Phường Tân Phú",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "262425",
+    "name": "Phường Tân Thiện",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "327961",
+    "name": "Phường Tân Xuân",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "393497",
+    "name": "Xã Tiến Hưng",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17175",
+    "new_name": "Phường Bình Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "459033",
+    "name": "Phường Tiến Thành",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17431",
+    "new_name": "Phường Đồng Xoài",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "524569",
+    "name": "Xã Tân Thành",
+    "district_id": "281",
+    "district_name": "Thành Phố Đồng Xoài",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "17431",
+    "new_name": "Phường Đồng Xoài",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

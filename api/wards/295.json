@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65831",
+    "name": "Phường Ngã Bảy",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13839",
+    "new_name": "Phường Ngã Bảy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131367",
+    "name": "Xã Đại Thành",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13583",
+    "new_name": "Phường Đại Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "196903",
+    "name": "Phường Hiệp Lợi",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13583",
+    "new_name": "Phường Đại Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262439",
+    "name": "Phường Hiệp Thành",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13839",
+    "new_name": "Phường Ngã Bảy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "327975",
+    "name": "Phường Lái Hiếu",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13839",
+    "new_name": "Phường Ngã Bảy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393511",
+    "name": "Xã Tân Thành",
+    "district_id": "295",
+    "district_name": "Thành Phố Ngã Bảy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13583",
+    "new_name": "Phường Đại Thành",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

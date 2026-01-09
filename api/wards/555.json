@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66091",
+    "name": "Xã Tiên Hải",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "3345",
+    "new_name": "Xã Tiên Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "131627",
+    "name": "Phường Bình San",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16401",
+    "new_name": "Phường Hà Tiên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "197163",
+    "name": "Phường Đông Hồ",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16401",
+    "new_name": "Phường Hà Tiên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "262699",
+    "name": "Phường Pháo Đài",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16401",
+    "new_name": "Phường Hà Tiên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "328235",
+    "name": "Phường Tô Châu",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16657",
+    "new_name": "Phường Tô Châu",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "393771",
+    "name": "Phường Mỹ Đức",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16401",
+    "new_name": "Phường Hà Tiên",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "459307",
+    "name": "Xã Thuận Yên",
+    "district_id": "555",
+    "district_name": "Thành Phố Hà Tiên",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16657",
+    "new_name": "Phường Tô Châu",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66375",
+    "name": "Xã Mỹ Thuận",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10028",
+    "new_name": "Xã Mỹ Thuận",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "131911",
+    "name": "Xã Nguyễn Văn Thảnh",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10028",
+    "new_name": "Xã Mỹ Thuận",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "197447",
+    "name": "Xã Tân An Thạnh",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9772",
+    "new_name": "Xã Tân Lược",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "262983",
+    "name": "Xã Tân Bình",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9516",
+    "new_name": "Xã Tân Quới",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "328519",
+    "name": "Xã Thành Lợi",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9516",
+    "new_name": "Xã Tân Quới",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "459591",
+    "name": "Xã Tân Lược",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9772",
+    "new_name": "Xã Tân Lược",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "525127",
+    "name": "Thị Trấn Tân Quới",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9516",
+    "new_name": "Xã Tân Quới",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "590663",
+    "name": "Xã Tân Thành",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "9772",
+    "new_name": "Xã Tân Lược",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "656199",
+    "name": "Xã Thành Trung",
+    "district_id": "839",
+    "district_name": "Huyện Bình Tân",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10028",
+    "new_name": "Xã Mỹ Thuận",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

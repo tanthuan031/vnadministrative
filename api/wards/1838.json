@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67374",
+    "name": "Xã Đạ Sar",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "6430",
+    "new_name": "Xã Lạc Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "132910",
+    "name": "Thị Trấn Lạc Dương",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "3870",
+    "new_name": "Phường Lang Biang-Đà Lạt",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "198446",
+    "name": "Xã Đạ Chais",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "6430",
+    "new_name": "Xã Lạc Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "263982",
+    "name": "Xã Đạ Nhim",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "6430",
+    "new_name": "Xã Lạc Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "329518",
+    "name": "Xã Đưng Knớ",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "10014",
+    "new_name": "Xã Đam Rông 4",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "395054",
+    "name": "Xã Lát",
+    "district_id": "1838",
+    "district_name": "Huyện Lạc Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "3870",
+    "new_name": "Phường Lang Biang-Đà Lạt",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

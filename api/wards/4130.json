@@ -1,0 +1,122 @@
+[
+  {
+    "id": "69666",
+    "name": "Thị Trấn Phú Thiện",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15641",
+    "new_name": "Xã Phú Thiện",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "135202",
+    "name": "Xã Chư A Thai",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15897",
+    "new_name": "Xã Chư A Thai",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "200738",
+    "name": "Xã Ia Sol",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15641",
+    "new_name": "Xã Phú Thiện",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "266274",
+    "name": "Xã Ia Yeng",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15641",
+    "new_name": "Xã Phú Thiện",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "331810",
+    "name": "Xã Ayun Hạ",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15897",
+    "new_name": "Xã Chư A Thai",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "397346",
+    "name": "Xã Chrôh Pơnan",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "16153",
+    "new_name": "Xã Ia Hiao",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "462882",
+    "name": "Xã Ia Ake",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15897",
+    "new_name": "Xã Chư A Thai",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "528418",
+    "name": "Xã Ia Hiao",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "16153",
+    "new_name": "Xã Ia Hiao",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "593954",
+    "name": "Xã Ia Peng",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "16153",
+    "new_name": "Xã Ia Hiao",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "659490",
+    "name": "Xã Ia Piar",
+    "district_id": "4130",
+    "district_name": "Huyện Phú Thiện",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "15641",
+    "new_name": "Xã Phú Thiện",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

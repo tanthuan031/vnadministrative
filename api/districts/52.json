@@ -1,0 +1,58 @@
+[
+  {
+    "id": "564",
+    "name": "Thành Phố Tam Điệp",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "820",
+    "name": "Huyện Gia Viễn",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1076",
+    "name": "Thành Phố Hoa Lư",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1332",
+    "name": "Huyện Kim Sơn",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1588",
+    "name": "Huyện Nho Quan",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1844",
+    "name": "Huyện Yên Khánh",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "2100",
+    "name": "Huyện Yên Mô",
+    "province_id": "52",
+    "province_name": "Tỉnh Ninh Bình",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  }
+]

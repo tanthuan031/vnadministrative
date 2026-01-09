@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66348",
+    "name": "Thị Trấn Đắk Rve",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23844",
+    "new_name": "Xã Đăk Rve",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "131884",
+    "name": "Xã Đắk Kôi",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23332",
+    "new_name": "Xã Đăk Kôi",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "197420",
+    "name": "Xã Đắk Pne",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23844",
+    "new_name": "Xã Đăk Rve",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "262956",
+    "name": "Xã Đắk Ruồng",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23588",
+    "new_name": "Xã Kon Braih",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "328492",
+    "name": "Xã Đắk Tơ Lung",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23332",
+    "new_name": "Xã Đăk Kôi",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "394028",
+    "name": "Xã Đắk Tờ Re",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23588",
+    "new_name": "Xã Kon Braih",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "459564",
+    "name": "Xã Tân Lập",
+    "district_id": "812",
+    "district_name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "23588",
+    "new_name": "Xã Kon Braih",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

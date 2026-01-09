@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66365",
+    "name": "Xã Vĩnh Quới",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19215",
+    "new_name": "Phường Ngã Năm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131901",
+    "name": "Xã Long Bình",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19727",
+    "new_name": "Xã Tân Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197437",
+    "name": "Phường 2",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19215",
+    "new_name": "Phường Ngã Năm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262973",
+    "name": "Xã Mỹ Bình",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19471",
+    "new_name": "Phường Mỹ Quới",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328509",
+    "name": "Phường 1",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19215",
+    "new_name": "Phường Ngã Năm",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394045",
+    "name": "Xã Mỹ Quới",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19471",
+    "new_name": "Phường Mỹ Quới",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459581",
+    "name": "Xã Tân Long",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19727",
+    "new_name": "Xã Tân Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525117",
+    "name": "Phường 3",
+    "district_id": "829",
+    "district_name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "19471",
+    "new_name": "Phường Mỹ Quới",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

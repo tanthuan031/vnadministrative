@@ -1,0 +1,122 @@
+[
+  {
+    "id": "69410",
+    "name": "Thị Trấn Chư Ty",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "21529",
+    "new_name": "Xã Đức Cơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "134946",
+    "name": "Xã Ia Din",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "22041",
+    "new_name": "Xã Ia Krêl",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "200482",
+    "name": "Xã Ia Dơk",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "21785",
+    "new_name": "Xã Ia Dơk",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "266018",
+    "name": "Xã Ia Dom",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "1817",
+    "new_name": "Xã Ia Dom",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "331554",
+    "name": "Xã Ia Kla",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "21785",
+    "new_name": "Xã Ia Dơk",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "397090",
+    "name": "Xã Ia Krêl",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "22041",
+    "new_name": "Xã Ia Krêl",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "462626",
+    "name": "Xã Ia Kriêng",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "21529",
+    "new_name": "Xã Đức Cơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "528162",
+    "name": "Xã Ia Lang",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "22041",
+    "new_name": "Xã Ia Krêl",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "593698",
+    "name": "Xã Ia Nan",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "2073",
+    "new_name": "Xã Ia Nan",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "659234",
+    "name": "Xã Ia Pnôn",
+    "district_id": "3874",
+    "district_name": "Huyện Đức Cơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "2329",
+    "new_name": "Xã Ia Pnôn",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

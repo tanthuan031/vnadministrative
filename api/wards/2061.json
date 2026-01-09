@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67597",
+    "name": "Phường Đồng Thái",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "9742",
+    "new_name": "Phường An Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "198669",
+    "name": "Phường An Hòa",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11278",
+    "new_name": "Phường An Phong",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "526349",
+    "name": "Phường An Hải",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "9742",
+    "new_name": "Phường An Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "591885",
+    "name": "Phường Hồng Phong",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11278",
+    "new_name": "Phường An Phong",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "657421",
+    "name": "Phường Hồng Thái",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "9742",
+    "new_name": "Phường An Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "722957",
+    "name": "Phường Lê Lợi",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "9742",
+    "new_name": "Phường An Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "788493",
+    "name": "Phường Lê Thiện",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "11022",
+    "new_name": "Phường Hồng An",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "854029",
+    "name": "Phường Nam Sơn",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27662",
+    "new_name": "Phường An Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "985101",
+    "name": "Phường Tân Tiến",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27662",
+    "new_name": "Phường An Dương",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "1050637",
+    "name": "Phường An Đồng",
+    "district_id": "2061",
+    "district_name": "Quận An Dương",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "9742",
+    "new_name": "Phường An Hải",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

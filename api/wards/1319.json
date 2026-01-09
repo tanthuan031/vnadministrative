@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66855",
+    "name": "Thị Trấn Cái Tắc",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "13071",
+    "new_name": "Xã Đông Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132391",
+    "name": "Thị Trấn Một Ngàn",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12303",
+    "new_name": "Xã Tân Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197927",
+    "name": "Thị Trấn Rạch Gòi",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12047",
+    "new_name": "Xã Thạnh Xuân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263463",
+    "name": "Xã Nhơn Nghĩa A",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12303",
+    "new_name": "Xã Tân Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328999",
+    "name": "Xã Tân Hòa",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12303",
+    "new_name": "Xã Tân Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394535",
+    "name": "Thị Trấn Bảy Ngàn",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12303",
+    "new_name": "Xã Tân Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460071",
+    "name": "Xã Tân Phú Thạnh",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12047",
+    "new_name": "Xã Thạnh Xuân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525607",
+    "name": "Xã Thạnh Xuân",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12047",
+    "new_name": "Xã Thạnh Xuân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "591143",
+    "name": "Xã Trường Long A",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12559",
+    "new_name": "Xã Trường Long Tây",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "656679",
+    "name": "Xã Trường Long Tây",
+    "district_id": "1319",
+    "district_name": "Huyện Châu Thành A",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "12559",
+    "new_name": "Xã Trường Long Tây",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

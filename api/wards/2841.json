@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68377",
+    "name": "Xã Bù Nho",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "6167",
+    "new_name": "Xã Phú Riềng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "133913",
+    "name": "Xã Long Bình",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "24087",
+    "new_name": "Xã Bình Tân",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "199449",
+    "name": "Xã Long Hà",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "24343",
+    "new_name": "Xã Long Hà",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "264985",
+    "name": "Xã Long Hưng",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "24087",
+    "new_name": "Xã Bình Tân",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "330521",
+    "name": "Xã Phú Riềng",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "6167",
+    "new_name": "Xã Phú Riềng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "396057",
+    "name": "Xã Long Tân",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "24343",
+    "new_name": "Xã Long Hà",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "461593",
+    "name": "Xã Phú Trung",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "13079",
+    "new_name": "Xã Phú Trung",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "527129",
+    "name": "Xã Phước Tân",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "13079",
+    "new_name": "Xã Phú Trung",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "592665",
+    "name": "Xã Bình Sơn",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18455",
+    "new_name": "Phường Phước Bình",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "658201",
+    "name": "Xã Bình Tân",
+    "district_id": "2841",
+    "district_name": "Huyện Phú Riềng",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "24087",
+    "new_name": "Xã Bình Tân",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

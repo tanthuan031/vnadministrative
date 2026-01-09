@@ -1,0 +1,50 @@
+[
+  {
+    "id": "292",
+    "name": "Thành Phố Phủ Lý",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "548",
+    "name": "Huyện Bình Lục",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "804",
+    "name": "Thị Xã Duy Tiên",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1060",
+    "name": "Thị Xã Kim Bảng",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1316",
+    "name": "Huyện Lý Nhân",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  },
+  {
+    "id": "1572",
+    "name": "Huyện Thanh Liêm",
+    "province_id": "36",
+    "province_name": "Tỉnh Hà Nam",
+    "new_province_id": "34",
+    "new_province_name": "Tỉnh Ninh Bình"
+  }
+]

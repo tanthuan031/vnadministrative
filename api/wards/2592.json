@@ -1,0 +1,122 @@
+[
+  {
+    "id": "68128",
+    "name": "Thị Trấn Vĩnh An",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5399",
+    "new_name": "Xã Trị An",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "199200",
+    "name": "Xã Bình Lợi",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5911",
+    "new_name": "Phường Tân Triều",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "330272",
+    "name": "Xã Mã Đà",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5399",
+    "new_name": "Xã Trị An",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "395808",
+    "name": "Xã Phú Lý",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "535",
+    "new_name": "Xã Phú Lý",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "461344",
+    "name": "Xã Tân An",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5655",
+    "new_name": "Xã Tân An",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "526880",
+    "name": "Xã Tân Bình",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5911",
+    "new_name": "Phường Tân Triều",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "592416",
+    "name": "Xã Thạnh Phú",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5911",
+    "new_name": "Phường Tân Triều",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "657952",
+    "name": "Xã Thiện Tân",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "16151",
+    "new_name": "Phường Trảng Dài",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "723488",
+    "name": "Xã Trị An",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5399",
+    "new_name": "Xã Trị An",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "789024",
+    "name": "Xã Vĩnh Tân",
+    "district_id": "2592",
+    "district_name": "Huyện Vĩnh Cửu",
+    "province_id": "32",
+    "province_name": "Tỉnh Đồng Nai",
+    "new_id": "5655",
+    "new_name": "Xã Tân An",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "263180",
+    "name": "Phường 13",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "524",
+    "new_name": "Phường Xóm Chiếu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "328716",
+    "name": "Phường 15",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "524",
+    "new_name": "Phường Xóm Chiếu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "394252",
+    "name": "Phường 16",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "524",
+    "new_name": "Phường Xóm Chiếu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459788",
+    "name": "Phường 18",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "524",
+    "new_name": "Phường Xóm Chiếu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "525324",
+    "name": "Phường 2",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "780",
+    "new_name": "Phường Vĩnh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "590860",
+    "name": "Phường 3",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "780",
+    "new_name": "Phường Vĩnh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "656396",
+    "name": "Phường 4",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "780",
+    "new_name": "Phường Vĩnh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "853004",
+    "name": "Phường 8",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "1036",
+    "new_name": "Phường Khánh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "918540",
+    "name": "Phường 9",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "1036",
+    "new_name": "Phường Khánh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "984076",
+    "name": "Phường 1",
+    "district_id": "1036",
+    "district_name": "Quận 4",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "780",
+    "new_name": "Phường Vĩnh Hội",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

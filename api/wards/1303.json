@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66839",
+    "name": "Phường Dĩ An",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "16908",
+    "new_name": "Phường Dĩ An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "132375",
+    "name": "Phường An Bình",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "16908",
+    "new_name": "Phường Dĩ An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197911",
+    "name": "Phường Bình Thắng",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42764",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263447",
+    "name": "Phường Bình An",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42764",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "328983",
+    "name": "Phường Đông Hòa",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42764",
+    "new_name": "Phường Đông Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "394519",
+    "name": "Phường Tân Bình",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "17164",
+    "new_name": "Phường Tân Đông Hiệp",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460055",
+    "name": "Phường Tân Đông Hiệp",
+    "district_id": "1303",
+    "district_name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "16908",
+    "new_name": "Phường Dĩ An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

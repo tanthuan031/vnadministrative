@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66092",
+    "name": "Xã Đắk Nên",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24356",
+    "new_name": "Xã Măng Bút",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "131628",
+    "name": "Xã Măng Buk",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24356",
+    "new_name": "Xã Măng Bút",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "197164",
+    "name": "Xã Ngok Tem",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24612",
+    "new_name": "Xã Kon Plông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "262700",
+    "name": "Thị Trấn Măng Đen",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24100",
+    "new_name": "Xã Măng Đen",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "328236",
+    "name": "Xã Đắk Tăng",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24100",
+    "new_name": "Xã Măng Đen",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "393772",
+    "name": "Xã Hiếu",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24612",
+    "new_name": "Xã Kon Plông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "459308",
+    "name": "Xã Măng Cành",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24100",
+    "new_name": "Xã Măng Đen",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "524844",
+    "name": "Xã Pờ Ê",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24612",
+    "new_name": "Xã Kon Plông",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "590380",
+    "name": "Xã Đắk Ring",
+    "district_id": "556",
+    "district_name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "24356",
+    "new_name": "Xã Măng Bút",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

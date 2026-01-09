@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66343",
+    "name": "Xã Tân Phú",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11791",
+    "new_name": "Phường Long Phú 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131879",
+    "name": "Phường Trà Lồng",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11791",
+    "new_name": "Phường Long Phú 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197415",
+    "name": "Xã Long Bình",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11279",
+    "new_name": "Phường Long Bình",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262951",
+    "name": "Xã Long Phú",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11791",
+    "new_name": "Phường Long Phú 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328487",
+    "name": "Xã Long Trị",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11535",
+    "new_name": "Phường Long Mỹ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394023",
+    "name": "Xã Long Trị A",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11535",
+    "new_name": "Phường Long Mỹ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459559",
+    "name": "Phường Vĩnh Tường",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11279",
+    "new_name": "Phường Long Bình",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "525095",
+    "name": "Phường Bình Thạnh",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11279",
+    "new_name": "Phường Long Bình",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "590631",
+    "name": "Phường Thuận An",
+    "district_id": "807",
+    "district_name": "Thị Xã Long Mỹ",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "11535",
+    "new_name": "Phường Long Mỹ",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

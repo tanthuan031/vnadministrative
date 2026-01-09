@@ -1,0 +1,86 @@
+[
+  {
+    "id": "67909",
+    "name": "Xã Đông Hải",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "812",
+    "new_name": "Xã Đông Hải",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "133445",
+    "name": "Xã Long Khánh",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "18988",
+    "new_name": "Xã Long Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "198981",
+    "name": "Xã Long Vĩnh",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "1324",
+    "new_name": "Xã Long Vĩnh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "264517",
+    "name": "Xã Ngũ Lạc",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "19500",
+    "new_name": "Xã Ngũ Lạc",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "330053",
+    "name": "Xã Đôn Châu",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "19244",
+    "new_name": "Xã Đôn Châu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "395589",
+    "name": "Xã Đôn Xuân",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "19244",
+    "new_name": "Xã Đôn Châu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "461125",
+    "name": "Thị Trấn Long Thành",
+    "district_id": "2373",
+    "district_name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_id": "18988",
+    "new_name": "Xã Long Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

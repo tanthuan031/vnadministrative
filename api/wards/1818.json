@@ -1,0 +1,38 @@
+[
+  {
+    "id": "67354",
+    "name": "Xã Long Hải",
+    "district_id": "1818",
+    "district_name": "Huyện Phú Quý",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "2078",
+    "new_name": "Đặc Khu Phú Quý",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "132890",
+    "name": "Xã Ngũ Phụng",
+    "district_id": "1818",
+    "district_name": "Huyện Phú Quý",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "2078",
+    "new_name": "Đặc Khu Phú Quý",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "198426",
+    "name": "Xã Tam Thanh",
+    "district_id": "1818",
+    "district_name": "Huyện Phú Quý",
+    "province_id": "26",
+    "province_name": "Tỉnh Bình Thuận",
+    "new_id": "2078",
+    "new_name": "Đặc Khu Phú Quý",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "321",
+    "name": "Thành Phố Thái Nguyên",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "577",
+    "name": "Thành Phố Sông Công",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "833",
+    "name": "Thành Phố Phổ Yên",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1089",
+    "name": "Huyện Đại Từ",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1345",
+    "name": "Huyện Đồng Hỷ",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1601",
+    "name": "Huyện Định Hóa",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "1857",
+    "name": "Huyện Phú Bình",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "2113",
+    "name": "Huyện Phú Lương",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "2369",
+    "name": "Huyện Võ Nhai",
+    "province_id": "65",
+    "province_name": "Tỉnh Thái Nguyên",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

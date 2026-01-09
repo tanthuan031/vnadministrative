@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66102",
+    "name": "Xã Hà Lộc",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23587",
+    "new_name": "Phường Phú Thọ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "131638",
+    "name": "Xã Hà Thạch",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23331",
+    "new_name": "Phường Phong Châu",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "197174",
+    "name": "Xã Phú Hộ",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23331",
+    "new_name": "Phường Phong Châu",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "262710",
+    "name": "Xã Thanh Minh",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23843",
+    "new_name": "Phường Âu Cơ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "328246",
+    "name": "Phường Thanh Vinh",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23843",
+    "new_name": "Phường Âu Cơ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "393782",
+    "name": "Xã Văn Lung",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23587",
+    "new_name": "Phường Phú Thọ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "459318",
+    "name": "Phường Âu Cơ",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23843",
+    "new_name": "Phường Âu Cơ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "524854",
+    "name": "Phường Hùng Vương",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23587",
+    "new_name": "Phường Phú Thọ",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  },
+  {
+    "id": "590390",
+    "name": "Phường Phong Châu",
+    "district_id": "566",
+    "district_name": "Thị Xã Phú Thọ",
+    "province_id": "54",
+    "province_name": "Tỉnh Phú Thọ",
+    "new_id": "23331",
+    "new_name": "Phường Phong Châu",
+    "new_province_id": "35",
+    "new_province_name": "Tỉnh Phú Thọ"
+  }
+]

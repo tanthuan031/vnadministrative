@@ -1,0 +1,98 @@
+[
+  {
+    "id": "67381",
+    "name": "Xã Nhị Hà",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13596",
+    "new_name": "Xã Phước Hà",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "132917",
+    "name": "Xã Phước Hà",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13596",
+    "new_name": "Xã Phước Hà",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "198453",
+    "name": "Xã Cà Ná",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13340",
+    "new_name": "Xã Cà Ná",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "263989",
+    "name": "Xã Phước Diêm",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13340",
+    "new_name": "Xã Cà Ná",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "329525",
+    "name": "Xã Phước Dinh",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "2844",
+    "new_name": "Xã Phước Dinh",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "395061",
+    "name": "Xã Phước Minh",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13084",
+    "new_name": "Xã Thuận Nam",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "460597",
+    "name": "Xã Phước Nam",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13084",
+    "new_name": "Xã Thuận Nam",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "526133",
+    "name": "Xã Phước Ninh",
+    "district_id": "1845",
+    "district_name": "Huyện Thuận Nam",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13084",
+    "new_name": "Xã Thuận Nam",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

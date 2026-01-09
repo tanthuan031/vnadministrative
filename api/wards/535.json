@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66071",
+    "name": "Phường Mỹ Phước",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "13836",
+    "new_name": "Phường Long Nguyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "131607",
+    "name": "Phường An Điền",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "13836",
+    "new_name": "Phường Long Nguyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "197143",
+    "name": "Phường Chánh Phú Hòa",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42252",
+    "new_name": "Phường Chánh Phú Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "262679",
+    "name": "Phường Hòa Lợi",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "41996",
+    "new_name": "Phường Hòa Lợi",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "328215",
+    "name": "Phường Tân Định",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "41996",
+    "new_name": "Phường Hòa Lợi",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "393751",
+    "name": "Phường Thới Hòa",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "15884",
+    "new_name": "Phường Thới Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "459287",
+    "name": "Phường An Tây",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "16140",
+    "new_name": "Phường Tây Nam",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "524823",
+    "name": "Xã Phú An",
+    "district_id": "535",
+    "district_name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "11276",
+    "new_name": "Phường Phú An",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66329",
+    "name": "Xã Long Giang",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18455",
+    "new_name": "Phường Phước Bình",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "131865",
+    "name": "Phường Long Phước",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18455",
+    "new_name": "Phường Phước Bình",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "197401",
+    "name": "Phường Long Thủy",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18711",
+    "new_name": "Phường Phước Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "262937",
+    "name": "Phường Phước Bình",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18455",
+    "new_name": "Phường Phước Bình",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "328473",
+    "name": "Phường Sơn Giang",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18711",
+    "new_name": "Phường Phước Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "394009",
+    "name": "Phường Thác Mơ",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18711",
+    "new_name": "Phường Phước Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "459545",
+    "name": "Xã Phước Tín",
+    "district_id": "793",
+    "district_name": "Thị Xã Phước Long",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "18711",
+    "new_name": "Phường Phước Long",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

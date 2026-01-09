@@ -1,0 +1,98 @@
+[
+  {
+    "id": "69163",
+    "name": "Xã Tân Thuận",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25105",
+    "new_name": "Xã Vĩnh Thuận",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "134699",
+    "name": "Xã Phong Đông",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25361",
+    "new_name": "Xã Vĩnh Phong",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "200235",
+    "name": "Thị Trấn Vĩnh Thuận",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25361",
+    "new_name": "Xã Vĩnh Phong",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "265771",
+    "name": "Xã Bình Minh",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24849",
+    "new_name": "Xã Vĩnh Bình",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "331307",
+    "name": "Xã Vĩnh Bình Bắc",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24849",
+    "new_name": "Xã Vĩnh Bình",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "396843",
+    "name": "Xã Vĩnh Bình Nam",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "24849",
+    "new_name": "Xã Vĩnh Bình",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "462379",
+    "name": "Xã Vĩnh Phong",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25361",
+    "new_name": "Xã Vĩnh Phong",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "527915",
+    "name": "Xã Vĩnh Thuận",
+    "district_id": "3627",
+    "district_name": "Huyện Vĩnh Thuận",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25105",
+    "new_name": "Xã Vĩnh Thuận",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

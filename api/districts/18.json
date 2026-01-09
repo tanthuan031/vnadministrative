@@ -1,0 +1,58 @@
+[
+  {
+    "id": "274",
+    "name": "Thành Phố Bạc Liêu",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "530",
+    "name": "Thị Xã Giá Rai",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "786",
+    "name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "1042",
+    "name": "Huyện Hòa Bình",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "1298",
+    "name": "Huyện Đông Hải",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "1554",
+    "name": "Huyện Phước Long",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "1810",
+    "name": "Huyện Vĩnh Lợi",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

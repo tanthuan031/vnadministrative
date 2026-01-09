@@ -1,0 +1,74 @@
+[
+  {
+    "id": "279",
+    "name": "Thành Phố Thủ Dầu Một",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "535",
+    "name": "Thành Phố Bến Cát",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "791",
+    "name": "Thành Phố Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1047",
+    "name": "Thành Phố Thuận An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1303",
+    "name": "Thành Phố Dĩ An",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1559",
+    "name": "Huyện Dầu Tiếng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1815",
+    "name": "Huyện Phú Giáo",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2071",
+    "name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2327",
+    "name": "Huyện Bắc Tân Uyên",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

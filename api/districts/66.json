@@ -1,0 +1,210 @@
+[
+  {
+    "id": "322",
+    "name": "Thành Phố Thanh Hóa",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "578",
+    "name": "Thị Xã Bỉm Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "834",
+    "name": "Thành Phố Sầm Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "1090",
+    "name": "Huyện Bá Thước",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "1346",
+    "name": "Huyện Cẩm Thủy",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "1602",
+    "name": "Huyện Hậu Lộc",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "1858",
+    "name": "Huyện Hà Trung",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "2114",
+    "name": "Huyện Hoằng Hóa",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "2370",
+    "name": "Huyện Lang Chánh",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "2626",
+    "name": "Huyện Mường Lát",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "2882",
+    "name": "Huyện Nga Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "3138",
+    "name": "Huyện Ngọc Lặc",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "3394",
+    "name": "Huyện Như Thanh",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "3650",
+    "name": "Huyện Như Xuân",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "3906",
+    "name": "Huyện Nông Cống",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "4418",
+    "name": "Huyện Quan Hóa",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "4674",
+    "name": "Huyện Quan Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "4930",
+    "name": "Huyện Quảng Xương",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "5186",
+    "name": "Huyện Thạch Thành",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "5442",
+    "name": "Huyện Thiệu Hóa",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "5698",
+    "name": "Huyện Thọ Xuân",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "5954",
+    "name": "Huyện Thường Xuân",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "6210",
+    "name": "Thị Xã Nghi Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "6466",
+    "name": "Huyện Triệu Sơn",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "6722",
+    "name": "Huyện Vĩnh Lộc",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  },
+  {
+    "id": "6978",
+    "name": "Huyện Yên Định",
+    "province_id": "66",
+    "province_name": "Tỉnh Thanh Hóa",
+    "new_province_id": "42",
+    "new_province_name": "Tỉnh Thanh Hóa"
+  }
+]

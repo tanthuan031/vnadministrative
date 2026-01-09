@@ -1,0 +1,90 @@
+[
+  {
+    "id": "280",
+    "name": "Thành Phố Quy Nhơn",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "536",
+    "name": "Thị Xã An Nhơn",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "792",
+    "name": "Huyện An Lão",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "1048",
+    "name": "Huyện Hoài Ân",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "1304",
+    "name": "Thị Xã Hoài Nhơn",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "1560",
+    "name": "Huyện Phù Cát",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "1816",
+    "name": "Huyện Phù Mỹ",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "2072",
+    "name": "Huyện Tây Sơn",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "2328",
+    "name": "Huyện Tuy Phước",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "2584",
+    "name": "Huyện Vân Canh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "2840",
+    "name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

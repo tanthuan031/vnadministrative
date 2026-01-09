@@ -1,0 +1,86 @@
+[
+  {
+    "id": "65837",
+    "name": "Phường Đông Phong",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5405",
+    "new_name": "Phường Tân Phong",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "131373",
+    "name": "Xã San Thàng",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5405",
+    "new_name": "Phường Tân Phong",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "196909",
+    "name": "Phường Đoàn Kết",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5661",
+    "new_name": "Phường Đoàn Kết",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "262445",
+    "name": "Phường Quyết Thắng",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5661",
+    "new_name": "Phường Đoàn Kết",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "327981",
+    "name": "Phường Tân Phong",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5405",
+    "new_name": "Phường Tân Phong",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "393517",
+    "name": "Xã Sùng Phài",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5661",
+    "new_name": "Phường Đoàn Kết",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "459053",
+    "name": "Phường Quyết Tiến",
+    "district_id": "301",
+    "district_name": "Thành Phố Lai Châu",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "5661",
+    "new_name": "Phường Đoàn Kết",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  }
+]

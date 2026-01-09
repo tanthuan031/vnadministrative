@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68107",
+    "name": "Phường Nhân Chính",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "24075",
+    "new_name": "Phường Yên Hòa",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "133643",
+    "name": "Phường Phương Liệt",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2571",
+    "new_name": "Phường Phương Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "264715",
+    "name": "Phường Thanh Xuân Trung",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "20747",
+    "new_name": "Phường Khương Đình",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "330251",
+    "name": "Phường Thượng Đình",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "20747",
+    "new_name": "Phường Khương Đình",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "395787",
+    "name": "Phường Hạ Đình",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "5131",
+    "new_name": "Phường Thanh Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "461323",
+    "name": "Phường Khương Đình",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2571",
+    "new_name": "Phường Phương Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "592395",
+    "name": "Phường Khương Mai",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2571",
+    "new_name": "Phường Phương Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "657931",
+    "name": "Phường Thanh Xuân Bắc",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "5131",
+    "new_name": "Phường Thanh Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  },
+  {
+    "id": "723467",
+    "name": "Phường Khương Trung",
+    "district_id": "2571",
+    "district_name": "Quận Thanh Xuân",
+    "province_id": "11",
+    "province_name": "Thành Phố Hà Nội",
+    "new_id": "2571",
+    "new_name": "Phường Phương Liệt",
+    "new_province_id": "11",
+    "new_province_name": "Thành Phố Hà Nội"
+  }
+]

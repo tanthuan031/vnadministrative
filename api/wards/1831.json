@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67367",
+    "name": "Thị Trấn Nàng Mau",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9487",
+    "new_name": "Xã Vị Thủy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132903",
+    "name": "Xã Vị Bình",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9999",
+    "new_name": "Xã Vị Thanh 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198439",
+    "name": "Xã Vị Đông",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9999",
+    "new_name": "Xã Vị Thanh 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263975",
+    "name": "Xã Vị Thắng",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9487",
+    "new_name": "Xã Vị Thủy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "329511",
+    "name": "Xã Vị Thanh",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9999",
+    "new_name": "Xã Vị Thanh 1",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "395047",
+    "name": "Xã Vị Thủy",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9743",
+    "new_name": "Xã Vĩnh Thuận Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460583",
+    "name": "Xã Vị Trung",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9487",
+    "new_name": "Xã Vị Thủy",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "526119",
+    "name": "Xã Vĩnh Thuận Tây",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9743",
+    "new_name": "Xã Vĩnh Thuận Đông",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "591655",
+    "name": "Xã Vĩnh Trung",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10255",
+    "new_name": "Xã Vĩnh Tường",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "657191",
+    "name": "Xã Vĩnh Tường",
+    "district_id": "1831",
+    "district_name": "Huyện Vị Thủy",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "10255",
+    "new_name": "Xã Vĩnh Tường",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

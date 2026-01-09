@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67340",
+    "name": "Phường Phú Thuận",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3340",
+    "new_name": "Phường Phú Thuận",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "132876",
+    "name": "Phường Tân Hưng",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19980",
+    "new_name": "Phường Tân Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "198412",
+    "name": "Phường Bình Thuận",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20236",
+    "new_name": "Phường Tân Thuận",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "263948",
+    "name": "Phường Phú Mỹ",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3340",
+    "new_name": "Phường Phú Thuận",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "329484",
+    "name": "Phường Tân Kiểng",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19980",
+    "new_name": "Phường Tân Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "395020",
+    "name": "Phường Tân Phong",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19980",
+    "new_name": "Phường Tân Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460556",
+    "name": "Phường Tân Phú",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "3596",
+    "new_name": "Phường Tân Mỹ",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "526092",
+    "name": "Phường Tân Quy",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "19980",
+    "new_name": "Phường Tân Hưng",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "591628",
+    "name": "Phường Tân Thuận Đông",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20236",
+    "new_name": "Phường Tân Thuận",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "657164",
+    "name": "Phường Tân Thuận Tây",
+    "district_id": "1804",
+    "district_name": "Quận 7",
+    "province_id": "12",
+    "province_name": "Thành Phố Hồ Chí Minh",
+    "new_id": "20236",
+    "new_name": "Phường Tân Thuận",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

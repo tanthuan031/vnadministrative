@@ -1,0 +1,98 @@
+[
+  {
+    "id": "68121",
+    "name": "Xã Đa Kia",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23831",
+    "new_name": "Xã Đa Kia",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "133657",
+    "name": "Xã Đak Ơ",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "1559",
+    "new_name": "Xã Đăk Ơ",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "199193",
+    "name": "Xã Đức Hạnh",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23575",
+    "new_name": "Xã Phú Nghĩa",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "264729",
+    "name": "Xã Phú Nghĩa",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23575",
+    "new_name": "Xã Phú Nghĩa",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "330265",
+    "name": "Xã Phú Văn",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23575",
+    "new_name": "Xã Phú Nghĩa",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "395801",
+    "name": "Xã Phước Minh",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23831",
+    "new_name": "Xã Đa Kia",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "461337",
+    "name": "Xã Bình Thắng",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23831",
+    "new_name": "Xã Đa Kia",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "526873",
+    "name": "Xã Bù Gia Mập",
+    "district_id": "2585",
+    "district_name": "Huyện Bù Gia Mập",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "2071",
+    "new_name": "Xã Bù Gia Mập",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

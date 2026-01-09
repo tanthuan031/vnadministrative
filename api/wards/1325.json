@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66861",
+    "name": "Xã Hố Mít",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3357",
+    "new_name": "Xã Pắc Ta",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "132397",
+    "name": "Xã Nậm Cần",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3869",
+    "new_name": "Xã Tân Uyên",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "197933",
+    "name": "Xã Nậm Sỏ",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3613",
+    "new_name": "Xã Nậm Sỏ",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "263469",
+    "name": "Xã Tà Mít",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3613",
+    "new_name": "Xã Nậm Sỏ",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "329005",
+    "name": "Thị Trấn Tân Uyên",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3869",
+    "new_name": "Xã Tân Uyên",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "394541",
+    "name": "Xã Mường Khoa",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "4125",
+    "new_name": "Xã Mường Khoa",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "460077",
+    "name": "Xã Pắc Ta",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3357",
+    "new_name": "Xã Pắc Ta",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "525613",
+    "name": "Xã Phúc Khoa",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "4125",
+    "new_name": "Xã Mường Khoa",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "591149",
+    "name": "Xã Thân Thuộc",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3869",
+    "new_name": "Xã Tân Uyên",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  },
+  {
+    "id": "656685",
+    "name": "Xã Trung Đồng",
+    "district_id": "1325",
+    "district_name": "Huyện Tân Uyên",
+    "province_id": "45",
+    "province_name": "Tỉnh Lai Châu",
+    "new_id": "3869",
+    "new_name": "Xã Tân Uyên",
+    "new_province_id": "29",
+    "new_province_name": "Tỉnh Lai Châu"
+  }
+]

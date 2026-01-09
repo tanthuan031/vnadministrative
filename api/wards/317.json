@@ -1,0 +1,110 @@
+[
+  {
+    "id": "65853",
+    "name": "Phường 1",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23567",
+    "new_name": "Phường Phú Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131389",
+    "name": "Phường 10",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "24079",
+    "new_name": "Phường Mỹ Xuyên",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "196925",
+    "name": "Phường 2",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23567",
+    "new_name": "Phường Phú Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262461",
+    "name": "Phường 3",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23567",
+    "new_name": "Phường Phú Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "327997",
+    "name": "Phường 4",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23567",
+    "new_name": "Phường Phú Lợi",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393533",
+    "name": "Phường 5",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23823",
+    "new_name": "Phường Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459069",
+    "name": "Phường 6",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23823",
+    "new_name": "Phường Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "524605",
+    "name": "Phường 7",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23823",
+    "new_name": "Phường Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "590141",
+    "name": "Phường 8",
+    "district_id": "317",
+    "district_name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "23823",
+    "new_name": "Phường Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

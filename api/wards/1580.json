@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67116",
+    "name": "Xã Pô Kô",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18980",
+    "new_name": "Xã Đăk Tô",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "132652",
+    "name": "Xã Văn Lem",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "19236",
+    "new_name": "Xã Kon Đào",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "198188",
+    "name": "Xã Đắk Rơ Nga",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18724",
+    "new_name": "Xã Ngọk Tụ",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "263724",
+    "name": "Xã Đắk Trăm",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "19236",
+    "new_name": "Xã Kon Đào",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "329260",
+    "name": "Xã Kon Đào",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "19236",
+    "new_name": "Xã Kon Đào",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "394796",
+    "name": "Xã Ngọk Tụ",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18724",
+    "new_name": "Xã Ngọk Tụ",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "460332",
+    "name": "Thị Trấn Đắk Tô",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18980",
+    "new_name": "Xã Đăk Tô",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "525868",
+    "name": "Xã Diên Bình",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18980",
+    "new_name": "Xã Đăk Tô",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "591404",
+    "name": "Xã Tân Cảnh",
+    "district_id": "1580",
+    "district_name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_id": "18980",
+    "new_name": "Xã Đăk Tô",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

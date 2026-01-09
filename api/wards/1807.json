@@ -1,0 +1,110 @@
+[
+  {
+    "id": "67343",
+    "name": "Phường Trung Nhứt",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5135",
+    "new_name": "Phường Trung Nhứt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132879",
+    "name": "Phường Tân Hưng",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4623",
+    "new_name": "Phường Thới Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "198415",
+    "name": "Phường Tân Lộc",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "2831",
+    "new_name": "Phường Tân Lộc",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263951",
+    "name": "Phường Thuận An",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "16143",
+    "new_name": "Phường Thốt Nốt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "329487",
+    "name": "Phường Thuận Hưng",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "16399",
+    "new_name": "Phường Thuận Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "395023",
+    "name": "Phường Trung Kiên",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "16399",
+    "new_name": "Phường Thuận Hưng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "460559",
+    "name": "Phường Thạnh Hòa",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "5135",
+    "new_name": "Phường Trung Nhứt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "526095",
+    "name": "Phường Thới Thuận",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "16143",
+    "new_name": "Phường Thốt Nốt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "591631",
+    "name": "Phường Thốt Nốt",
+    "district_id": "1807",
+    "district_name": "Quận Thốt Nốt",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "16143",
+    "new_name": "Phường Thốt Nốt",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

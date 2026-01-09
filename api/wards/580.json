@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66116",
+    "name": "Phường Long Thuận",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25112",
+    "new_name": "Phường Long Thuận",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "131652",
+    "name": "Xã Tân Trung",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25624",
+    "new_name": "Phường Sơn Qui",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "328260",
+    "name": "Phường 5",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "24856",
+    "new_name": "Phường Gò Công",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "393796",
+    "name": "Phường Long Chánh",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25368",
+    "new_name": "Phường Bình Xuân",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "459332",
+    "name": "Phường Long Hòa",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "24856",
+    "new_name": "Phường Gò Công",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "524868",
+    "name": "Phường Long Hưng",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25624",
+    "new_name": "Phường Sơn Qui",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "590404",
+    "name": "Xã Bình Đông",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25624",
+    "new_name": "Phường Sơn Qui",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "655940",
+    "name": "Xã Bình Xuân",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25368",
+    "new_name": "Phường Bình Xuân",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "721476",
+    "name": "Phường 1",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "24856",
+    "new_name": "Phường Gò Công",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "787012",
+    "name": "Phường 2",
+    "district_id": "580",
+    "district_name": "Thành Phố Gò Công",
+    "province_id": "68",
+    "province_name": "Tỉnh Tiền Giang",
+    "new_id": "25112",
+    "new_name": "Phường Long Thuận",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

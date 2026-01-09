@@ -1,0 +1,66 @@
+[
+  {
+    "id": "270",
+    "name": "Quận Cẩm Lệ",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "526",
+    "name": "Quận Hải Châu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "782",
+    "name": "Quận Liên Chiểu",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "1038",
+    "name": "Quận Ngũ Hành Sơn",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "1294",
+    "name": "Quận Sơn Trà",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "1550",
+    "name": "Quận Thanh Khê",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "1806",
+    "name": "Huyện Hòa Vang",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "2062",
+    "name": "Huyện Hoàng Sa",
+    "province_id": "14",
+    "province_name": "Thành Phố Đà Nẵng",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

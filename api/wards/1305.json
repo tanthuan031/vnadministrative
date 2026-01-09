@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66841",
+    "name": "Xã Thanh Hòa",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23063",
+    "new_name": "Xã Thiện Hưng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "132377",
+    "name": "Thị Trấn Thanh Bình",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23063",
+    "new_name": "Xã Thiện Hưng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "197913",
+    "name": "Xã Hưng Phước",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23319",
+    "new_name": "Xã Hưng Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "263449",
+    "name": "Xã Phước Thiện",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23319",
+    "new_name": "Xã Hưng Phước",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "328985",
+    "name": "Xã Tân Thành",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "22807",
+    "new_name": "Xã Tân Tiến",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "394521",
+    "name": "Xã Tân Tiến",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "22807",
+    "new_name": "Xã Tân Tiến",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  },
+  {
+    "id": "460057",
+    "name": "Xã Thiện Hưng",
+    "district_id": "1305",
+    "district_name": "Huyện Bù Đốp",
+    "province_id": "25",
+    "province_name": "Tỉnh Bình Phước",
+    "new_id": "23063",
+    "new_name": "Xã Thiện Hưng",
+    "new_province_id": "23",
+    "new_province_name": "Tỉnh Đồng Nai"
+  }
+]

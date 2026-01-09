@@ -1,0 +1,86 @@
+[
+  {
+    "id": "67607",
+    "name": "Xã Tân Hưng",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "14348",
+    "new_name": "Phường Bến Cát",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "133143",
+    "name": "Xã Cây Trường 2",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "14092",
+    "new_name": "Xã Trừ Văn Thố",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "198679",
+    "name": "Xã Hưng Hòa",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "42252",
+    "new_name": "Phường Chánh Phú Hòa",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "264215",
+    "name": "Xã Lai Hưng",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "14348",
+    "new_name": "Phường Bến Cát",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "329751",
+    "name": "Xã Long Nguyên",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "13836",
+    "new_name": "Phường Long Nguyên",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "395287",
+    "name": "Xã Trừ Văn Thố",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "14092",
+    "new_name": "Xã Trừ Văn Thố",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "460823",
+    "name": "Thị Trấn Lai Uyên",
+    "district_id": "2071",
+    "district_name": "Huyện Bàu Bàng",
+    "province_id": "23",
+    "province_name": "Tỉnh Bình Dương",
+    "new_id": "14092",
+    "new_name": "Xã Trừ Văn Thố",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

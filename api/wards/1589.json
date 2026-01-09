@@ -1,0 +1,74 @@
+[
+  {
+    "id": "67125",
+    "name": "Xã Công Hải",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14620",
+    "new_name": "Xã Công Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "132661",
+    "name": "Xã Lợi Hải",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14364",
+    "new_name": "Xã Thuận Bắc",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "198197",
+    "name": "Xã Bắc Phong",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14364",
+    "new_name": "Xã Thuận Bắc",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "263733",
+    "name": "Xã Bắc Sơn",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "13852",
+    "new_name": "Xã Ninh Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "329269",
+    "name": "Xã Phước Chiến",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14620",
+    "new_name": "Xã Công Hải",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "394805",
+    "name": "Xã Phước Kháng",
+    "district_id": "1589",
+    "district_name": "Huyện Thuận Bắc",
+    "province_id": "53",
+    "province_name": "Tỉnh Ninh Thuận",
+    "new_id": "14364",
+    "new_name": "Xã Thuận Bắc",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

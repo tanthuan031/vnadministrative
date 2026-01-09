@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66322",
+    "name": "Xã Ninh Quới",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "8211",
+    "new_name": "Xã Ninh Quới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "131858",
+    "name": "Xã Ninh Hòa",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7443",
+    "new_name": "Xã Hồng Dân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "197394",
+    "name": "Xã Ninh Thạnh Lợi",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7955",
+    "new_name": "Xã Ninh Thạnh Lợi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "262930",
+    "name": "Xã Ninh Thạnh Lợi A",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7955",
+    "new_name": "Xã Ninh Thạnh Lợi",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "328466",
+    "name": "Xã Lộc Ninh",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7443",
+    "new_name": "Xã Hồng Dân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "394002",
+    "name": "Xã Ninh Quới A",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "8211",
+    "new_name": "Xã Ninh Quới",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "459538",
+    "name": "Xã Vĩnh Lộc",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7699",
+    "new_name": "Xã Vĩnh Lộc",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "525074",
+    "name": "Xã Vĩnh Lộc A",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7699",
+    "new_name": "Xã Vĩnh Lộc",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  },
+  {
+    "id": "590610",
+    "name": "Thị Trấn Ngan Dừa",
+    "district_id": "786",
+    "district_name": "Huyện Hồng Dân",
+    "province_id": "18",
+    "province_name": "Tỉnh Bạc Liêu",
+    "new_id": "7443",
+    "new_name": "Xã Hồng Dân",
+    "new_province_id": "19",
+    "new_province_name": "Tỉnh Cà Mau"
+  }
+]

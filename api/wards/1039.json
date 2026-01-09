@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66575",
+    "name": "Phường Thới An",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4367",
+    "new_name": "Phường Ô Môn",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "132111",
+    "name": "Phường Thới Hòa",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4367",
+    "new_name": "Phường Ô Môn",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197647",
+    "name": "Phường Thới Long",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4623",
+    "new_name": "Phường Thới Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "263183",
+    "name": "Phường Châu Văn Liêm",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4367",
+    "new_name": "Phường Ô Môn",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328719",
+    "name": "Phường Long Hưng",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4623",
+    "new_name": "Phường Thới Long",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "394255",
+    "name": "Phường Phước Thới",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4879",
+    "new_name": "Phường Phước Thới",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459791",
+    "name": "Phường Trường Lạc",
+    "district_id": "1039",
+    "district_name": "Quận Ô Môn",
+    "province_id": "15",
+    "province_name": "Thành Phố Cần Thơ",
+    "new_id": "4879",
+    "new_name": "Phường Phước Thới",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

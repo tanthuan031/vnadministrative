@@ -1,0 +1,110 @@
+[
+  {
+    "id": "68376",
+    "name": "Xã Vĩnh Hiệp",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33561",
+    "new_name": "Xã Vĩnh Thịnh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "133912",
+    "name": "Xã Vĩnh Hòa",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33817",
+    "new_name": "Xã Vĩnh Quang",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "199448",
+    "name": "Xã Vĩnh Kim",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34073",
+    "new_name": "Xã Vĩnh Sơn",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "264984",
+    "name": "Xã Vĩnh Quang",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33817",
+    "new_name": "Xã Vĩnh Quang",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "330520",
+    "name": "Xã Vĩnh Thịnh",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33561",
+    "new_name": "Xã Vĩnh Thịnh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "396056",
+    "name": "Xã Vĩnh Thuận",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33817",
+    "new_name": "Xã Vĩnh Quang",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "461592",
+    "name": "Thị Trấn Vĩnh Thạnh",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33305",
+    "new_name": "Xã Vĩnh Thạnh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "527128",
+    "name": "Xã Vĩnh Hảo",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "33305",
+    "new_name": "Xã Vĩnh Thạnh",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "592664",
+    "name": "Xã Vĩnh Sơn",
+    "district_id": "2840",
+    "district_name": "Huyện Vĩnh Thạnh",
+    "province_id": "24",
+    "province_name": "Tỉnh Bình Định",
+    "new_id": "34073",
+    "new_name": "Xã Vĩnh Sơn",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

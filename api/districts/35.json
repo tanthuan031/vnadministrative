@@ -1,0 +1,90 @@
+[
+  {
+    "id": "291",
+    "name": "Thành Phố Hà Giang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "547",
+    "name": "Huyện Bắc Mê",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "803",
+    "name": "Huyện Bắc Quang",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1059",
+    "name": "Huyện Hoàng Su Phì",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1315",
+    "name": "Huyện Mèo Vạc",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1571",
+    "name": "Huyện Đồng Văn",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "1827",
+    "name": "Huyện Quang Bình",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "2083",
+    "name": "Huyện Quản Bạ",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "2339",
+    "name": "Huyện Vị Xuyên",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "2595",
+    "name": "Huyện Xín Mần",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  },
+  {
+    "id": "2851",
+    "name": "Huyện Yên Minh",
+    "province_id": "35",
+    "province_name": "Tỉnh Hà Giang",
+    "new_province_id": "43",
+    "new_province_name": "Tỉnh Tuyên Quang"
+  }
+]

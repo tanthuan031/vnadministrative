@@ -1,0 +1,82 @@
+[
+  {
+    "id": "275",
+    "name": "Thành Phố Bắc Giang",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "531",
+    "name": "Huyện Hiệp Hòa",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "787",
+    "name": "Huyện Lạng Giang",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1043",
+    "name": "Huyện Lục Nam",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1299",
+    "name": "Huyện Lục Ngạn",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1555",
+    "name": "Huyện Sơn Động",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "1811",
+    "name": "Huyện Tân Yên",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "2067",
+    "name": "Thị Xã Việt Yên",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "2579",
+    "name": "Huyện Yên Thế",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  },
+  {
+    "id": "2835",
+    "name": "Thị Xã Chũ",
+    "province_id": "19",
+    "province_name": "Tỉnh Bắc Giang",
+    "new_province_id": "18",
+    "new_province_name": "Tỉnh Bắc Ninh"
+  }
+]

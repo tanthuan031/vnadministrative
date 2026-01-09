@@ -1,0 +1,98 @@
+[
+  {
+    "id": "69154",
+    "name": "Xã An Thành",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11545",
+    "new_name": "Xã Đak Pơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "134690",
+    "name": "Xã Cư An",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11033",
+    "new_name": "Phường An Bình",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "200226",
+    "name": "Thị Trấn Đak Pơ",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11545",
+    "new_name": "Xã Đak Pơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "265762",
+    "name": "Xã Hà Tam",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11545",
+    "new_name": "Xã Đak Pơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "331298",
+    "name": "Xã Phú An",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11801",
+    "new_name": "Xã Ya Hội",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "396834",
+    "name": "Xã Tân An",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11033",
+    "new_name": "Phường An Bình",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "462370",
+    "name": "Xã Ya Hội",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11801",
+    "new_name": "Xã Ya Hội",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  },
+  {
+    "id": "527906",
+    "name": "Xã Yang Bắc",
+    "district_id": "3618",
+    "district_name": "Huyện Đăk Pơ",
+    "province_id": "34",
+    "province_name": "Tỉnh Gia Lai",
+    "new_id": "11545",
+    "new_name": "Xã Đak Pơ",
+    "new_province_id": "25",
+    "new_province_name": "Tỉnh Gia Lai"
+  }
+]

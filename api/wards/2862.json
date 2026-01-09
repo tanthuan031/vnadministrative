@@ -1,0 +1,110 @@
+[
+  {
+    "id": "133934",
+    "name": "Xã Đạ Ròn",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5150",
+    "new_name": "Xã Đơn Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "199470",
+    "name": "Thị Trấn Thạnh Mỹ",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5150",
+    "new_name": "Xã Đơn Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "265006",
+    "name": "Xã Ka Đô",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5406",
+    "new_name": "Xã Ka Đô",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "330542",
+    "name": "Xã Ka Đơn",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5662",
+    "new_name": "Xã Quảng Lập",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "396078",
+    "name": "Xã Lạc Lâm",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5406",
+    "new_name": "Xã Ka Đô",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "461614",
+    "name": "Xã Lạc Xuân",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5918",
+    "new_name": "Xã D'Ran",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "527150",
+    "name": "Xã Quảng Lập",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5662",
+    "new_name": "Xã Quảng Lập",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "592686",
+    "name": "Xã Tu Tra",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5150",
+    "new_name": "Xã Đơn Dương",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  },
+  {
+    "id": "658222",
+    "name": "Thị Trấn D'Ran",
+    "district_id": "2862",
+    "district_name": "Huyện Đơn Dương",
+    "province_id": "46",
+    "province_name": "Tỉnh Lâm Đồng",
+    "new_id": "5918",
+    "new_name": "Xã D'Ran",
+    "new_province_id": "30",
+    "new_province_name": "Tỉnh Lâm Đồng"
+  }
+]

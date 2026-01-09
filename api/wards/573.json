@@ -1,0 +1,122 @@
+[
+  {
+    "id": "66109",
+    "name": "Xã Vĩnh Tân",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18447",
+    "new_name": "Phường Vĩnh Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131645",
+    "name": "Xã Lai Hòa",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "527",
+    "new_name": "Xã Lai Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197181",
+    "name": "Phường 2",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18703",
+    "new_name": "Phường Vĩnh Châu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262717",
+    "name": "Xã Vĩnh Hải",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "783",
+    "new_name": "Xã Vĩnh Hải",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328253",
+    "name": "Xã Vĩnh Hiệp",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18959",
+    "new_name": "Phường Khánh Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393789",
+    "name": "Phường Vĩnh Phước",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18447",
+    "new_name": "Phường Vĩnh Phước",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459325",
+    "name": "Phường 1",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18703",
+    "new_name": "Phường Vĩnh Châu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "524861",
+    "name": "Xã Hòa Đông",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18959",
+    "new_name": "Phường Khánh Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "590397",
+    "name": "Phường Khánh Hòa",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18959",
+    "new_name": "Phường Khánh Hòa",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "655933",
+    "name": "Xã Lạc Hòa",
+    "district_id": "573",
+    "district_name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_id": "18703",
+    "new_name": "Phường Vĩnh Châu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

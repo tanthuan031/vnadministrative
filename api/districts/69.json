@@ -1,0 +1,74 @@
+[
+  {
+    "id": "325",
+    "name": "Thành Phố Trà Vinh",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "581",
+    "name": "Thị Xã Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "837",
+    "name": "Huyện Cầu Kè",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1093",
+    "name": "Huyện Cầu Ngang",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1349",
+    "name": "Huyện Càng Long",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1605",
+    "name": "Huyện Châu Thành",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "1861",
+    "name": "Huyện Tiểu Cần",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "2117",
+    "name": "Huyện Trà Cú",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "2373",
+    "name": "Huyện Duyên Hải",
+    "province_id": "69",
+    "province_name": "Tỉnh Trà Vinh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

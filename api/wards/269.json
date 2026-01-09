@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65805",
+    "name": "Phường Anh Dũng",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2574",
+    "new_name": "Phường Dương Kinh",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "131341",
+    "name": "Phường Đa Phúc",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27406",
+    "new_name": "Phường Hưng Đạo",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "196877",
+    "name": "Phường Hải Thành",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2574",
+    "new_name": "Phường Dương Kinh",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "262413",
+    "name": "Phường Hòa Nghĩa",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2574",
+    "new_name": "Phường Dương Kinh",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "327949",
+    "name": "Phường Hưng Đạo",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "27406",
+    "new_name": "Phường Hưng Đạo",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  },
+  {
+    "id": "393485",
+    "name": "Phường Tân Thành",
+    "district_id": "269",
+    "district_name": "Quận Dương Kinh",
+    "province_id": "13",
+    "province_name": "Thành Phố Hải Phòng",
+    "new_id": "2574",
+    "new_name": "Phường Dương Kinh",
+    "new_province_id": "14",
+    "new_province_name": "Thành Phố Hải Phòng"
+  }
+]

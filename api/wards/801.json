@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66337",
+    "name": "Phường An Bình B",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "2840",
+    "new_name": "Phường An Bình",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "131873",
+    "name": "Xã Bình Thạnh",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3096",
+    "new_name": "Phường Hồng Ngự",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "197409",
+    "name": "Xã Tân Hội",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3096",
+    "new_name": "Phường Hồng Ngự",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "262945",
+    "name": "Phường An Lạc",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3352",
+    "new_name": "Phường Thường Lạc",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "328481",
+    "name": "Phường An Lộc",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "2840",
+    "new_name": "Phường An Bình",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "394017",
+    "name": "Phường An Thạnh",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "3096",
+    "new_name": "Phường Hồng Ngự",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  },
+  {
+    "id": "459553",
+    "name": "Phường An Bình A",
+    "district_id": "801",
+    "district_name": "Thành Phố Hồng Ngự",
+    "province_id": "33",
+    "province_name": "Tỉnh Đồng Tháp",
+    "new_id": "2840",
+    "new_name": "Phường An Bình",
+    "new_province_id": "24",
+    "new_province_name": "Tỉnh Đồng Tháp"
+  }
+]

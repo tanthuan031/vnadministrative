@@ -1,0 +1,58 @@
+[
+  {
+    "id": "273",
+    "name": "Thành Phố Vũng Tàu",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "529",
+    "name": "Thành Phố Bà Rịa",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "785",
+    "name": "Huyện Châu Đức",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1041",
+    "name": "Huyện Côn Đảo",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1553",
+    "name": "Huyện Long Đất",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "1809",
+    "name": "Thành Phố Phú Mỹ",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  },
+  {
+    "id": "2065",
+    "name": "Huyện Xuyên Mộc",
+    "province_id": "17",
+    "province_name": "Tỉnh Bà Rịa-Vũng Tàu",
+    "new_province_id": "12",
+    "new_province_name": "Thành Phố Hồ Chí Minh"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "131399",
+    "name": "Phường 3",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5420",
+    "new_name": "Phường Phước Hậu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "196935",
+    "name": "Phường 1",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5164",
+    "new_name": "Phường Long Châu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "262471",
+    "name": "Phường 4",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5420",
+    "new_name": "Phường Phước Hậu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "328007",
+    "name": "Phường 5",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "4908",
+    "new_name": "Phường Thanh Đức",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "393543",
+    "name": "Phường 8",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5676",
+    "new_name": "Phường Tân Hạnh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "459079",
+    "name": "Phường 9",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5164",
+    "new_name": "Phường Long Châu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "524615",
+    "name": "Phường Tân Hòa",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5932",
+    "new_name": "Phường Tân Ngãi",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "590151",
+    "name": "Phường Tân Hội",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5932",
+    "new_name": "Phường Tân Ngãi",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "655687",
+    "name": "Phường Tân Ngãi",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5932",
+    "new_name": "Phường Tân Ngãi",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "721223",
+    "name": "Phường Trường An",
+    "district_id": "327",
+    "district_name": "Thành Phố Vĩnh Long",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "5164",
+    "new_name": "Phường Long Châu",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

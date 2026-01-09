@@ -1,0 +1,62 @@
+[
+  {
+    "id": "69419",
+    "name": "Xã Phú Lợi",
+    "district_id": "3883",
+    "district_name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16913",
+    "new_name": "Xã Giang Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "134955",
+    "name": "Xã Phú Mỹ",
+    "district_id": "3883",
+    "district_name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16913",
+    "new_name": "Xã Giang Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "200491",
+    "name": "Xã Tân Khánh Hòa",
+    "district_id": "3883",
+    "district_name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "16913",
+    "new_name": "Xã Giang Thành",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "266027",
+    "name": "Xã Vĩnh Điều",
+    "district_id": "3883",
+    "district_name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "17169",
+    "new_name": "Xã Vĩnh Điều",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "331563",
+    "name": "Xã Vĩnh Phú",
+    "district_id": "3883",
+    "district_name": "Huyện Giang Thành",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "17169",
+    "new_name": "Xã Vĩnh Điều",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

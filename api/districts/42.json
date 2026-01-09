@@ -1,0 +1,74 @@
+[
+  {
+    "id": "298",
+    "name": "Thành Phố Nha Trang",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "554",
+    "name": "Thành Phố Cam Ranh",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "810",
+    "name": "Thị Xã Ninh Hòa",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1066",
+    "name": "Huyện Cam Lâm",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1322",
+    "name": "Huyện Diên Khánh",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1578",
+    "name": "Huyện Khánh Sơn",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "1834",
+    "name": "Huyện Khánh Vĩnh",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "2090",
+    "name": "Huyện Trường Sa",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  },
+  {
+    "id": "2346",
+    "name": "Huyện Vạn Ninh",
+    "province_id": "42",
+    "province_name": "Tỉnh Khánh Hòa",
+    "new_province_id": "28",
+    "new_province_name": "Tỉnh Khánh Hòa"
+  }
+]

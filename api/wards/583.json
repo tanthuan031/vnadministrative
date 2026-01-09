@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66119",
+    "name": "Phường Thành Phước",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "1580",
+    "new_name": "Phường Cái Vồn",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "131655",
+    "name": "Phường Cái Vồn",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "1580",
+    "new_name": "Phường Cái Vồn",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "197191",
+    "name": "Xã Đông Bình",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10284",
+    "new_name": "Phường Đông Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "262727",
+    "name": "Xã Đông Thành",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10284",
+    "new_name": "Phường Đông Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "328263",
+    "name": "Xã Đông Thạnh",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10284",
+    "new_name": "Phường Đông Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "393799",
+    "name": "Xã Mỹ Hòa",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "1580",
+    "new_name": "Phường Cái Vồn",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "459335",
+    "name": "Xã Thuận An",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "1836",
+    "new_name": "Phường Bình Minh",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  },
+  {
+    "id": "524871",
+    "name": "Phường Đông Thuận",
+    "district_id": "583",
+    "district_name": "Thị Xã Bình Minh",
+    "province_id": "71",
+    "province_name": "Tỉnh Vĩnh Long",
+    "new_id": "10284",
+    "new_name": "Phường Đông Thành",
+    "new_province_id": "44",
+    "new_province_name": "Tỉnh Vĩnh Long"
+  }
+]

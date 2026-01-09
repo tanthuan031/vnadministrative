@@ -1,0 +1,110 @@
+[
+  {
+    "id": "66087",
+    "name": "Xã Tân Tiến",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9231",
+    "new_name": "Xã Hỏa Lựu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "131623",
+    "name": "Xã Hỏa Lựu",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9231",
+    "new_name": "Xã Hỏa Lựu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "197159",
+    "name": "Phường 1",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8719",
+    "new_name": "Phường Vị Thanh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "262695",
+    "name": "Phường 3",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8719",
+    "new_name": "Phường Vị Thanh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "328231",
+    "name": "Phường 4",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8975",
+    "new_name": "Phường Vị Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "393767",
+    "name": "Phường 5",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8975",
+    "new_name": "Phường Vị Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "459303",
+    "name": "Phường 7",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8719",
+    "new_name": "Phường Vị Thanh",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "524839",
+    "name": "Xã Hỏa Tiến",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "9231",
+    "new_name": "Xã Hỏa Lựu",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "590375",
+    "name": "Xã Vị Tân",
+    "district_id": "551",
+    "district_name": "Thành Phố Vị Thanh",
+    "province_id": "39",
+    "province_name": "Tỉnh Hậu Giang",
+    "new_id": "8975",
+    "new_name": "Phường Vị Tân",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]

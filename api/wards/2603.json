@@ -1,0 +1,50 @@
+[
+  {
+    "id": "68139",
+    "name": "Xã Hòn Tre",
+    "district_id": "2603",
+    "district_name": "Huyện Kiên Hải",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25873",
+    "new_name": "Đặc Khu Kiên Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "133675",
+    "name": "Xã Lại Sơn",
+    "district_id": "2603",
+    "district_name": "Huyện Kiên Hải",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25873",
+    "new_name": "Đặc Khu Kiên Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "199211",
+    "name": "Xã An Sơn",
+    "district_id": "2603",
+    "district_name": "Huyện Kiên Hải",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25873",
+    "new_name": "Đặc Khu Kiên Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  },
+  {
+    "id": "264747",
+    "name": "Xã Nam Du",
+    "district_id": "2603",
+    "district_name": "Huyện Kiên Hải",
+    "province_id": "43",
+    "province_name": "Tỉnh Kiên Giang",
+    "new_id": "25873",
+    "new_name": "Đặc Khu Kiên Hải",
+    "new_province_id": "17",
+    "new_province_name": "Tỉnh An Giang"
+  }
+]

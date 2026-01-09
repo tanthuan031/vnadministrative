@@ -1,0 +1,82 @@
+[
+  {
+    "id": "300",
+    "name": "Thành Phố Kon Tum",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "556",
+    "name": "Huyện Kon Plông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "812",
+    "name": "Huyện Kon Rẫy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "1068",
+    "name": "Huyện Đắk Glei",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "1324",
+    "name": "Huyện Đắk Hà",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "1580",
+    "name": "Huyện Đắk Tô",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "1836",
+    "name": "Huyện Ngọc Hồi",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "2092",
+    "name": "Huyện Sa Thầy",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "2348",
+    "name": "Huyện Tu Mơ Rông",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "id": "2604",
+    "name": "Huyện Ia H'Drai",
+    "province_id": "44",
+    "province_name": "Tỉnh Kon Tum",
+    "new_province_id": "36",
+    "new_province_name": "Tỉnh Quảng Ngãi"
+  }
+]

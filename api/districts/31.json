@@ -1,0 +1,82 @@
+[
+  {
+    "id": "287",
+    "name": "Thành Phố Điện Biên Phủ",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "543",
+    "name": "Thị Xã Mường Lay",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "799",
+    "name": "Huyện Mường Ảng",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "1055",
+    "name": "Huyện Mường Chà",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "1311",
+    "name": "Huyện Mường Nhé",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "1567",
+    "name": "Huyện Điện Biên",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "1823",
+    "name": "Huyện Điện Biên Đông",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "2079",
+    "name": "Huyện Tuần Giáo",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "2335",
+    "name": "Huyện Tủa Chùa",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  },
+  {
+    "id": "2591",
+    "name": "Huyện Nậm Pồ",
+    "province_id": "31",
+    "province_name": "Tỉnh Điện Biên",
+    "new_province_id": "22",
+    "new_province_name": "Tỉnh Điện Biên"
+  }
+]

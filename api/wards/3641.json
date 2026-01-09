@@ -1,0 +1,122 @@
+[
+  {
+    "id": "69177",
+    "name": "Xã Tam Lộc",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2573",
+    "new_name": "Xã Tây Hồ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "134713",
+    "name": "Xã Tam Phước",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2573",
+    "new_name": "Xã Tây Hồ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "200249",
+    "name": "Xã Tam Thái",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2829",
+    "new_name": "Xã Chiên Đàn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "265785",
+    "name": "Xã Tam Thành",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2573",
+    "new_name": "Xã Tây Hồ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "331321",
+    "name": "Thị Trấn Phú Thịnh",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2829",
+    "new_name": "Xã Chiên Đàn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "396857",
+    "name": "Xã Tam An",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2573",
+    "new_name": "Xã Tây Hồ",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "462393",
+    "name": "Xã Tam Đại",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "3085",
+    "new_name": "Xã Phú Ninh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "527929",
+    "name": "Xã Tam Dân",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "3085",
+    "new_name": "Xã Phú Ninh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "593465",
+    "name": "Xã Tam Đàn",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "2829",
+    "new_name": "Xã Chiên Đàn",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  },
+  {
+    "id": "659001",
+    "name": "Xã Tam Lãnh",
+    "district_id": "3641",
+    "district_name": "Huyện Phú Ninh",
+    "province_id": "57",
+    "province_name": "Tỉnh Quảng Nam",
+    "new_id": "3085",
+    "new_name": "Xã Phú Ninh",
+    "new_province_id": "13",
+    "new_province_name": "Thành Phố Đà Nẵng"
+  }
+]

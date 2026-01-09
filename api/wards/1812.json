@@ -1,0 +1,122 @@
+[
+  {
+    "id": "67348",
+    "name": "Xã Trung Hòa",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "17193",
+    "new_name": "Xã Nà Phặc",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "132884",
+    "name": "Thị Trấn Nà Phặc",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "17193",
+    "new_name": "Xã Nà Phặc",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "198420",
+    "name": "Xã Bằng Vân",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15401",
+    "new_name": "Xã Bằng Vân",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "263956",
+    "name": "Xã Cốc Đán",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16937",
+    "new_name": "Xã Ngân Sơn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "329492",
+    "name": "Xã Đức Vân",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16937",
+    "new_name": "Xã Ngân Sơn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "395028",
+    "name": "Xã Hiệp Lực",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "17449",
+    "new_name": "Xã Hiệp Lực",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "460564",
+    "name": "Xã Thuần Mang",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "17449",
+    "new_name": "Xã Hiệp Lực",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "526100",
+    "name": "Xã Thượng Ân",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "15401",
+    "new_name": "Xã Bằng Vân",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "591636",
+    "name": "Xã Thượng Quan",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "297",
+    "new_name": "Xã Thượng Quan",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  },
+  {
+    "id": "657172",
+    "name": "Thị Trấn Vân Tùng",
+    "district_id": "1812",
+    "district_name": "Huyện Ngân Sơn",
+    "province_id": "20",
+    "province_name": "Tỉnh Bắc Kạn",
+    "new_id": "16937",
+    "new_name": "Xã Ngân Sơn",
+    "new_province_id": "41",
+    "new_province_name": "Tỉnh Thái Nguyên"
+  }
+]

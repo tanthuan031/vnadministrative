@@ -1,0 +1,90 @@
+[
+  {
+    "id": "317",
+    "name": "Thành Phố Sóc Trăng",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "573",
+    "name": "Thị Xã Vĩnh Châu",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "829",
+    "name": "Thị Xã Ngã Năm",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1085",
+    "name": "Huyện Cù Lao Dung",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1341",
+    "name": "Huyện Kế Sách",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1597",
+    "name": "Huyện Long Phú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "1853",
+    "name": "Huyện Mỹ Tú",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "2109",
+    "name": "Huyện Mỹ Xuyên",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "2365",
+    "name": "Huyện Thạnh Trị",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "2621",
+    "name": "Huyện Trần Đề",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  },
+  {
+    "id": "2877",
+    "name": "Huyện Châu Thành",
+    "province_id": "61",
+    "province_name": "Tỉnh Sóc Trăng",
+    "new_province_id": "15",
+    "new_province_name": "Thành Phố Cần Thơ"
+  }
+]
