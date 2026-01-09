@@ -10,7 +10,9 @@
 
 ## 🔗 API Endpoints (Raw JSON)
 
-### Cấu trúc CŨ (Old Structure)
+### Option 1: Complete Data Files
+
+#### Cấu trúc CŨ (Old Structure)
 
 ```
 https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/old_to_new.json
@@ -21,7 +23,7 @@ https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/old_to_new.j
 - `districts` - Quận/Huyện cũ → mới
 - `wards` - Xã/Phường cũ → mới
 
-### Cấu trúc MỚI (New Structure)
+#### Cấu trúc MỚI (New Structure)
 
 ```
 https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/new_to_old.json
@@ -30,6 +32,26 @@ https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/new_to_old.j
 **Bao gồm:**
 - `provinces` - Tỉnh/Thành mới → danh sách tỉnh cũ
 - `wards` - Xã/Phường mới → danh sách xã cũ
+
+### Option 2: API-Style (Recommended for Dropdowns)
+
+#### 1. Get All Provinces
+```
+https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/api/provinces.json
+```
+Returns: Array of 63 provinces
+
+#### 2. Get Districts by Province
+```
+https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/api/districts/{province_id}.json
+```
+Example: `api/districts/11.json` (Hà Nội)
+
+#### 3. Get Wards by District
+```
+https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/api/wards/{district_id}.json
+```
+Example: `api/wards/267.json` (Ba Đình)
 
 ## 💻 Cách Sử Dụng
 
@@ -56,6 +78,35 @@ async function getNewToOld() {
 const data = await getOldToNew();
 const ward = data.wards['65803'];
 console.log(`${ward.old_ward_name} → ${ward.new_ward_name}`);
+```
+
+### API-Style for Cascading Dropdowns (Recommended)
+
+```javascript
+const BASE_URL = 'https://raw.githubusercontent.com/tanthuan031/vnadministrative/main/api';
+
+// 1. Load provinces
+async function loadProvinces() {
+  const response = await fetch(`${BASE_URL}/provinces.json`);
+  return await response.json();
+}
+
+// 2. Load districts by province
+async function loadDistricts(provinceId) {
+  const response = await fetch(`${BASE_URL}/districts/${provinceId}.json`);
+  return await response.json();
+}
+
+// 3. Load wards by district
+async function loadWards(districtId) {
+  const response = await fetch(`${BASE_URL}/wards/${districtId}.json`);
+  return await response.json();
+}
+
+// Usage
+const provinces = await loadProvinces();
+const districts = await loadDistricts('11'); // Hà Nội
+const wards = await loadWards('267'); // Ba Đình
 ```
 
 ### Python
